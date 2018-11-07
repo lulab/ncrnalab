@@ -6,5 +6,9 @@ But the docs/ can be **publicly viewed** through github page: http://www.ncrnala
 
 ## known issue
 
-`RNAfinder/COME/bin` should link to `/home/hulong/COME/bin`
+1. RNAfinder
+
+RNAfinder/COME/bin -> /home/hulong/COME/bin
+RNAfinder/download_files_for_COME/HDF5 -> /home/hulong/github/download_files_for_COME/HDF5/
+RNAfinder/download_files_for_COME/models -> /home/hulong/github/download_files_for_COME/models/
 
