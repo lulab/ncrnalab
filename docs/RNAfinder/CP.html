@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)http://v3.bootcss.com/examples/justified-nav/# -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>COME</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./bootstrap/css/table.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./bootstrap/css/justified-nav.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="./bootstrap/js/ie-emulation-modes-warning.js"></script><style type="text/css"></style>
+
+	<script src="./js/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script></head>
+
+
+  <body>
+
+    <div class="container">
+
+      <div class="masthead">
+        <p>
+          <font size="20" face="arial" color="SteelBlue"><b>RNA</b></font>
+          <font size="20" face="arial" color="grey"><b>finder</b></font>
+        </p>
+        <ul class="nav nav-justified">
+          <li ><a href="./index.html">Home</a></li>
+          <li class="active"><a href="./CP.html">COME</a></li>
+          <li><a href="./NP.html">RNAfeature</a></li>
+          <li><a href="./Dataset.html">Data Sets</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+        </ul>
+      </div>
+<div class="load" style="display:none">
+<br>
+<p style="font-size:24px">Your job have been submited, please wait...</p> 
+
+<div id="resultLink"></div> 
+
+<br><br><br> Estimated Running Time:<br> 
+	<table class="ui-table" id="help">
+	    <thead>
+		<tr>
+		    <th>Transcript length</th>
+		    <th>Transcript number</th>
+		    <th>Runing time (seconds)</th>
+		</tr>
+	    </thead>
+		
+            <tbody>
+		<tr>
+			<td>[ 0.2k, 0.5k)</td><td>1000</td><td>63 ± 5</td>
+		</tr>
+		<tr>
+			<td>[ 0.5k, 1.0k)</td><td>1000</td><td>88 ± 27</td>
+		</tr>
+		<tr>
+			<td>[ 1.0k, 1.5k)</td><td>1000</td><td>81 ± 31</td>
+		</tr>
+		<tr>
+			<td>[ 1.5k, 2.0k)</td><td>1000</td><td>68 ± 10</td>
+		</tr>
+		<tr>
+			<td>random sampled</td><td>10</td><td>38 ± 13</td>
+		</tr>
+		<tr>
+			<td>random sampled</td><td>100</td><td>72 ± 18</td>
+		</tr>
+		<tr>
+			<td>random sampled</td><td>1000</td><td>76 ± 8</td>
+		</tr>
+            </tbody>
+            </table> 
+
+
+</div>
+
+<div id = "change">
+ <div>
+
+        <h2>COME web site</h2>
+	<p style = "font-size: 20px;">
+	<b><font color="Green">COME</font></b> is a tool to calculate <b><font color="Green">CO</font></b>ding potential from <b><font color="Green">M</font></b>ultiple f<b><font color="Green">E</font></b>atures for a given transcript. 
+	<br>The models in COME were trained on mRNAs and <b>long ncRNAs</b> (<b>lncRNAs</b>).
+	</p>
+ </div>
+
+<br>
+ <div>
+        <h3>Software download</h3>
+	<div class="well">
+	<p style = "font-size: 20px;">
+	<strong><font color=Green>COME</font><font color=grey></font></strong> for coding potential calculation can be downloaded at
+	<a href="https://github.com/lulab/COME">github</a>
+	</p>
+	</div>	
+ </div>
+
+
+
+
+      <div>
+        <h3>Server(beta)</h3>
+     </div>
+
+<div>
+<!--
+	<form name="demoForm" id="demoForm" method="post" enctype="multipart/form-data" onsubmit="return validate_form(this)"  action="come.php"> 
+-->
+	<div class="well">
+	<p class="text-muted"><font size="4"><b>1st step</b><br>Select genome (genome version: human (hg19), mouse (mm10), fly (dm3), worm (ce10) and plant (TAIR10)):
+</font></p>
+	<p>
+	<select name="Species" size="1" id="species" onchange="change_example(this.value)">
+          <option value="human" selected="selected">Human</option> 
+	  <option value="mouse">Mouse</option> 
+	  <option value="worm">Worm</option> 
+	  <option value="fly">Fly</option> 
+	  <option value="plant">Plant</option> 
+        </select>	
+	</p>
+	<br>
+	<p class="text-muted"><font size="4"><b>2nd step</b><br>Upload the coordinate file (format: <a href="http://genome.ucsc.edu/FAQ/FAQformat.html">gtf</a>, size limit:<b><1M</b>) for your <b>RNA transcripts</b>:</font> 
+
+	
+	<input type="file" name="file" id = "file-input" /> </p>
+	<br>
+	<p class="text-muted"><font size="4">Or<br><br>Paste the coordinates of your <b>RNA transcripts</b> in <a href="http://genome.ucsc.edu/FAQ/FAQformat.html">gtf</a> format here:</font></p>
+	<p>
+<pre>
+	<textarea style="width:800px; height:200px;position: relative; left: -70px;" id="text" name="text" cols="40" rows="30" id="text" >
+</textarea>
+</pre>
+	</p>
+	<button class="btn btn-primary" type="button" onclick = "validate_form()">Run</button>
+<!--
+	<p><input class="btn btn-primary" type="submit" value="Submit" role="button"  /></p> 
+	</form>
+-->
+	<p><br>
+
+	<a style="font-size:20px" href="./help.html">Help</a>
+<br>The server has been tested for Chrome, Safari and Firefox on MAC; Chrome, Safari, Firefox and IE on Windows.</p>
+</div>
+	</div>
+<br>
+<br>
+
+      <!-- Site footer -->
+      <div class="footer">
+      <center>
+        <p><a href="http://bioinfo.life.tsinghua.edu.cn">&copy; 2016 lulab @ Tsinghua</a></p>
+      <!-- Start of StatCounter Code for Default Guide -->
+        <script type="text/javascript">
+        var sc_project=9970854;
+        var sc_invisible=0;
+        var sc_security="b558f75d";
+        var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+        document.write("<sc"+"ript type='text/javascript' src='" +
+        scJsHost+
+        "statcounter.com/counter/counter.js'></"+"script>");
+        </script>
+        <noscript><div class="statcounter"><a title="web stats"
+        href="http://statcounter.com/free-web-stats/"
+        target="_blank"><img class="statcounter"
+        src="http://c.statcounter.com/9970854/0/b558f75d/0/"
+        alt="web stats"></a></div></noscript>
+      <!-- End of StatCounter Code for Default Guide -->
+      </center>
+      </div>
+
+    </div> <!-- /container -->
+
+</div>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script type="text/javascript">
+        change_example("human");	
+	function change_example(species){
+	  $.ajax({
+           url : "come/"+species+".test.gtf ",
+           dataType: "text",
+           success : function (data) {
+           //    $("#text").text(data);
+ document.getElementById('text').value = data;
+           }
+       	   });
+	}
+  </script>
+    <script src="./bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+  
+
+    <script type="text/javascript" src="./public/js/cp.js"></script>
+</body></html>

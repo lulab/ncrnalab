@@ -1,0 +1,25 @@
+You have specified COME's bin folder as /var/www/html/RNAfinder/come/bin
+The input file's name is : input
+You have specified the species as human
+Pre-processing is done
+Transcripts length calculation is done
+Transcripts index calculation is done
+Transcripts upstream index calculation is done
+Loading required package: methods
+[1] "chr11.+"
+[1] "chr11.-"
+[1] "chr1.+"
+[1] "chr1.-"
+[1] "chr10.+"
+Loading required package: methods
+[1] "chr11.+"
+[1] "chr11.-"
+[1] "chr1.+"
+[1] "chr1.-"
+[1] "chr10.+"
+Transcripts matrix construction is done
+randomForest 4.6-10
+Type rfNews() to see new features/changes/bug fixes.
+Coding potential prediction is done
+The transcript matrix is scaled successfully.
+3 subclasses were assigned. Output matrix is done.

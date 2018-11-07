@@ -1,0 +1,3 @@
+#! /bin/sh
+
+~shibinbin/Anaconda/bin/python JobMonServer.py -j 4 -d logs/jobs.sqlite  -p 4321 > logs/output.log 2> logs/error.log &

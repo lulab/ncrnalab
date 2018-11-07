@@ -1,0 +1,6 @@
+test	No matched sequence
+YAL060W	passed
+YAL059W	passed
+YAL058W	passed
+YAL053W	passed
+YAL049C	passed

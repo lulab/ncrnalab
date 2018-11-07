@@ -1,0 +1,19 @@
+#use root
+### Start Rserve ### 
+./dat/start_server.sh 
+### Stop Rserve ### 
+ps -A | grep Rserve
+killall Rserve
+
+### Start job monitor ###
+./start_job_monitor
+
+### Stop job monitor  ### 
+curl localhost:4321/shutdown
+
+## submit jobs
+curl 'localhost:4321/submit?name=job1&command=/home/huboqin/File/RNAfeature2/test_client.sh'
+
+##qstat
+curl localhost:4321/jobinfo
+
