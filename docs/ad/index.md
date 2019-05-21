@@ -66,7 +66,7 @@ layout: default
   * 协助进行试剂盒的开发、申报（**提供样本1000例以上**）及推广，具体合作事宜面议。
 
 
-> **[样本收集标准流程](https://lulab.github.io/exRNA/recruit/protocol_for_plasma_samples.pdf)**
+> **[样本收集标准流程](https://www.ncrnalab.org/ad/protocol_for_plasma_samples.pdf)**
 
 
 ## 合作方资质需求
