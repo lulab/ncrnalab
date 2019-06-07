@@ -32,7 +32,7 @@ layout: default
 
   本项目将基于基因组学和生物信息学，通过开发体液RNA微量测序技术和机器学习方法，在体液中发现和鉴定与癌症发生发展相关的新型exRNA标志物，应用于国内高致死癌症的早期诊断和预后辅助治疗。exRNA指的是胞外RNA，包括的类型很多，例如miRNA,Y RNA,circRNA,lncRNA等。RNA标志物与DNA和蛋白标志物相比，具有更好的敏感性、组织特异性和多样性，给更好的临床检验带来了新的期望。我们在新型非编码RNA和生物信息学研究方面积累了丰富经验，基于此，我们将在癌症病人体液（如血液）中发现和分析标志癌症发生发展的新型exRNA，并整合现有标志物构建多重标志物的智能模型，在大样本上进行验证，建立具有更高精准度和可重复性的无创检验方法。
 
-  我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了10余年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（Science 2010; Nature 2012; Nature 2014; [Nature Communications 2017](http://www.nature.com/articles/ncomms14421))，其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法exSEEK、RNAfinder（专利号：2016108069288）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)，发现了一些新的exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)，为癌症无创检测试剂盒的开发提供有力的支持。
+  我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了10余年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（Science 2010; Nature 2012; Nature 2014; Nature Communications 2017), 其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法exSEEK、RNAfinder（专利号：2016108069288）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)，发现了一些新的exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)，为癌症无创检测试剂盒的开发提供有力的支持。
 
 > 针对新型RNA的10余年研究经验和主要成果
 > ![针对新型RNA的10余年研究经验和主要成果](image/rna_study_10years.png)
@@ -88,36 +88,27 @@ layout: default
 
 ## 代表性论文
 
-> 1.  Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang*, Michael Q. Zhang* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup>contributed equally) (IF: 12) 
-
-> 2.  Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13) 
-
-> 3.  Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11) 
-
-> 4.  Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11) 
-
-> 5.  Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu***(2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **_Nucleic Acids Research_** 43(15): 7247-59\. (IF: 11)
+*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin*, Ti Zhang* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, * co-corresponding) (IF: 8) 
+* Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang*, Michael Q. Zhang* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, * co-corresponding) (IF: 12) 
+* Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13) 
+* Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11) 
+* Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11) 
+* Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu***(2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **_Nucleic Acids Research_** 43(15): 7247-59\. (<sup>1</sup>contributed equally) (IF: 11)
 
 ## 代表性合作
 
-> 1.  Sai Luo, J. Yuyang Lu, Lichao Liu, Yafei Yin, Chunyan Chen, Xue Han, Bohou Wu, Ronggang Xu, Wei Liu, Pixi Yan, Wen Shao, **Zhi Lu**, Haitao Li, Jie Na, Fuchou Tang, Jianlong Wang, Yong E. Zhang, Xiaohua Shen (2016) Divergent lncRNAs Regulate Gene Expression and Lineage Differentiation in Pluripotent Cells. **_Cell Stem Cell_** 18, 1–16
-
-> 2.  MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
-
-> 3.  ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
-
-> 4.  Gerstein MB <sup>1</sup>*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, *15 co-corresponding authors, ~150 authors in total) [Cover Story]
+* Sai Luo, J. Yuyang Lu, Lichao Liu, Yafei Yin, Chunyan Chen, Xue Han, Bohou Wu, Ronggang Xu, Wei Liu, Pixi Yan, Wen Shao, **Zhi Lu**, Haitao Li, Jie Na, Fuchou Tang, Jianlong Wang, Yong E. Zhang, Xiaohua Shen (2016) Divergent lncRNAs Regulate Gene Expression and Lineage Differentiation in Pluripotent Cells. **_Cell Stem Cell_** 18, 1–16
+* MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
+* ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
+* Gerstein MB <sup>1</sup>*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, *15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
 ## 相关专利
 
-> 基于机器学习的生物信息方法RNAfinder（专利号：2016108069288）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)
-
-> 超微量RNA捕获和测序技术i-SMART(专利申请号：201810607652X）
-
-> 针对肝癌的一个新exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)
-
-> 癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)
+* 基于机器学习的生物信息方法RNAfinder（专利号：2016108069288）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)
+* 超微量RNA捕获和测序技术i-SMART(专利申请号：201810607652X）
+* 针对肝癌的一个新exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)
+* 癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)
 
 
 ![主要专利](image/patent.png)
