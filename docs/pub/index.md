@@ -82,14 +82,13 @@ layout: default
 - **天津** 天津市肿瘤医院  
 - **重庆** 陆军军医大学  
 - **重庆** 重庆开州人民医院
-- **郑州** 郑州大学一附院  
 
 
 
 ## 代表性论文
 
-*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin*, Ti Zhang* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, * co-corresponding) (IF: 8) 
-* Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang*, Michael Q. Zhang* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, * co-corresponding) (IF: 12) 
+*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8) 
+* Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12) 
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13) 
 * Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11) 
 * Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11) 
@@ -100,7 +99,7 @@ layout: default
 * Sai Luo, J. Yuyang Lu, Lichao Liu, Yafei Yin, Chunyan Chen, Xue Han, Bohou Wu, Ronggang Xu, Wei Liu, Pixi Yan, Wen Shao, **Zhi Lu**, Haitao Li, Jie Na, Fuchou Tang, Jianlong Wang, Yong E. Zhang, Xiaohua Shen (2016) Divergent lncRNAs Regulate Gene Expression and Lineage Differentiation in Pluripotent Cells. **_Cell Stem Cell_** 18, 1–16
 * MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
 * ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
-* Gerstein MB <sup>1</sup>*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, *15 co-corresponding authors, ~150 authors in total) [Cover Story]
+* Gerstein MB <sup>1</sup>\*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, \* 15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
 ## 相关专利
