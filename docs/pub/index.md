@@ -97,7 +97,7 @@ layout: default
 
 ## 代表性合作
 
-–	Rui Xiao, Jia-Yu Chen, Zhengyu Liang, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu (2019) Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription. **_Cell_** 178, 107–121
+*	Rui Xiao, Jia-Yu Chen, Zhengyu Liang, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu (2019) Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription. **_Cell_** 178, 107–121
 * Sai Luo, J. Yuyang Lu, Lichao Liu, Yafei Yin, Chunyan Chen, Xue Han, Bohou Wu, Ronggang Xu, Wei Liu, Pixi Yan, Wen Shao, **Zhi Lu**, Haitao Li, Jie Na, Fuchou Tang, Jianlong Wang, Yong E. Zhang, Xiaohua Shen (2016) Divergent lncRNAs Regulate Gene Expression and Lineage Differentiation in Pluripotent Cells. **_Cell Stem Cell_** 18, 1–16
 * MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
 * ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
