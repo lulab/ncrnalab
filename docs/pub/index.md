@@ -24,9 +24,11 @@ layout: default
 
 ## 实验室简介
 
-  清华大学生命学院鲁志实验室致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
+  鲁志实验室（[实验室主页](http://www.ncrnalab.org)）隶属清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。本实验室已经建立了项目所需要的基本分子实验平台和计算平台，同时也依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
   
-> 实验室负责人鲁志([官方主页](http://life.tsinghua.edu.cn/publish/smkx/11230/2018/20180102030120630761402/20180102030120630761402_.html))博士，清华大学生命科学学院 研究员，博士生导师，国家“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章50余篇([Pulibcation List](http://bioinformatics.life.tsinghua.edu.cn/home/research&publications/publications.html)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章约20篇（影响因子10分以上的10篇）。
+  本实验室属于交叉科学实验室，致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
+      
+> 实验室负责人鲁志([个人官方主页](http://life.tsinghua.edu.cn/publish/smkx/11230/2018/20180102030120630761402/20180102030120630761402_.html))博士，清华大学生命科学学院 研究员，博士生导师，国家“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章50余篇([Pulibcation List](http://bioinformatics.life.tsinghua.edu.cn/home/research&publications/publications.html)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章约20篇（影响因子10分以上的10篇）。
   
  
 ## 项目简介
