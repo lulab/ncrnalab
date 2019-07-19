@@ -1,3 +1,3 @@
 ---
-redirect_to: "home/"
+redirect_to: "http://lulab.life.tsinghua.edu.cn/RNAex/"
 ---
