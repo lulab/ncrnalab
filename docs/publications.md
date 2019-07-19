@@ -26,7 +26,7 @@
 
   [View Detail](https://doi.org/10.1093/bib/bby006)
 
-- [spotlight]: Binbin Shi and **Zhi John Lu**\* (2018) **Decoding Plant RNA Structurome.**  *Molecular Plant* 11:3
+- \[spotlight\]: Binbin Shi and **Zhi John Lu**\* (2018) **Decoding Plant RNA Structurome.**  *Molecular Plant* 11:3
 
   [View Detail](https://www.cell.com/molecular-plant/abstract/S1674-2052(18)30099-6)
 
@@ -78,31 +78,31 @@
 
 ## 2016
 
-- Mengrong Liu1, Yu-Cheng T. Yang1, Gang Xu, Chang Tan, and **Zhi John Lu*** (2016) **CCG: an integrative resource of cancer protein-coding and long noncoding RNA genes.** *Discovery Medicine* 22 (123): 351-359 (1contributed equally)
+- Mengrong Liu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Gang Xu, Chang Tan, and **Zhi John Lu*** (2016) **CCG: an integrative resource of cancer protein-coding and long noncoding RNA genes.** *Discovery Medicine* 22 (123): 351-359 (<sup>1</sup>contributed equally)
 
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28147217) 
 
-- Yang Wu1, Rihao Qu1, Yiming Huang1, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) **RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data.** *Nucleic Acids Research* 44 (W1): W294-W301 (1contributed equally)
+- Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) **RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data.** *Nucleic Acids Research* 44 (W1): W294-W301 (<sup>1</sup>contributed equally)
 
   [View Details](http://nar.oxfordjournals.org/content/44/W1/W294.abstract) [Web Site](http://rnaex.ncrnalab.org/)
 
-- Jiapei Yuan1, Ye Zhang1, Jinsong Dong, Xinbao Sun, Yuzhe Sun, Boon L. Lim, Dong Liu\* and **Zhi John Lu\*** (2016) **Systematic characterization of novel lncRNAs responding to phosphate starvation in Arabidopsis thaliana.** *BMC Genomics* 17:655 (1contributed equally, *: co-corresponding authors)
+- Jiapei Yuan<sup>1</sup>, Ye Zhang<sup>1</sup>, Jinsong Dong, Xinbao Sun, Yuzhe Sun, Boon L. Lim, Dong Liu\* and **Zhi John Lu\*** (2016) **Systematic characterization of novel lncRNAs responding to phosphate starvation in Arabidopsis thaliana.** *BMC Genomics* 17:655 (<sup>1</sup>contributed equally, *: co-corresponding authors)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/27538394)
 
-- Baoping Cao1, Nanxi Song1, Meiying Zhang, Runsheng Chen, Youyong Lu, Runshen Chen\*, **Zhi John Lu\*** and Mingzhou Guo\* (2016) **Systematic study of novel lncRNAs in different gastrointestinal cancer cell lines.** *Discovery Medicine* 21(115):159-171 (1contributed equally, *: co-corresponding authors)
+- Baoping Cao<sup>1</sup>, Nanxi Song<sup>1</sup>, Meiying Zhang, Runsheng Chen, Youyong Lu, Runshen Chen\*, **Zhi John Lu\*** and Mingzhou Guo\* (2016) **Systematic study of novel lncRNAs in different gastrointestinal cancer cell lines.** *Discovery Medicine* 21(115):159-171 (<sup>1</sup>contributed equally, *: co-corresponding authors)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/27115166)
 
-- [review]: Xihao Hu1, Yang Wu1, **Zhi John Lu** and Kevin Y. Yip. (2016) **Analysis of Sequencing Data for Probing RNA Secondary Structures and Protein-RNA Binding in Studying Post-Transcriptional Regulations.** *Briefings in Bioinformatics* 17(6): 1032-1043 (1contributed equally)
+- \[review\]: Xihao Hu<sup>1</sup>, Yang Wu<sup>1</sup>, **Zhi John Lu** and Kevin Y. Yip. (2016) **Analysis of Sequencing Data for Probing RNA Secondary Structures and Protein-RNA Binding in Studying Post-Transcriptional Regulations.** *Briefings in Bioinformatics* 17(6): 1032-1043 (<sup>1</sup>contributed equally)
 
   [View Details](https://academic.oup.com/bib/article/17/6/1032/2606441)
 
-- Kejia Wen1, Lijuan Yang1, Tuanlin Xiong, Chao Di, Danhui Ma, Menghua Wu, Zhaoyu Xue, Xuedi Zhang, Li Long, Weimin Zhang, Jiaying Zhang, Xiaolin Bi, Junbiao Dai, Qiangfeng Zhang, **Zhi John Lu** and Guanjun Gao (2016) **Critical roles of long noncoding RNAs in Drosophila spermatogenesis.** *Genome Research* 26: 1233-1244 (1contributed equally)
+- Kejia Wen<sup>1</sup>, Lijuan Yang<sup>1</sup>, Tuanlin Xiong, Chao Di, Danhui Ma, Menghua Wu, Zhaoyu Xue, Xuedi Zhang, Li Long, Weimin Zhang, Jiaying Zhang, Xiaolin Bi, Junbiao Dai, Qiangfeng Zhang, **Zhi John Lu** and Guanjun Gao (2016) **Critical roles of long noncoding RNAs in Drosophila spermatogenesis.** *Genome Research* 26: 1233-1244 (<sup>1</sup>contributed equally)
 
   [View Details](http://genome.cshlp.org/content/26/9/1233.abstract)
 
-- Sibo Tao1, Ye Zhang1, Xiaoyue Wang, Xiaofeng Fang, Le Xu, **Zhi John Lu** and Dong Liu (2016) **The THO/TREX complex active in mRNA export suppresses root-associated acid phosphatase activity induced by phosphate starvation.** *Plant Physiology* 171(4):2841-53 (1contributed equally)
+- Sibo Tao<sup>1</sup>, Ye Zhang<sup>1</sup>, Xiaoyue Wang, Xiaofeng Fang, Le Xu, **Zhi John Lu** and Dong Liu (2016) **The THO/TREX complex active in mRNA export suppresses root-associated acid phosphatase activity induced by phosphate starvation.** *Plant Physiology* 171(4):2841-53 (<sup>1</sup>contributed equally)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/27329222)
 
@@ -114,7 +114,7 @@
 
 ## 2015
 
-- Yang Wu1, Binbin Shi1, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) **Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.** *Nucleic Acids Research* 43(15): 7247-59 (1contributed equally)
+- Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) **Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.** *Nucleic Acids Research* 43(15): 7247-59 (<sup>1</sup>contributed equally)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/26170232) [GitHub](https://github.com/lulab/RME)
 
@@ -122,7 +122,7 @@
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/25505163) [Web Site](http://rnafinder.ncrnalab.org/RNAfeature)
 
-- Yu-Cheng T. Yang1, Chao Di1, Boqin Hu1, Meifeng Zhou, Yifang Liu, Nanxi Song, Yang Li, Jumpei Umetsu and **Zhi John Lu\*** (2015) **CLIPdb: a CLIP-seq database for protein-RNA interactions.** *BMC Genomics* 16:51 (1contributed equally)
+- Yu-Cheng T. Yang<sup>1</sup>, Chao Di<sup>1</sup>, Boqin Hu<sup>1</sup>, Meifeng Zhou, Yifang Liu, Nanxi Song, Yang Li, Jumpei Umetsu and **Zhi John Lu\*** (2015) **CLIPdb: a CLIP-seq database for protein-RNA interactions.** *BMC Genomics* 16:51 (<sup>1</sup>contributed equally)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/25505163) [Web Site](http://rnatarget.ncrnalab.org/CLIPdb)
 
@@ -134,7 +134,7 @@
 
 ## 2014
 
-- Chao Di1, Jiapei Yuan1, Yue Wu, Jingrui Li, Huixin Lin, Long Hu, Ting Zhang, Yijun Qi, Mark B. Gerstein, Yan Guo and **Zhi John Lu\*** (2014) **Characterization of Stress-responsive lncRNAs in Arabidopsis thaliana by Integrating Expression, Epigenetic and Structural Features.** *The Plant Journal* 80(5), 848-861 (1contributed equally)
+- Chao Di<sup>1</sup>, Jiapei Yuan<sup>1</sup>, Yue Wu, Jingrui Li, Huixin Lin, Long Hu, Ting Zhang, Yijun Qi, Mark B. Gerstein, Yan Guo and **Zhi John Lu\*** (2014) **Characterization of Stress-responsive lncRNAs in Arabidopsis thaliana by Integrating Expression, Epigenetic and Structural Features.** *The Plant Journal* 80(5), 848-861 (<sup>1</sup>contributed equally)
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/25256571)
 
@@ -190,7 +190,7 @@
 
 ## 2011
 
-* **Lu ZJ**1, Yip KY1, Wang G, Shou C, Hillier LW, et al. (2011) **Prediction and characterization of noncoding RNAs in C. elegans by integrating conservation, secondary structure, and high-throughput sequencing and array data.** *Genome Research* 21: 276-285. (1contributed equally) [modENCODE special issue]
+* **Lu ZJ**<sup>1</sup>, Yip KY<sup>1</sup>, Wang G, Shou C, Hillier LW, et al. (2011) **Prediction and characterization of noncoding RNAs in C. elegans by integrating conservation, secondary structure, and high-throughput sequencing and array data.** *Genome Research* 21: 276-285. (<sup>1</sup>contributed equally) [modENCODE special issue]
 
   [View Details](http://genome.cshlp.org/content/21/2/276.full)
 
@@ -214,7 +214,7 @@
 
 ## 2010
 
-* Gerstein MB1*, **Lu ZJ1**, Van Nostrand EL1, Cheng C1, Arshinoff BI1, et al. **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project** *Science* 330(6012): 1775-1787 (1co-first authors; *co-corresponding authors) [Cover story]
+* Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story] 
 
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
 
@@ -226,7 +226,7 @@
 
 ## 2009
 
-* ** Lu ZJ**, Gloor JW, Mathews DH. (2009) **Improved RNA secondary structure prediction by maximizing expedted pair accuracy.** *RNA* 15:1805-1813.
+* **Lu ZJ**, Gloor JW, Mathews DH. (2009) **Improved RNA secondary structure prediction by maximizing expedted pair accuracy.** *RNA* 15:1805-1813.
 
   [View Details](http://rnajournal.cshlp.org/content/15/10/1805.short)
 
