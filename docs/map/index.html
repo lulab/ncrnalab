@@ -1,112 +1,235 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<body style="margin:0px;padding-right: 0px;">
-<div id="map" style="width:100%;height:900px;"></div>
-<script>
-function myMap() {
-  var myCenter = new google.maps.LatLng(40.0050090,116.3166892);
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {
-  	center: myCenter, 
-  	zoom: 15,
-  	mapTypeId: google.maps.MapTypeId.TERRAIN,
-  	styles: [
-            {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
-            {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
-            {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
-            {
-              featureType: 'administrative.locality',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#d59563'}]
-            },
-            {
-              featureType: 'poi',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#d59563'}]
-            },
-            {
-              featureType: 'poi.park',
-              elementType: 'geometry',
-              stylers: [{color: '#263c3f'}]
-            },
-            {
-              featureType: 'poi.park',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#6b9a76'}]
-            },
-            {
-              featureType: 'road',
-              elementType: 'geometry',
-              stylers: [{color: '#38414e'}]
-            },
-            {
-              featureType: 'road',
-              elementType: 'geometry.stroke',
-              stylers: [{color: '#212a37'}]
-            },
-            {
-              featureType: 'road',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#9ca5b3'}]
-            },
-            {
-              featureType: 'road.highway',
-              elementType: 'geometry',
-              stylers: [{color: '#746855'}]
-            },
-            {
-              featureType: 'road.highway',
-              elementType: 'geometry.stroke',
-              stylers: [{color: '#1f2835'}]
-            },
-            {
-              featureType: 'road.highway',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#f3d19c'}]
-            },
-            {
-              featureType: 'transit',
-              elementType: 'geometry',
-              stylers: [{color: '#2f3948'}]
-            },
-            {
-              featureType: 'transit.station',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#d59563'}]
-            },
-            {
-              featureType: 'water',
-              elementType: 'geometry',
-              stylers: [{color: '#17263c'}]
-            },
-            {
-              featureType: 'water',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#515c6d'}]
-            },
-            {
-              featureType: 'water',
-              elementType: 'labels.text.stroke',
-              stylers: [{color: '#17263c'}]
-            }
-          ],
-  };
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-  var marker = new google.maps.Marker({position:myCenter});
-  /*var infowindow = new google.maps.InfoWindow({
-    content: "Welcome to Lulab!<br>Rm 2-111 Biotech. Building, School of Life Sciences, Tsinghua University, Beijing 100084, China<br>Email: lulab AT biomed.tsinghua.edu.cn<br>Tel/FAX: +86-10-62789217"
-  });
-  infowindow.open(map,marker);*/
-  marker.setMap(map);
-}
-</script>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
- <script src="http://maps.google.cn/maps/api/js?key=AIzaSyCaouNs8i9Wgs4SymoqQFqea7ibk9kHwuM&language=en&callback=myMap"></script>
-<!--
-To use this code on your website, get a free API key from Google.
-Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
--->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+
+
+<title>Location of Lu Lab @ Tsinghua</title>
+
+<!--引用百度地图API-->
+
+<style type="text/css">
+
+    html,body{height:100%;margin:0;padding:0;}
+
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+
+</style>
+
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+
+</head>
+
+
+
+<body>
+
+  <!--百度地图容器-->
+
+  <div style="height:800px;border:#ccc solid 1px;" id="dituContent"></div>
+
+
 
 </body>
+
+<script type="text/javascript">
+
+    //创建和初始化地图函数：
+
+    function initMap(){
+
+        createMap();//创建地图
+
+        setMapEvent();//设置地图事件
+
+        addMapControl();//向地图添加控件
+
+        addMarker();//向地图中添加marker
+
+    }
+
+    
+
+    //创建地图函数：
+
+    function createMap(){
+
+        var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+
+        var point = new BMap.Point(116.323227,40.010736);//定义一个中心点坐标
+
+        map.centerAndZoom(point,18);//设定地图的中心点和坐标并将地图显示在地图容器中
+
+        window.map = map;//将map变量存储在全局
+
+    }
+
+    
+
+    //地图事件设置函数：
+
+    function setMapEvent(){
+
+        map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+
+        map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+
+        map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+
+        map.enableKeyboard();//启用键盘上下左右键移动地图
+
+    }
+
+    
+
+    //地图控件添加函数：
+
+    function addMapControl(){
+
+        //向地图中添加缩放控件
+
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+
+	map.addControl(ctrl_nav);
+
+        //向地图中添加缩略图控件
+
+	var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
+
+	map.addControl(ctrl_ove);
+
+        //向地图中添加比例尺控件
+
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+
+	map.addControl(ctrl_sca);
+
+    }
+
+    
+
+    //标注点数组
+
+    var markerArr = [{title:"Lu Lab @ Tsinghua University",content:"Addr.: 生物技术馆<br/>Room: 2-108, 2-110, 2-111, 3-106, 3-109. <br/>Tel.: 010-62789217",point:"116.32307|40.010839",isOpen:1,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+
+		 ];
+
+    //创建marker
+
+    function addMarker(){
+
+        for(var i=0;i<markerArr.length;i++){
+
+            var json = markerArr[i];
+
+            var p0 = json.point.split("|")[0];
+
+            var p1 = json.point.split("|")[1];
+
+            var point = new BMap.Point(p0,p1);
+
+			var iconImg = createIcon(json.icon);
+
+            var marker = new BMap.Marker(point,{icon:iconImg});
+
+			var iw = createInfoWindow(i);
+
+			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+
+			marker.setLabel(label);
+
+            map.addOverlay(marker);
+
+            label.setStyle({
+
+                        borderColor:"#808080",
+
+                        color:"#333",
+
+                        cursor:"pointer"
+
+            });
+
+			
+
+			(function(){
+
+				var index = i;
+
+				var _iw = createInfoWindow(i);
+
+				var _marker = marker;
+
+				_marker.addEventListener("click",function(){
+
+				    this.openInfoWindow(_iw);
+
+			    });
+
+			    _iw.addEventListener("open",function(){
+
+				    _marker.getLabel().hide();
+
+			    })
+
+			    _iw.addEventListener("close",function(){
+
+				    _marker.getLabel().show();
+
+			    })
+
+				label.addEventListener("click",function(){
+
+				    _marker.openInfoWindow(_iw);
+
+			    })
+
+				if(!!json.isOpen){
+
+					label.hide();
+
+					_marker.openInfoWindow(_iw);
+
+				}
+
+			})()
+
+        }
+
+    }
+
+    //创建InfoWindow
+
+    function createInfoWindow(i){
+
+        var json = markerArr[i];
+
+        var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>"+json.content+"</div>");
+
+        return iw;
+
+    }
+
+    //创建一个Icon
+
+    function createIcon(json){
+
+        var icon = new BMap.Icon("http://app.baidu.com/map/images/us_mk_icon.png", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
+
+        return icon;
+
+    }
+
+    
+
+    initMap();//创建和初始化地图
+
+</script>
+
 </html>
