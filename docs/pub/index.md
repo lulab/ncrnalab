@@ -124,7 +124,7 @@ layout: default
 |:---|:---|  
 |**办公电话：** |**+86-10-62789217** |
 |**E-mail：** | **lulab1 AT tsinghua.edu.cn** |  
-|**实验室主页：** | **[http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn)** | 
+|**实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** | 
 
 > ![二维码](image/scan_code.png)
 
