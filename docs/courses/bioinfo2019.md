@@ -1,3 +1,3 @@
-# _Bioinformactis in Acition_ 2019
+# _Bioinformatics in Acition_ 2019
 
 ## Syllabus
