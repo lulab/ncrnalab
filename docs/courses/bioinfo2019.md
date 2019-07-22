@@ -1,6 +1,6 @@
 **[Courses](http://www.ncrnalab.org/courses)**
 
-# _Bioinformatics in Acition_ 2019
+# 《生物信息学实践》_Bioinformatics in Action_ 2019
 
 
 ## Syllabus
