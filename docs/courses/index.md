@@ -18,7 +18,7 @@
 -   主讲：鲁志等 
 -   对象：研究生容量25人，本科生容量5人 
 -   [教材](http://lulab2.gitbook.io) 
--   [教学日历和资源]()
+-   [教学日历和资源](http://www.ncrnalab.org/courses/bioinfo2019)
 
 
 **【Teaching Philosophy】**
