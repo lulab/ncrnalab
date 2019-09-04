@@ -17,8 +17,8 @@
 -   学分：2
 -   主讲：鲁志等 
 -   对象：研究生容量20-25人，本科生容量5-10人 
--   [教材](http://lulab2.gitbook.io) 
--   [教学日历和资源](https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg)
+-   教材：[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io) 
+-   [教学日历](https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg)
 
 
 **【Teaching Philosophy】**
