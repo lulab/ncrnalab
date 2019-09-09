@@ -17,7 +17,7 @@
 -   学分：2
 -   主讲老师：鲁志       合讲老师： 杨雪瑞        
 -   助教：朱昱敏，徐港
--   对象：研究生容量20-25人，本科生容量5-10人 
+-   对象：研究生容量~20人，本科生容量~10人 
 -   教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》 
 -   [教学日历](https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg)
 
