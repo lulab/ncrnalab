@@ -19,7 +19,7 @@
 -   助教：朱昱敏，徐港
 -   对象：研究生容量\~20人，本科生容量\~10人 
 -   教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》 
--   教学日历: [Syllabus 2019](https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg)
+-   教学日历: [Syllabus 2019](bioinfo2019.md)
 
 
 **【Teaching Philosophy】**
