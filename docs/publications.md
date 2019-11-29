@@ -2,9 +2,17 @@
 
 ## 2019
 
+*	Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) **A comprehensive evaluation of connectivity methods for L1000 data** *Briefings in Bioinformatics* bbz129 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+
+  [View Detail](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbz129/5626334)
+  
 * Rui Xiao<sup>1,</sup>\*, Jia-Yu Chen<sup>1</sup>, Zhengyu Liang<sup>1</sup>, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu\* (2019) **Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription** *Cell* 178, 107–121 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31251911)
+
+* Maoguo Luo, Jianbo Bai, Bofeng Liu, Peiqiang Yan, Feifei Zuo, Hongyao Sun, Ye Sun, Xuanhao Xu, Zhihong Song, Yang Yang, Joan Massagué, Xun Lan, **Zhi Lu**, Ye-Guang Chen, Haiteng Deng, Wei Xie, Qiaoran Xi (2019) **H3K18ac Primes Mesendodermal Differentiation upon Nodal Signaling** *Stem Cell Reports* 13(4):642-656 
+
+  [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31564646)
 
 - Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu\*** (2019) **Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma** *Clinical Chemistry* 65(7):905-915  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
