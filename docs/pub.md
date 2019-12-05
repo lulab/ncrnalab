@@ -1,3 +1,3 @@
 ---
-redirect_to: "publications"
+redirect_to: "https://www.ncrnalab.org/publications"
 ---
