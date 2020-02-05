@@ -1,10 +1,18 @@
 # Publication
 
+## 2020
+
+*	Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+
+    [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31811277)
+
+
+
 ## 2019
 
 *	Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) **A comprehensive evaluation of connectivity methods for L1000 data** *Briefings in Bioinformatics* bbz129 (<sup>1</sup>contributed equally, \*co-corresponding authors)
   
-    [View Detail](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbz129/5626334)
+    [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31774912)
 
 
 * Rui Xiao<sup>1,</sup>\*, Jia-Yu Chen<sup>1</sup>, Zhengyu Liang<sup>1</sup>, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu\* (2019) **Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription** *Cell* 178, 107–121 (<sup>1</sup>contributed equally, \*co-corresponding authors)
