@@ -146,7 +146,6 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 --- 
 
-> [Pervious Years' Courses](https://www.evernote.com/pub/view/luzhiustc/teaching)
 
 
 
