@@ -133,14 +133,15 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### I. Biophysics 《生物物理学》 {#biophysics}
 ---
 
-讲授单元：RNA结构的生物物理学基础 -- 6hr
+讲授单元：**RNA结构的生物物理学基础** -- 6hr
 
 -   时间：春季学期
 -   学时：32 
 -   学分：2
 -   主讲：龚海鹏等 
 -   对象：大三大四本科生， 专业选修课
--   教材和教案:  [Syllabus](biophysics.md)
+-   课件:  [Link]()
+-   更多阅读:  [Link](https://lulab.gitbook.io/books/literature-collections/ai#3-rna-structure)
 
 ### Other Courses 其他课程
 
