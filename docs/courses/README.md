@@ -1,6 +1,13 @@
-# Courses 
+# Courses
 
-## Autumn Semester 秋季学期 
+**Table of Contents:**
+
+* TOC
+{:toc}
+
+---
+
+## Autumn Semester 秋季学期
 
 ### Advanced Courses  博士生课程
 
@@ -13,18 +20,18 @@
 主讲课程
 
 -   时间：秋季学期
--   学时：32 
+-   学时：32
 -   学分：2
 -   主讲老师：鲁志   \|  合讲老师：杨雪瑞        
 -   助教：朱昱敏，徐港
--   对象：研究生容量\~20人，本科生容量\~10人 
--   教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》 
--   教学日历: [Syllabus 2019](bioinfo2019.md)
+-   对象：研究生容量\~20人，本科生容量\~10人
+-   教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
+-   教学日历: [Syllabus 2019](https://www.yinxiang.com/everhub/note/5f42b2d3-d064-485b-ae3f-d6de64ad5bcc)
 
 
 **【Teaching Philosophy】**
 
-“Study and Practice”  格物致知 \| 知行合一 
+“Study and Practice”  格物致知 \| 知行合一
 
 > We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
 
@@ -80,7 +87,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 讲授单元：生物信息和基因组学介绍 -- 2hr
 
--   时间：秋季学期 
+-   时间：秋季学期
 -   学时：2/32 
 -   学分：2
 -   主讲：施一公等 
@@ -103,10 +110,10 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 讲授单元：生物信息学基本方法和算法 -- 6hr
 
--   时间：春季学期 (后8周） 
+-   时间：春季学期 (后8周）
 -   学时：32 
 -   学分：2
--   主讲：杨雪瑞等 
+-   主讲：杨雪瑞等
 -   对象：清华博士生
 
 #### II. RNA Biology《RNA生物学》 {#RNA}
@@ -144,8 +151,4 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 
 
---- 
-
-
-
-
+---
