@@ -4,7 +4,6 @@
 
 * TOC
 {:toc}
-
 ---
 
 ## Autumn Semester 秋季学期
@@ -141,9 +140,10 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 -   学分：2
 -   主讲：龚海鹏等 
 -   对象：大三大四本科生， 专业选修课
--   教材和教案: [Syllabus](https://app.yinxiang.com/fx/075b65ae-aba5-47a0-b74c-5564296d8453）
+-   教材和教案:  [Syllabus](biophysics.md)
 
 ### Other Courses 其他课程
 
 * 《高中奥林匹克竞赛考察课》— 1 hr
 * 《高中教师培训课》—  1hr
+
