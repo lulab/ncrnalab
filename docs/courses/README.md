@@ -23,7 +23,7 @@
 -   学分：2
 -   主讲老师：鲁志   \|  合讲老师：杨雪瑞        
 -   助教：朱昱敏，徐港
--   对象：研究生容量\~20人，本科生容量\~10人
+-   对象：博士生容量\~20人，本科生容量\~10人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
 -   教学日历和教案: [Syllabus 2019](https://www.yinxiang.com/everhub/note/5f42b2d3-d064-485b-ae3f-d6de64ad5bcc)
 
@@ -54,7 +54,7 @@
 #### II. Introduction to Genomics - PTN 《基因组学导论-PTN》 {#PTN}
 ---
 
-讲授单元：PTN基础课 -- 8hr
+PTN基础课 -- 8hr
 
 -   时间：秋季学期
 -   学时：8 
@@ -84,7 +84,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### I. Frontier of Life Sciences 《生命科学前沿》
 ---
 
-讲授单元：生物信息和基因组学介绍 -- 2hr
+讲授单元：**生物信息和基因组学介绍** -- 2hr
 
 -   时间：秋季学期
 -   学时：2/32 
@@ -107,10 +107,10 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
 ---
 
-讲授单元：生物信息学基本方法和算法 -- 6hr
+讲授单元：**生物信息学基本方法和算法** -- 9hr
 
--   时间：春季学期 (后8周）
--   学时：32 
+-   时间：春季学期
+-   学时：48 
 -   学分：2
 -   主讲：杨雪瑞等
 -   对象：清华博士生
@@ -118,7 +118,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### II. RNA Biology《RNA生物学》 {#RNA}
 ---
 
-讲授单元：RNA生物信息学 -- 2hr
+讲授单元：**RNA生物信息学** -- 2hr
 
 -   时间：春季学期 
 -   学时：32 
@@ -133,7 +133,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### I. Biophysics 《生物物理学》 {#biophysics}
 ---
 
-讲授单元：**RNA结构的生物物理学基础** -- 6hr
+讲授单元：**RNA结构预测** -- 6hr
 
 -   时间：春季学期
 -   学时：32 
@@ -147,4 +147,3 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 * 《高中奥林匹克竞赛考察课》— 1 hr
 * 《高中教师培训课》—  1hr
-
