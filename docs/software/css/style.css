@@ -350,7 +350,7 @@ h1 {
 }
 
 #fh5co-aside {
-  width: 38.2%;
+  width: 30%;
   top: 0;
   left: 0;
   bottom: 0;
@@ -367,7 +367,7 @@ h1 {
   width: 100%;
 }
 #fh5co-aside a {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.911);
 }
 #fh5co-aside a:hover {
   color: #fff;
@@ -387,7 +387,7 @@ h1 {
   left: 0;
   right: 0;
   z-index: 10;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.089);
 }
 #fh5co-aside .featured, #fh5co-aside nav, #fh5co-aside .page-title {
   z-index: 12;
@@ -414,7 +414,7 @@ h1 {
 }
 #fh5co-aside .featured > span, #fh5co-aside nav > span, #fh5co-aside .page-title > span {
   display: block;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.911);
   #text-transform: uppercase;
   font-size: 19px;
   letter-spacing: .05em;
@@ -461,7 +461,7 @@ h1 {
 }
 #fh5co-aside nav ul li a:hover {
   color: #000;
-  background: white;
+  background: rgba(255, 255, 255, 0.952);
 }
 
 footer {
@@ -477,7 +477,7 @@ footer {
 }
 
 #fh5co-main-content {
-  margin-left: 38.1966%;
+  margin-left: 30%;
   position: relative;
   z-index: 999;
 }
@@ -509,7 +509,9 @@ footer {
   letter-spacing: .05em;
 }
 .padding {
-  padding: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 @media screen and (max-width: 768px) {
   .padding {
@@ -546,10 +548,11 @@ footer {
   }
 }
 .fh5co-post .fh5co-entry > div {
-  width: 77%;
+  width: 95%;
   float: left;
   margin-right: 5%;
   margin-top: 0px;
+  text-align:justify;
 }
 .single .fh5co-post .fh5co-entry > div {
   margin-right: 0 !important;
