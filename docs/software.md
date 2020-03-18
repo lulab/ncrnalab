@@ -16,7 +16,7 @@ Here, we develop bioinformatic software about biological system, and applying th
 
 [**Ribowave**](https://lulab.github.io/Ribowave)
 
-> Zhiyu Xu, Long Hu, Binbin Shi, SiSi Geng, et al. Nucleic Acids Research (2018)
+> Zhiyu Xu, Long Hu, et al. Nucleic Acids Research (2018)
 
 RiboWave analyses Ribosome profiling data (Ribo-seq). It utilizes wavelet transform to denoise the original signal by extracting 3-nt periodicity of ribosomes (i.e. signal frequency) and precisely locate their footprint.
 
@@ -44,7 +44,7 @@ RBPgroup is a soft-clustering method on various CLIP-seq datasets, in order to g
 
 [**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/)
 
->  Yumin Zhu, Gang Xu, et al. Nucleic Acids Research (2019) / (2017)
+>  Yumin Zhu, Gang Xu, Yu-Cheng T. Yang, Boqin Hu, et al. Nucleic Acids Research (2019) / (2017)
 
 POSTAR is a platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins. It enables the experimental biologists to connect protein-RNA interactions with multi-layer information of post-transcriptional regulation and functional genes, and helps them generate novel hypotheses about the post-regulatory mechanisms of phenotypes and diseases.
 
