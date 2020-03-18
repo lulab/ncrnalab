@@ -1,4 +1,4 @@
-# Publication
+# Publications
 
 ## 2020
 
@@ -11,7 +11,7 @@
 ## 2019
 
 *	Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) **A comprehensive evaluation of connectivity methods for L1000 data** *Briefings in Bioinformatics* bbz129 (<sup>1</sup>contributed equally, \*co-corresponding authors)
-  
+
     [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31774912)
 
 
@@ -19,7 +19,7 @@
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31251911)
 
-* Maoguo Luo, Jianbo Bai, Bofeng Liu, Peiqiang Yan, Feifei Zuo, Hongyao Sun, Ye Sun, Xuanhao Xu, Zhihong Song, Yang Yang, Joan Massagué, Xun Lan, **Zhi Lu**, Ye-Guang Chen, Haiteng Deng, Wei Xie, Qiaoran Xi (2019) **H3K18ac Primes Mesendodermal Differentiation upon Nodal Signaling** *Stem Cell Reports* 13(4):642-656 
+* Maoguo Luo, Jianbo Bai, Bofeng Liu, Peiqiang Yan, Feifei Zuo, Hongyao Sun, Ye Sun, Xuanhao Xu, Zhihong Song, Yang Yang, Joan Massagué, Xun Lan, **Zhi Lu**, Ye-Guang Chen, Haiteng Deng, Wei Xie, Qiaoran Xi (2019) **H3K18ac Primes Mesendodermal Differentiation upon Nodal Signaling** *Stem Cell Reports* 13(4):642-656
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31564646)
 
@@ -31,7 +31,7 @@
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/30239819)
 
-  
+
 
 ## 2018
 
@@ -55,7 +55,7 @@
 
   [View Detail](https://academic.oup.com/nar/article/46/D1/D194/4344571)
 
-  
+
 
 ## 2017
 
@@ -91,13 +91,13 @@
 
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28053162) [Web Site](http://rnatarget.ncrnalab.org/POSTAR)
 
-  
+
 
 ## 2016
 
 - Mengrong Liu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Gang Xu, Chang Tan, and **Zhi John Lu*** (2016) **CCG: an integrative resource of cancer protein-coding and long noncoding RNA genes.** *Discovery Medicine* 22 (123): 351-359 (<sup>1</sup>contributed equally)
 
-  [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28147217) 
+  [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28147217)
 
 - Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) **RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data.** *Nucleic Acids Research* 44 (W1): W294-W301 (<sup>1</sup>contributed equally)
 
@@ -127,7 +127,7 @@
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/26996597)
 
-  
+
 
 ## 2015
 
@@ -147,7 +147,7 @@
 
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130200)
 
-  
+
 
 ## 2014
 
@@ -171,11 +171,11 @@
 
   [View Details](http://scholar.qsensei.com/content/1zjdv6/)
 
-  
+
 
 ## 2013
 
-* Freeberg MA, Han T,Moresco JJ, Kong A, Yang YC, **Lu ZJ**, Yates JR, Kim JK. (2013) **Pervasive and dynamic protein binding sites of the mRNA transcriptome in Saccharomyces cerevisiae.** *Genome Biology* 14, R13. 
+* Freeberg MA, Han T,Moresco JJ, Kong A, Yang YC, **Lu ZJ**, Yates JR, Kim JK. (2013) **Pervasive and dynamic protein binding sites of the mRNA transcriptome in Saccharomyces cerevisiae.** *Genome Biology* 14, R13.
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/23409723/)
 
@@ -183,7 +183,7 @@
 
   [View Details](http://genomebiology.com/2013/14/1/R5)
 
-  
+
 
 ## 2012
 
@@ -203,7 +203,7 @@
 
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051673)
 
-  
+
 
 ## 2011
 
@@ -227,11 +227,11 @@
 
   [View Details](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002190)
 
-  
+
 
 ## 2010
 
-* Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story] 
+* Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
 
@@ -239,7 +239,7 @@
 
   [View Details](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000848)
 
-  
+
 
 ## 2009
 
@@ -247,7 +247,7 @@
 
   [View Details](http://rnajournal.cshlp.org/content/15/10/1805.short)
 
-  
+
 
 ## 2008
 
@@ -263,7 +263,7 @@
 
   [View Details](http://nar.oxfordjournals.org/content/36/11/3738.short)
 
-  
+
 
 ## 2006
 
@@ -278,4 +278,3 @@
 
 
 > [More on Google Scholar](http://scholar.google.com/citations?hl=en&user=wrtnAbEAAAAJ)
-
