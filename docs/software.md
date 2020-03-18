@@ -1,5 +1,10 @@
 # Software
 
+Welcome to Lu Lab's software page!
+
+We are interested in developing bioinformatics technologies and practicing evidence-based medicine.
+Here, we develop bioinformatic software about biological system, and applying them to RNA biology and Precision Medicine.
+
 **Table of Contents:**
 
 * TOC
