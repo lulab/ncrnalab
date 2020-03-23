@@ -33,6 +33,8 @@ COME is a tool to calculate COding potential from Multiple fEatures for a given 
 
 [**RNAfeature**](http://Rnafeature.ncrnalab.org)
 
+`Github: https://github.com/lulab/RNAfinder ; https://github.com/lulab/RNAfeature`
+
 > Long Hu, et al. Nucleic Acids Research (2015)
 
 RNAfeature provides a common set of conserved features for ncRNAs across multiple species. The models in RNAfeature were trained on canonical ncRNAs (e.g.,tRNAs,rRNAs, miRNAs, snRNAs, snoRNAs, 7SK RNAs, Y RNAs).
@@ -47,15 +49,19 @@ RNAfeature provides a common set of conserved features for ncRNAs across multipl
 
 RBPgroup is a soft-clustering method on various CLIP-seq datasets, in order to group together RBPs that specifically bind the same RNA sites. Our approach links proteins and RNA motifs known to possess similar biochemical and cellular properties and can, when used in conjunction with additional experimental data, identify high- confidence RBP groups and their associated RNA regulatory elements.
 
-[**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/)
+[**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar)
 
 >  Yumin Zhu, Gang Xu, Yu-Cheng T. Yang, Boqin Hu, et al. Nucleic Acids Research (2019) / (2017)
+
+`Host: http://lulab.life.tsinghua.edu.cn/postar`
 
 POSTAR is a platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins. It enables the experimental biologists to connect protein-RNA interactions with multi-layer information of post-transcriptional regulation and functional genes, and helps them generate novel hypotheses about the post-regulatory mechanisms of phenotypes and diseases.
 
 [**CLIPdb**](http://clipdb.ncrnalab.org)
 
 >  Yu-Cheng T. Yang, Chao Di, Boqin Hu, et al. BMC Genomics (2015)
+
+`Host: http://lulab.life.tsinghua.edu.cn/clipdb`
 
 CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize the regulatory networks between RNA binding proteins (RBPs) and various RNA transcript classes by integrating large amounts of CLIP-seq (including HITS-CLIP, PAR-CLIP and iCLIP as variantions) data sets.
 
@@ -64,6 +70,8 @@ CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize t
 **RNAex** (*under maintenance*)
 
 >  Yang Wu, Rihao Qu, Yiming Huang, et al. Nucleic Acids Research (2016)
+
+`Host: http://lulab.life.tsinghua.edu.cn/RNAex`
 
 RNAex is an RNA secondary structure prediction server enhanced by high-throughput experimental data. We have re-mapped raw data of the published probing experiments to the whole genome, thus users can predict secondary structures for novel RNA transcripts.
 
@@ -77,8 +85,10 @@ RME is a tool for RNA secondary structure prediction with multiple types of expe
 
 ## RNAmed
 
-[**CCG**](http://lulab.life.tsinghua.edu.cn/ccg/)
+[**CCG**](http://lulab.life.tsinghua.edu.cn/ccg)
 
->  Mengrong Liu, Yu-Cheng T. Yang, et al. Discovery Medicine (2016)
+> Mengrong Liu, Yu-Cheng T. Yang, et al. Discovery Medicine (2016)
+
+`Host: http://lulab.life.tsinghua.edu.cn/ccg`
 
 CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and noncoding genes associated with cancer. In addition, drug-gene information in CCG provides a useful guide to the development of new anti-cancer drugs.
