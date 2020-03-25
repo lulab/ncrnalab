@@ -91,7 +91,7 @@ RME is a tool for RNA secondary structure prediction with multiple types of expe
 # 04
 ## RNAmed
 
-[**CCG**](http://lulab.life.tsinghua.edu.cn/ccg)
+[**CCG**](http://ccg.xingene.net)
 
 > Mengrong Liu, Yu-Cheng T. Yang, et al. Discovery Medicine (2016)
 
