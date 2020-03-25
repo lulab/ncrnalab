@@ -9,7 +9,7 @@ layout: default
 
 - **招募机构：医院或临检机构等**   
 - **样本需求：癌症病人和健康对照人群的血液、唾液等**   
-- **起止日期：长期招募** 
+- **起止日期：长期招募**
 - **合作课题：癌症早筛、早诊和预后中新型体液游离RNA标志物的研究**  
 - **发起组织：清华大学生命学院鲁志实验室**  
 - **有效时间：长期**
@@ -18,7 +18,7 @@ layout: default
 
 #### **我们的使命，是帮助人们更早期的发现癌症，因为“上工治未病”**
 
- 该癌症检测项目的目的是要为癌症早期筛查、早期诊断以及预后治疗寻找到更好（精准、重复性高、经济上利于普及大众、操作上简单无创）的新型体液标志物（exRNA），并标准化其检测和解析流程，开发出新的液体活检技术。 
+ 该癌症检测项目的目的是要为癌症早期筛查、早期诊断以及预后治疗寻找到更好（精准、重复性高、经济上利于普及大众、操作上简单无创）的新型体液标志物（exRNA），并标准化其检测和解析流程，开发出新的液体活检技术。
 
 
 ## 实验室简介
@@ -26,7 +26,7 @@ layout: default
   鲁志实验室（[实验室主页](http://www.ncrnalab.org)）隶属清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。本实验室已经建立了项目所需要的基本分子实验平台和计算平台，同时也依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
 
   本实验室属于交叉科学实验室，致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
-      
+
 > 实验室负责人鲁志([个人官方主页](http://life.tsinghua.edu.cn/publish/smkx/11230/2018/20180102030120630761402/20180102030120630761402_.html))博士，清华大学生命科学学院 研究员，博士生导师，国家“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章50余篇([Pulibcation List](https://www.ncrnalab.org/publications)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章约20篇（影响因子10分以上的10篇）。
 
 
@@ -56,12 +56,12 @@ layout: default
 * **I期. 新型标志物的“发现和探索”阶段**  
   * 贵院/临检机构负责收集 **少量（30-50例血样）** 癌症病人和/或健康对照人群的血浆，妥善储存并运输；  
   * 鲁志实验室负责进行预实验和分析，实验和分析费用由鲁志实验室承担；  
-  * 共同发表文章。 
+  * 共同发表文章。
 
 * **II期. 新型标志物的“鉴定和验证”阶段**  
   * 在前期预实验效果较好的前提下，还需要在 **大量样本（200-500例血样）** （最好部分血样能配套组织样本）中进行测序和验证；
   * 实验费用由双方共同承担；
-  * 共同发表文章和申请专利，具体合作事宜面议。 
+  * 共同发表文章和申请专利，具体合作事宜面议。
 
 * **III期. 大规模临床验证、试剂盒开发和产业化阶段**  
   * 共同寻找投资和合作伙伴;
@@ -81,7 +81,7 @@ layout: default
 - **北京** 中国医学科学院（协和医院）肿瘤医院  
 - **北京** 解放军302医院  
 - **上海** 海军军医大学  
-- **上海** 东方肝胆医院 
+- **上海** 东方肝胆医院
 - **天津** 天津市肿瘤医院  
 - **重庆** 陆军军医大学  
 - **重庆** 重庆开州人民医院
@@ -90,11 +90,11 @@ layout: default
 
 ## 代表性论文
 
-*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8) 
-* Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12) 
-* Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13) 
-* Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11) 
-* Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11) 
+*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8)
+* Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12)
+* Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13)
+* Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11)
+* Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11)
 * Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu***(2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **_Nucleic Acids Research_** 43(15): 7247-59\. (<sup>1</sup>contributed equally) (IF: 11)
 
 ## 代表性合作
@@ -137,6 +137,3 @@ layout: default
 |**办公电话：** |**+86-10-62789217** |
 |**E-mail：** | **lulab1 AT tsinghua.edu.cn** |
 |**实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** |
-
-> ![二维码](image/scan_code.png)
-
