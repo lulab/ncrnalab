@@ -15,7 +15,7 @@
 #### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
 ---
 
-讲授单元：**生物信息学基本方法和算法** -- 9hr
+讲授单元：**Models and Algorithms in Bioinformatics** -- 9hr
 
 -   时间：春季学期
 -   学时：48 
@@ -45,7 +45,7 @@
 #### I. Biophysics 《生物物理学》 {#biophysics}
 ---
 
-讲授单元：**RNA结构预测** -- 6hr
+讲授单元：**RNA Secondary Structure Prediction** -- 6hr
 
 -   时间：春季学期
 -   学时：32 
