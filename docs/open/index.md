@@ -90,12 +90,12 @@ layout: default
 
 ## 代表性论文
 
-*	Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8)
+* Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+* Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8)
 * Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12)
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 13)
 * Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11)
 * Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11)
-* Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu***(2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **_Nucleic Acids Research_** 43(15): 7247-59\. (<sup>1</sup>contributed equally) (IF: 11)
 
 ## 代表性合作
 
@@ -108,10 +108,10 @@ layout: default
 
 ## 相关专利
 
-* 基于机器学习的生物信息方法RNAfinder（专利号：2016108069288）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)
-* 超微量RNA捕获和测序技术i-SMART(专利申请号：201810607652X）
-* 针对肝癌的一个新exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)
-* 癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)
+* 基于机器学习的生物信息方法RNAfinder（专利号：201610806928.8）(Science 2010; Genome Res. 2011; Nucleic Acids Res. 2015;2017a;2018)
+* 针对肝癌的一个新exRNA标志物（专利号:201811009464.3）(Nature Comminications 2017; Clinical Chemistry 2019)
+* 超微量RNA捕获和测序技术i-SMART(专利申请号：201810607652X）(Briefings in Bioinformatics 2018; Cell Res. 2020)
+* 癌症相关的RNA数据库（著作权号：2016R11S367236）(Genome Biology 2017; Nucleic Acids Res. 2017b;2019)
 
 
 ![主要专利](image/patent.png)
