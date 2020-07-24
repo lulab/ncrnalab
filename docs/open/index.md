@@ -1,6 +1,14 @@
-# Collaborate with us ! 清华大学鲁志实验室寻求合作
+---
+layout: default
+title: Collaborate with us !
+description: 清华大学鲁志实验室寻求合作
+---
 
-**癌症检测科研项目寻求合作医院及临检机构**
+
+# 清华大学鲁志实验室癌症检测科研项目寻求合作医院及临检机构
+
+---
+
 
 ## 基本信息
 
