@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Collaborate with us !
-description: 清华大学鲁志实验室寻求合作
+title: 清华大学鲁志实验室寻求合作
+description: Collaborate with us !
 ---
 
 
