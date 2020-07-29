@@ -7,11 +7,12 @@
 
 ## 2020
 
-*	Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+*	Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) **Selective translation by alternative bacterial ribosomes.** *PNAS* (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
     [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31811277)
 
-
+*	Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+    [View Detail](https://doi.org/10.1073/pnas.2009607117)	
 
 ## 2019
 
@@ -98,7 +99,9 @@
 
 
 
-## 2016
+## 2012 - 2016
+
+**2016**
 
 - Mengrong Liu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Gang Xu, Chang Tan, and **Zhi John Lu*** (2016) **CCG: an integrative resource of cancer protein-coding and long noncoding RNA genes.** *Discovery Medicine* 22 (123): 351-359 (<sup>1</sup>contributed equally)
 
@@ -134,7 +137,7 @@
 
 
 
-## 2015
+**2015**
 
 - Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) **Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.** *Nucleic Acids Research* 43(15): 7247-59 (<sup>1</sup>contributed equally)
 
@@ -154,7 +157,7 @@
 
 
 
-## 2014
+**2014**
 
 - Chao Di<sup>1</sup>, Jiapei Yuan<sup>1</sup>, Yue Wu, Jingrui Li, Huixin Lin, Long Hu, Ting Zhang, Yijun Qi, Mark B. Gerstein, Yan Guo and **Zhi John Lu\*** (2014) **Characterization of Stress-responsive lncRNAs in Arabidopsis thaliana by Integrating Expression, Epigenetic and Structural Features.** *The Plant Journal* 80(5), 848-861 (<sup>1</sup>contributed equally)
 
@@ -178,7 +181,7 @@
 
 
 
-## 2013
+**2013**
 
 * Freeberg MA, Han T,Moresco JJ, Kong A, Yang YC, **Lu ZJ**, Yates JR, Kim JK. (2013) **Pervasive and dynamic protein binding sites of the mRNA transcriptome in Saccharomyces cerevisiae.** *Genome Biology* 14, R13.
 
@@ -190,7 +193,7 @@
 
 
 
-## 2012
+**2012**
 
 * Tan X, Hu L<sup>2</sup>, Luquette JL, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**<sup>2</sup>, Park PJ & Elledge SJ. (2012) **Systematic Identification of Synergistic Drug Pairs Targeting HIV.** *Nature Biotech* 30:1125-1130. (<sup>2</sup> Lu Lab, School of Life Sciences, Tsinghua University)
 
@@ -210,7 +213,7 @@
 
 
 
-## 2011
+## 2010 - 2011 (Postdoc)
 
 * **Lu ZJ**<sup>1</sup>, Yip KY<sup>1</sup>, Wang G, Shou C, Hillier LW, et al. (2011) **Prediction and characterization of noncoding RNAs in C. elegans by integrating conservation, secondary structure, and high-throughput sequencing and array data.** *Genome Research* 21: 276-285. (<sup>1</sup>contributed equally) [modENCODE special issue]
 
@@ -234,8 +237,6 @@
 
 
 
-## 2010
-
 * Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
@@ -246,15 +247,12 @@
 
 
 
-## 2009
+## 2006 - 2009 (Ph.D.)
 
 * **Lu ZJ**, Gloor JW, Mathews DH. (2009) **Improved RNA secondary structure prediction by maximizing expedted pair accuracy.** *RNA* 15:1805-1813.
 
   [View Details](http://rnajournal.cshlp.org/content/15/10/1805.short)
 
-
-
-## 2008
 
 * **Lu ZJ**, Mathews DH. (2008) **Efficient siRNA selection using hybridization thermodynamics.***Nucleic Acids Research* 36:640-647.
 
@@ -268,9 +266,6 @@
 
   [View Details](http://nar.oxfordjournals.org/content/36/11/3738.short)
 
-
-
-## 2006
 
 * **Lu ZJ**, Turner DH, Mathews DH. (2006) **A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation.** *Nucleic Acids Research*34:4912-4924.
 
