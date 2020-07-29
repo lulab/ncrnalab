@@ -9,10 +9,11 @@
 
 *	Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) **Selective translation by alternative bacterial ribosomes.** *PNAS* (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
-    [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31811277)
+    [View Detail](https://doi.org/10.1073/pnas.2009607117)
 
 *	Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
-    [View Detail](https://doi.org/10.1073/pnas.2009607117)	
+
+    [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31811277)
 
 ## 2019
 
