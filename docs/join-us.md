@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Join Us!
-description: Welcome to Lu Lab @ Tsinghua University
 ---
 
 
@@ -24,7 +23,7 @@ description: Welcome to Lu Lab @ Tsinghua University
 实验室每年有2-3名博士生名额，可以通过“CLS”、“PTN”、“生命学院”等Program申请，感兴趣的同学请关注这几个Ph.D. Program的官方申请通知进行申请，本科生和硕士生都可以申请，每年9月入学的同学会有前一年7月、9月和当年3月三次申请机会。
 
 
-* **实验室常年招聘博士后和科研助理** 
+* **实验室常年招聘博士后和科研助理**
 
 我们实验室致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。
 我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。

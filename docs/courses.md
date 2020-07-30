@@ -1,3 +1,8 @@
+---
+description: Teaching @ Tsinghua
+---
+
+
 # Courses
 
 **Table of Contents:**
@@ -5,64 +10,6 @@
 * TOC
 {:toc}
 ---
-
-
-
-## Spring Semester 春季学期
-
-### Advanced Courses  博士生课程
-
-#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
----
-
-讲授单元：**Models and Algorithms in Bioinformatics** -- 9hr
-
--   时间：春季学期
--   学时：48 
--   学分：2
--   主讲：杨雪瑞等
--   对象：清华博士生
--   课件:  [Link](https://cloud.tsinghua.edu.cn/d/bba5b94e539a4e4f9f70/?p=%2FBioinfo-Sys2020&mode=list)
--   更多阅读:  [Link](https://lulab.gitbook.io/books/literature-collections/ai#3-rna-structure)
--   讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/)
-
-
-#### II. RNA Biology《RNA生物学》 {#RNA}
----
-
-讲授单元：**RNA生物信息学** -- 2hr
-
--   时间：春季学期 
--   学时：32 
--   学分：2
--   主讲：戚益军等 
--   对象：清华博士生
-
-
-
-### Basic Courses 本科生课程
-
-#### I. Biophysics 《生物物理学》 {#biophysics}
----
-
-讲授单元：**RNA Secondary Structure Prediction** -- 6hr
-
--   时间：春季学期
--   学时：32 
--   学分：2
--   主讲：龚海鹏等 
--   对象：大三大四本科生， 专业选修课
--   课件:  [Link](https://cloud.tsinghua.edu.cn/d/30b1e924647244aca2d6/?p=%2FBiophysics2020&mode=list)
--   更多阅读:  [Link](https://lulab.gitbook.io/books/literature-collections/ai#3-rna-structure)
--   讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/)
-
-### Other Courses 其他课程
-
-* 《高中奥林匹克竞赛考察课》— 1 hr
-* 《高中教师培训课》—  1hr
-
-
-
 
 ## Autumn Semester 秋季学期
 
@@ -156,4 +103,55 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 
 
+## Spring Semester 春季学期
 
+### Advanced Courses  博士生课程
+
+#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
+---
+
+讲授单元：**Models and Algorithms in Bioinformatics** -- 9hr
+
+-   时间：春季学期
+-   学时：48 
+-   学分：2
+-   主讲：杨雪瑞等
+-   对象：清华博士生
+-   课件:  [Link](https://cloud.tsinghua.edu.cn/d/bba5b94e539a4e4f9f70/?p=%2FBioinfo-Sys2020&mode=list)
+-   更多阅读:  [Link](https://lulab.gitbook.io/books/literature-collections/ai#3-rna-structure)
+-   讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/)
+
+
+#### II. RNA Biology《RNA生物学》 {#RNA}
+---
+
+讲授单元：**RNA生物信息学** -- 2hr
+
+-   时间：春季学期 
+-   学时：32 
+-   学分：2
+-   主讲：戚益军等 
+-   对象：清华博士生
+
+
+
+### Basic Courses 本科生课程
+
+#### I. Biophysics 《生物物理学》 {#biophysics}
+---
+
+讲授单元：**RNA Secondary Structure Prediction** -- 6hr
+
+-   时间：春季学期
+-   学时：32 
+-   学分：2
+-   主讲：龚海鹏等 
+-   对象：大三大四本科生， 专业选修课
+-   课件:  [Link](https://cloud.tsinghua.edu.cn/d/30b1e924647244aca2d6/?p=%2FBiophysics2020&mode=list)
+-   更多阅读:  [Link](https://lulab.gitbook.io/books/literature-collections/ai#3-rna-structure)
+-   讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/)
+
+### Other Courses 其他课程
+
+* 《高中奥林匹克竞赛考察课》— 1 hr
+* 《高中教师培训课》—  1hr
