@@ -1,4 +1,7 @@
-# Representative Graduates 
+---
+layout: default
+title: Representative Graduates
+---
 
 * TOC
 {:toc}
@@ -11,7 +14,7 @@
 
 1. Shuaishuai Teng<sup>1</sup>, **Yang Eric Li<sup>1</sup>**, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Shasha Li, Kequan Lin, Yujing Cheng, Zhi John Lu\*, Dong Wang\*. (2020) Epigenetic Reprogramming of Tissue-Specific Transcription Promotes Metastasis. _**Cell Research**_ (IF=18)  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 2. **Yang Eric Li**<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia, Zhi John Lu*. (2017) Identification of high-confidence RNA
-regulatory elements by combinatorial classification of RNA-protein binding sites. 
+regulatory elements by combinatorial classification of RNA-protein binding sites.
 _**Genome Biology**_  18:169. (IF=13) (<sup>1</sup>contributed equally)
 3. Yang Yang#, Lei Chen#*, Jin Gu#, Hanshuo Zhang#, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, **Yang Li**, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang*, Michael Q. Zhang*, Zhi John Lu* (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **Nature Communications**. *8*, 14421. (SCI, IF=12.124)
 4. Yang Wu#, Rihao Qu#, Yiming Huang#, Binbin Shi, Mengrong Liu, **Yang Li**, Zhi John Lu* (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research**. *44* (W1): W294-W301. (SCI, IF=10.162)
@@ -46,4 +49,3 @@ _**Genome Biology**_  18:169. (IF=13) (<sup>1</sup>contributed equally)
 4.	**Yang YC**, Umetsu J and Lu ZJ (2014) Global signatures of protein binding on structured RNAs in Saccharomyces cerevisiae. ***Science China Life Sciences***
 5.	Hu L, Di C, Kai M, **Yang YC**, Li Y, Qiu Y, Hu X, Yip KY, Zhang MQ and Lu ZJ (2015) A common set of distinct features that characterize noncoding RNAs across multiple species. _**Nucleic Acids Research**_
 6.	Freeberg MA, Han T, Moresco JJ, Kong A, **Yang YC**, Lu ZJ, Yates JR and Kim JK. (2013) Pervasive and dynamic protein binding sites of the mRNA transcriptome in Saccharomyces cerevisiae. _**Genome Biology**_
-

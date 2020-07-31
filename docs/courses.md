@@ -1,9 +1,8 @@
 ---
+layout: default
+title: Courses
 description: Teaching @ Tsinghua
 ---
-
-
-# Courses
 
 **Table of Contents:**
 

@@ -1,19 +1,28 @@
 ---
 layout: default
-title: Projects @ Lu Lab
+title: Projects
 description: Research @ Tsinghua
 ---
 
-Our group is interested in developing bioinformatics technologies and practicing evidence-based medicine.
-<br>
-We utilize high-throughput sequencing technologies, together with machine learning and AI, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
+**Table of Contents:**
 
+> We have three major research projects/directions in our lab.
+
+* TOC
+{:toc}
+
+---
+
+_Our group is interested in developing bioinformatics technologies and practicing evidence-based medicine._ We utilize high-throughput sequencing technologies, together with machine learning and AI, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
 
 “我们的使命是要帮助人们更早期地发现癌症的发生，因为上工治未病。”
 <br>
 我们实验室致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-> 清华大学鲁志实验室一直致力于和RNA相关的生物信息学研究，从非编码RNA的“序列-结构-功能（靶标）”三个层次研发了一套系统性的生物信息学方法；这套方法得到了很好的认可，被合作者应用和共同发表在多个物种的RNA研究中（Science<sup>1</sup> 2010; Nature 2012; Nature Biotech. 2012; Nature 2014; Cell Stem Cell 2016; Cell 2019; PNAS 2020\*）。尤其是和医学专家合作，发表了和癌症发生迁移相关的新型非编码RNA和表观遗传调控机制，可以用来做癌症诊断和预后辅助的分子标志物（Nature Commun. 2017\*, Clinical Chem. 2019\*, Cell Res. 2020\*）。鲁志博士一共发表重要期刊文章近60篇, 总引用超过 10000 次。其中近5年发表文章30余篇，包括通讯作者文章21篇（影响因子10分以上的11篇）。申请人的学术成绩多年来得到了一贯的认可，获得了“长江学者”青年项目（2019）,“霍英东”青年基金（2018）,国家“优秀青年”基金项目（2016）等；同时，2014年起担任“生物信息学”教育部重点实验室（~50个实验室联合组成）副主任。
+> 清华大学鲁志实验室一直致力于和RNA相关的生物信息学研究，从非编码RNA的“序列-结构-功能（靶标）”三个层次研发了一套系统性的生物信息学方法；这套方法得到了很好的认可，被合作者应用和共同发表在多个物种的RNA研究中（Science<sup>1</sup> 2010; Nature 2012; Nature Biotech. 2012; Nature 2014; Cell Stem Cell 2016; Cell 2019; PNAS 2020\*）。尤其是和医学专家合作，发表了和癌症发生迁移相关的新型非编码RNA和表观遗传调控机制，可以用来做癌症诊断和预后辅助的分子标志物（Nature Commun. 2017\*, Clinical Chem. 2019\*, Cell Res. 2020\*）。鲁志博士一共发表重要期刊文章近60篇, 总引用超过 10000 次。其中近5年发表文章30余篇，包括通讯作者文章21篇（影响因子10分以上的11篇）。申请人的学术成绩多年来得到了一贯的认可，获得了“长江学者”青年项目（2019）,“霍英东”青年基金（2018）,国家“优秀青年”基金（2016）等；同时，2014年起担任“生物信息学”教育部重点实验室（~50个实验室联合组成）副主任。
+
+
+---
 
 
 ## I. Post-transcriptional Regulation of RNA {#RNA}
@@ -43,7 +52,7 @@ Long noncoding RNAs (lncRNAs) have been associated with cancer (such as Hepatoce
 清华大学生命科学学院鲁志课题组、信息学院与医学院张奇伟课题组以及上海东方肝胆医院王红阳院士课题组在《Nature Communications》合作发表题为Recurrently deregulated lncRNAs in hepatocellular carcinoma的研究论文，该论文通过基因组学和生物信息学方法揭示了在肝癌发生发展及转移过程中发挥调控作用的多个新型长链非编码RNA基因（lncRNA），发现了可以作为肝癌诊断和预后的新型RNA分子标志物。
 肝癌（Hepatocellular carcinoma, HCC）是常见的恶性肿瘤之一，恶性程度极高，侵袭能力强，易转移，预后较差，严重危害着人类的健康。肝癌发生的确切分子机制尚不完全清楚，可以由多种因素引起。肝癌细胞极易侵袭进入门静脉系统，并在门静脉中形成癌栓，肝癌门静脉癌栓的形成是影响肝癌预后的重要因素。肝癌起病隐匿，早期缺乏明显的临床症状，因此研究和发现高效的肝癌相关生物标志物有助于治疗肝癌，提高疗效，改善预后。
 长链非编码RNA（long noncoding RNA, lncRNA）是一类长度大于200个碱基，但没有长开放阅读框和蛋白编码功能的RNA。近年来，各种各样的lncRNA在很多重要的生命活动中被发现并引起人们的关注。研究表明，lncRNA可通过不同途径参与多种生命活动，与人类疾病密切相关，比如癌症。
-为了发现和研究在肝癌发生和转移中发挥调控作用的lncRNA及相关分子标志物，该项工作首先对20组肝癌临床样本（包括癌组织，癌旁组织，癌栓组织）进行了高通量测序。之后，利用相关课题组在过去几年来开发的一系列针对非编码RNA的最新生物信息学算法和方法(http://www.ncrnalab.org/software)，鉴定出了近千条与肝癌发生发展相关的lncRNA，其中有上百条与肝癌的转移相关。进一步地，该项工作还对这些临床样本进行了DNA拷贝数差异（CNV）分析和DNA甲基化水平分析，鉴定了这些lncRNA的可能调控机理。并且，通过构建lncRNA与蛋白表达基因的双色共表达调控网络，该项工作也预测了lncRNA的生物学功能及可能参与的信号通路。最后，通过基于RNA干扰试验，7条影响肝癌细胞迁移的lncRNA也得到了很好的功能性验证。该项工作的一个非常重要的结果，是利用中国临床样本，结合国际TCGA项目的大规模临床样本数据，发现了在多个肝癌病人及其转移癌栓中重复性异常表达的新型非编码RNA基因，并进一步预测了可以作为肝癌诊断和预后的新型RNA标志物，具有很好的临床应用前景。
+为了发现和研究在肝癌发生和转移中发挥调控作用的lncRNA及相关分子标志物，该项工作首先对20组肝癌临床样本（包括癌组织，癌旁组织，癌栓组织）进行了高通量测序。之后，利用相关课题组在过去几年来开发的一系列针对非编码RNA的最新生物信息学算法和方法，鉴定出了近千条与肝癌发生发展相关的lncRNA，其中有上百条与肝癌的转移相关。进一步地，该项工作还对这些临床样本进行了DNA拷贝数差异（CNV）分析和DNA甲基化水平分析，鉴定了这些lncRNA的可能调控机理。并且，通过构建lncRNA与蛋白表达基因的双色共表达调控网络，该项工作也预测了lncRNA的生物学功能及可能参与的信号通路。最后，通过基于RNA干扰试验，7条影响肝癌细胞迁移的lncRNA也得到了很好的功能性验证。该项工作的一个非常重要的结果，是利用中国临床样本，结合国际TCGA项目的大规模临床样本数据，发现了在多个肝癌病人及其转移癌栓中重复性异常表达的新型非编码RNA基因，并进一步预测了可以作为肝癌诊断和预后的新型RNA标志物，具有很好的临床应用前景。
 
 
 
@@ -54,18 +63,18 @@ Long noncoding RNAs (lncRNAs) have been associated with cancer (such as Hepatoce
 
 ## III. Machine Learning & AI {#AI}
 
-Recent genomic studies suggest that novel long non-coding RNAs (lncRNAs) are specifically expressed and far outnumber annotated lncRNA sequences. To identify and characterize novel lncRNAs in RNA sequencing data from new samples, we have developed COME, a coding potential calculation tool based on machine learning with multiple features. It integrates multiple sequence-derived and experiment-based features using a decompose–compose method, which makes it more accurate and robust than other well-known tools. We also showed that COME was able to substantially improve the consistency of predication results from other coding potential calculators. Moreover, COME annotates and characterizes each predicted lncRNA transcript with multiple lines of supporting evidence, which are not provided by other tools. Remarkably, we found one subgroup of lncRNAs classified by such supporting features, i.e., conserved local RNA secondary structure. Overall, we present COME as an accurate, robust and multiple-feature supported machine learning method for the identification and characterization of novel lncRNAs. The software implementation is available at https://github.com/lulab/ COME.
+Recent genomic studies suggest that novel long non-coding RNAs (lncRNAs) are specifically expressed and far outnumber annotated lncRNA sequences. To identify and characterize novel lncRNAs in RNA sequencing data from new samples, we have developed COME, a coding potential calculation tool based on machine learning with multiple features. It integrates multiple sequence-derived and experiment-based features using a decompose–compose method, which makes it more accurate and robust than other well-known tools. We also showed that COME was able to substantially improve the consistency of predication results from other coding potential calculators. Moreover, COME annotates and characterizes each predicted lncRNA transcript with multiple lines of supporting evidence, which are not provided by other tools. Remarkably, we found one subgroup of lncRNAs classified by such supporting features, i.e., conserved local RNA secondary structure. Overall, we present COME as an accurate, robust and multiple-feature supported machine learning method for the identification and characterization of novel lncRNAs.
 
 
-清华大学鲁志实验室一直致力于和RNA相关的生物信息学研究，从非编码RNA的“序列-结构-功能（靶标）”三个层次研发了一套系统性的生物信息学方法(ncRNA Project)。非编码RNA(noncoding RNA)是一类新型基因，它们在生物体内行使着多种多样的重要功能。
+清华大学鲁志实验室一直致力于和RNA相关的生物信息学研究，从非编码RNA的“序列-结构-功能（靶标）”三个层次研发了一套系统性的生物信息学方法 (ncRNA Project)。这些方法和 [软件](http://www.ncrnalab.org/software) 分为3个层次和系列：
 
-* 1 \| RNAfinder软件系列: 利用机器学习发现基因组暗物质-新型非编码RNA基因
+* 1 \| **RNAfinder**软件系列: 利用机器学习发现基因组暗物质-新型非编码RNA基因
 
 由清华大学鲁志实验室ncRNA Project开发的第一个软件系列RNAfinder发表了两个新的成果：RNAfeature和COME。
 
 非编码RNA(noncoding RNA)是一类新型基因，它们在生物体内行使着多种多样的重要功能。为了能够有效地鉴定这些新基因，ncRNA project开发了两个配套的基于机器学习方法的工具：RNAfeature 和COME。RNAfeature通过机器学习方法整合并筛选了超过600套基因组学数据、表观基因组学数据、转录组学数据与多个进化学、生物物理学数值特征，得到了包括序列特征、结构特征、表达谱特征及表观遗传标记特征等10个共有特征可以跨物种跨种类描述非编码RNA。进一步地， COME可以将这些特征整合在一起并非常有效地鉴定新型非编码RNA。RNAfeature和 COME各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015和2016），被很多重要的基因组学工作采用，其中最具影响力的是国际重大研究计划ENCODE（人类基因组注释计划）。
 
-* 2 \| RNAstructurome软件系列: 利用能量模型和高通量测序预测RNA二级结构
+* 2 \| **RNAstructurome**软件系列: 利用能量模型和高通量测序预测RNA二级结构
 
 由清华大学鲁志实验室ncRNA Project开发的第二个软件系列RNAstructurome最近发表了一个新的算法RME，并配套了一个网络服务RNAex。
 
@@ -75,7 +84,7 @@ RNAex服务器对目前主流的结构测定数据进行了统一处理，提供
 目前，RME算法和RNAex服务器各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015和2016）。并被OMICtools数据库收录，是RNA结构组学目录下的第一个代表性算法。
 
 
-* 3 \| RNAtarget软件系列: 建立RNA数据库，构建RNA和蛋白质的互作调控网络
+* 3 \| **RNAtarget**软件系列: 建立RNA数据库，构建RNA和蛋白质的互作调控网络
 
 由清华大学鲁志实验室ncRNA Project 开发的第三个软件系列RNAtarget最近增添了2个新的工具：POSTAR和CLIPdb。
 

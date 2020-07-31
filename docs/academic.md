@@ -1,4 +1,8 @@
-# Academic Tree of Lu Lab
+---
+layout: default
+title: Academic Tree of Lu Lab
+---
+
 
 | Generation | Name                                                   | Born Year | Death Year | Ph.D./Degree Year                         | Ph.D./Degree Institution                                     | Area                                                         |
 | :--| :--| :--| :--| :--| :--| :-- |

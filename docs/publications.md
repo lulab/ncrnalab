@@ -1,4 +1,9 @@
-# Publications
+---
+layout: default
+title: Publications
+---
+
+**Table of Contents:**
 
 * TOC
 {:toc}
