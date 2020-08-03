@@ -25,8 +25,7 @@ description: Teaching @ Tsinghua
 -   时间：秋季学期
 -   学时：32
 -   学分：2
--   主讲老师：鲁志   \|  合讲老师：杨雪瑞        
--   助教：朱昱敏，徐港
+-   主讲老师：鲁志   \|  合讲老师：杨雪瑞，蓝勋，李寅青等       
 -   对象：博士生容量\~20人，本科生容量\~10人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
 -   教学日历和教案: [Syllabus 2019](https://www.yinxiang.com/everhub/note/5f42b2d3-d064-485b-ae3f-d6de64ad5bcc)
