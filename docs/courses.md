@@ -28,7 +28,7 @@ description: Teaching @ Tsinghua
 -   主讲老师：鲁志   \|  合讲老师：杨雪瑞，蓝勋，李寅青等       
 -   对象：博士生容量\~20人，本科生容量\~10人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus 2019](https://www.yinxiang.com/everhub/note/5f42b2d3-d064-485b-ae3f-d6de64ad5bcc)
+-   教学日历和教案: [Syllabus 2020](https://app.yinxiang.com/fx/31ac2fb0-ca34-4df3-b794-14ac88237a73)
 
 
 **【Teaching Philosophy】**
