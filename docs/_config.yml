@@ -2,3 +2,9 @@ gems:
   - jekyll-redirect-from
 
 theme: jekyll-theme-cayman
+
+# ---- parameters for deploy prodcution
+# JEKYLL_ENV=production bundle exec jekyll build
+#baseurl: "/." # the subpath of your site, e.g. /blog
+#url: "https://cn.ncrnalab.org" 
+#repository: lulab/ncrnalab
