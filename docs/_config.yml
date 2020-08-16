@@ -5,6 +5,6 @@ theme: jekyll-theme-cayman
 
 # ---- parameters for deploy prodcution
 # JEKYLL_ENV=production bundle exec jekyll build
-#baseurl: "/." # the subpath of your site, e.g. /blog
-#url: "https://cn.ncrnalab.org" 
+#baseurl: "/homepage" # the subpath of your site, e.g. /blog
+#url: "https://lulab.life.tsinghua.edu.cn" 
 #repository: lulab/ncrnalab
