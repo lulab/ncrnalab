@@ -45,6 +45,8 @@ _RBPgroup_: Crosslinking immunoprecipitation sequencing (CLIP-seq) technologies 
 >
 > 我们利用从文献中收集的HEK293，HepG2和K562三个细胞系的327套CLIP-seq数据，通过整合分析，发展了基于非负矩阵因子分解（NMF）的生物信息学方法 -- RBPgroup。该工作表明，相同聚类组中的RNA结合蛋白在功能上存在重要的相关性，与此同时，在该组对应的RNA靶标序列中，能够显著富集出与RNA重要调控作用相关的调控元件。该研究将这套研究方法体系应用于国际ENCODE（Encyclopedia of DNA Elements）计划中的eCLIP数据，发现了众多潜在的RNA结合蛋白的调控复合物（或竞争物）组合，并且其中部分得到了实验的验证。为了让科学界更容易获得这项工作的研究结果，对应生物信息学工具RBPgroup的代码被公开在开源网站 [RBPgroup@GitHub](https://github.com/lulab/RBPgroup)。
 >
+> 同时，我们整理了这些数据，发表了2个公开数据库：POSTAR和CLIPdb。在真核细胞内，转录组与转录后调控有着密切的关联：转录本RNA从产生直至降解的过程中，总是被RNA结合蛋白（RBP）和其他RNA分子结合，这些调控因子参与几乎所有的转录后调控事件，包括RNA分子的剪接、加尾、亚细胞定位以及降解等。近年来，已经在包括癌症和神经退行性疾病等多种严重的人类疾病中发现了RBP及其参与的转录后调控的异常。然而，目前关于RBP参与转录后调控的数据库和计算工具还相当有限。因此，我们以大规模的CLIP-seq数据集为基础，整合其他高通量数据，构建了RBP转录后调控的整合型数据库CLIPdb和CLIP2-POSTAR。CLIPdb 是提供全转录组水平上高精度的RBP结合位点的数据库。我们收集了来自四个物种（人类、小鼠、线虫与酵母）中400余套已发表的CLIP-seq数据集，涵盖了约120个RBP，使用统一的的计算方法在全转录组内鉴定RBP结合位点，并提供了方便的可视化和检索界面。CLIPdb的第2版，POSTAR 提供了人类和小鼠转录组中目前已知最全面的来自实验证据和计算预测的RBP结合位点，涵盖了236个RBP。更进一步，利用大量的分子调控事件、基因组变异位点以及功能性基因等信息，POSTAR对RBP结合位点进行了详细的功能注释，为进一步深入研究RBP调控机制提供了重要的参考信息。POSTAR和CLIPdb数据库已经发表于生物信息学权威期刊Nucleic Acids Research (2017;2019) 和BMC Genomics (2015)和杂志，并且被Omic Tools工具库列为研究RBP调控功能的重要数据库之一。
+>
 > <img src="RBPgroup.png" style="zoom:50%;" />
 
 
@@ -54,7 +56,7 @@ _RBPgroup_: Crosslinking immunoprecipitation sequencing (CLIP-seq) technologies 
 **RNA生物信息学在癌症和精准医疗上的应用：**
 近年来，各种各样的RNA类型，尤其是各种非编码RNA（noncoding RNA, ncRNA），在很多重要的生命活动中被发现并引起人们的关注。研究表明，RNA可通过不同途径参与多种生命活动，与人类疾病密切相关，比如癌症。我们将和医学院、药学院的其他实验室紧密合作，做好学科交叉，利用好我们在方法、理论和机制方面的研究成果，充分发挥我们在疾病基因组学和RNA数据挖掘分析方面的经验、方法优势和理论基础。我们之前在肝癌上的研究成果表明非编码RNA在癌症的发生发展和迁移中起到了重要的作用，我们将继续这一研究，注重在肿瘤实体以及体液检测中的新型分子标志物方面的应用性研究。
 
-Long noncoding RNAs (lncRNAs) have been associated with cancer (such as Hepatocellular carcinoma, HCC), but a comprehensive analysis of their specific association with HCC metastasis has not been conducted. Here, by analysing 60 clinical samples’ RNA-seq data from 20 HCC patients, we have identified and characterized 8,603 candidate lncRNAs. The expression patterns of 917 recurrently deregulated lncRNAs are correlated with clinical data in a TCGA cohort and published liver cancer data. Matched array data from the 60 samples show that copy number variations (CNVs) and alterations in DNA methylation contribute to the observed recurrent deregulation of 235 lncRNAs. Many recurrently deregulated lncRNAs are enriched in co-expressed clusters of genes related to cell adhesion, immune response and metabolic processes. Candidate lncRNAs related to metastasis, such as HAND2-AS1, were further validated using RNAi-based loss-of-function assays. Thus, we provide a valuable resource of functional lncRNAs and biomarkers associated with HCC tumorigenesis and metastasis.
+_Cancer Biomarker_: Long noncoding RNAs (lncRNAs) have been associated with cancer (such as Hepatocellular carcinoma, HCC), but a comprehensive analysis of their specific association with HCC metastasis has not been conducted. Here, by analysing 60 clinical samples’ RNA-seq data from 20 HCC patients, we have identified and characterized 8,603 candidate lncRNAs. The expression patterns of 917 recurrently deregulated lncRNAs are correlated with clinical data in a TCGA cohort and published liver cancer data. Matched array data from the 60 samples show that copy number variations (CNVs) and alterations in DNA methylation contribute to the observed recurrent deregulation of 235 lncRNAs. Many recurrently deregulated lncRNAs are enriched in co-expressed clusters of genes related to cell adhesion, immune response and metabolic processes. Candidate lncRNAs related to metastasis, such as HAND2-AS1, were further validated using RNAi-based loss-of-function assays. Thus, we provide a valuable resource of functional lncRNAs and biomarkers associated with HCC tumorigenesis and metastasis.
 
 
 
@@ -84,21 +86,17 @@ _RNAstructurome_: Recently, several experimental techniques have emerged for pro
 
 > **代表性工作**
 >
-> 实验室一直致力于和RNA相关的生物信息学研究，从非编码RNA的“序列-结构-功能（靶标）”三个层次研发了一套系统性的生物信息学方法 (ncRNA Project)。这些方法和 [软件](http://www.ncrnalab.org/software) 分为3个层次和系列：
+> 实验室一直致力于和RNA相关的生物信息学研究，在863项目(ncRNA Project)的支持下，针对非编码RNA研发了一套系统性的生物信息学方法。这些方法和 [软件](http://www.ncrnalab.org/software) 的代表性工作包括：
 >
-> (1) **RNAfinder**软件系列: 利用机器学习发现基因组暗物质-新型非编码RNA基因
+> **RNAfinder**软件系列: 利用机器学习发现基因组暗物质-新型非编码RNA基因
 >
-> 由实验室ncRNA Project开发的第一个软件系列RNAfinder发表了两个新的成果：RNAfeature和COME。非编码RNA(noncoding RNA)是一类新型基因，它们在生物体内行使着多种多样的重要功能。为了能够有效地鉴定这些新基因，ncRNA project开发了两个配套的基于机器学习方法的工具：RNAfeature 和COME。RNAfeature通过机器学习方法整合并筛选了超过600套基因组学数据、表观基因组学数据、转录组学数据与多个进化学、生物物理学数值特征，得到了包括序列特征、结构特征、表达谱特征及表观遗传标记特征等10个共有特征可以跨物种跨种类描述非编码RNA。进一步地， COME可以将这些特征整合在一起并非常有效地鉴定新型非编码RNA。RNAfeature和 COME各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015和2016），被很多重要的基因组学工作采用，其中最具影响力的是国际重大研究计划ENCODE（人类基因组注释计划）。
+> 由实验室ncRNA Project开发的第一个软件系列RNAfinder发表了两个新的成果：RNAfeature和COME。非编码RNA(noncoding RNA)是一类新型基因，它们在生物体内行使着多种多样的重要功能。为了能够有效地鉴定这些新基因，ncRNA project开发了两个配套的基于机器学习方法的工具：RNAfeature 和COME。RNAfeature通过机器学习方法整合并筛选了超过600套基因组学数据、表观基因组学数据、转录组学数据与多个进化学、生物物理学数值特征，得到了包括序列特征、结构特征、表达谱特征及表观遗传标记特征等10个共有特征可以跨物种跨种类描述非编码RNA。进一步地， COME可以将这些特征整合在一起并非常有效地鉴定新型非编码RNA。RNAfeature和 COME各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015;2017），被很多重要的基因组学工作采用，其中最具影响力的是国际重大研究计划ENCODE（人类基因组注释计划）。
 >
-> (2) **RNAstructurome**软件系列: 利用能量模型和高通量测序预测RNA二级结构
+> **RNAstructurome**软件系列: 利用能量模型和高通量测序预测RNA二级结构
 >
 > 由实验室ncRNA Project开发的第二个软件系列RNAstructurome最近发表了一个新的算法RME，并配套了一个网络服务RNAex。在中心法则中，RNA位于承上启下的位置。除了传递遗传信息，RNA还可以发挥结构介导的基因调控功能。但是，RNA结构目前还难以被准确解析。近年来，研究者们发明了一系列新的高通量结构测定技术，用于辅助RNA二级结构预测，是RNA功能生物学中非常耀眼的突破。为有效利用这些新型数据，我们首先开发了RME算法，实现了数据指导下的RNA二级结构预测，进而，我们搭建了RNAex在线服务器，提供了自动化的数据访问和软件使用。
 RME算法基于统一的统计模型对高通量结构测定数据进行转换，而后将其加入到能量模型中，实现了整合两种信息的RNA二级结构预测。在数据区分度较好时，RME可以大幅提高RNA二级结构预测准确度。
 RNAex服务器对目前主流的结构测定数据进行了统一处理，提供了4种模式物种的数据查询，和3种结构预测软件的在线使用，并将预测结构与功能信息进行统一可视化，使得用户可以快速有效的利用新型数据。
-目前，RME算法和RNAex服务器各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015和2016）。并被OMICtools数据库收录，是RNA结构组学目录下的第一个代表性算法。
->
-> (3) **RNAtarget**软件系列: 建立RNA数据库，构建RNA和蛋白质的互作调控网络
->
->由清华大学鲁志实验室ncRNA Project 开发的第三个软件系列RNAtarget最近增添了2个新的工具：POSTAR和CLIPdb。在真核细胞内，转录组与转录后调控有着密切的关联：转录本RNA从产生直至降解的过程中，总是被RNA结合蛋白（RBP）和其他RNA分子结合，这些调控因子参与几乎所有的转录后调控事件，包括RNA分子的剪接、加尾、亚细胞定位以及降解等。近年来，已经在包括癌症和神经退行性疾病等多种严重的人类疾病中发现了RBP及其参与的转录后调控的异常。然而，目前关于RBP参与转录后调控的数据库和计算工具还相当有限。因此，我们以大规模的CLIP-seq数据集为基础，整合其他高通量数据，构建了RBP转录后调控的整合型数据库CLIPdb和CLIP2-POSTAR。CLIPdb 是提供全转录组水平上高精度的RBP结合位点的数据库。我们收集了来自四个物种（人类、小鼠、线虫与酵母）中400余套已发表的CLIP-seq数据集，涵盖了约120个RBP，使用统一的的计算方法在全转录组内鉴定RBP结合位点，并提供了方便的可视化和检索界面。CLIPdb的第2版，POSTAR 提供了人类和小鼠转录组中目前已知最全面的来自实验证据和计算预测的RBP结合位点，涵盖了236个RBP。更进一步，利用大量的分子调控事件、基因组变异位点以及功能性基因等信息，POSTAR对RBP结合位点进行了详细的功能注释，为进一步深入研究RBP调控机制提供了重要的参考信息。POSTAR和CLIPdb数据库已经发表于生物信息学权威期刊Nucleic Acids Research (2016) 和BMC Genomics (2015)和杂志，并且被Omic Tools工具库列为研究RBP调控功能的重要数据库之一。
+目前，RME算法和RNAex服务器各自发表于生物信息学代表性期刊Nucleic Acids Research上（2015;2016）。并被OMICtools数据库收录，是RNA结构组学目录下的第一个代表性算法。
 >
 > ![](RNAfinder.png)
