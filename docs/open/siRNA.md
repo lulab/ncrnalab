@@ -28,7 +28,7 @@ description: Collaborate with us !
 
   本实验室属于交叉科学实验室，致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-> 实验室负责人鲁志([个人官方主页](http://life.tsinghua.edu.cn/publish/smkx/11230/2018/20180102030120630761402/20180102030120630761402_.html))博士，清华大学生命科学学院 研究员，博士生导师，国家“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章50余篇([Pulibcation List](https://www.ncrnalab.org/publications)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章约20篇（影响因子10分以上的10篇）。
+> 实验室负责人鲁志([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1494.htm))博士，清华大学生命科学学院 研究员，博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章近60篇([Pulibcation List](https://www.ncrnalab.org/publications)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。
 
 
 ## 项目简介
@@ -99,5 +99,5 @@ shRNAs can trigger effective silencing of gene expression in mammalian cells, th
 |:---|:---|
 |**办公电话：** |**+86-10-62789217** |
 |**E-mail：** | **lulab1 AT tsinghua.edu.cn** |
-|**实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **http://www.ncrnalab.org** |
+|**实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **[http://www.ncrnalab.org](http://www.ncrnalab.org)** |
 
