@@ -12,16 +12,12 @@ description: Collaborate with us !
 
 ## 基本信息
 
-- **招募机构：医院、临检机构或者癌症检测公司等**   
-
+- **招募机构：医院、临检机构或者癌症检测公司等** 
 - **起止日期：长期招募**
-
 - **合作课题：**
-
   - **癌症早筛、早诊和预后中新型体液游离RNA标志物的研究** 
   - **相关试剂盒和检测方法的开发和生产** 
-
-- **发起组织：清华大学生命学院鲁志实验室**  
+- **发起组织：清华大学生命学院鲁志实验室** 
 
   
 
@@ -102,11 +98,17 @@ description: Collaborate with us !
 
 我们在前期研究exRNA的过程中，参考最新的单细胞测序方法，摸索了一套可以从体液中高效率地捕获不同长度、不同类型的exRNA的实验流程。我们计划将其开发成试剂盒，可以帮助使用者从多种体液开始，涵盖了提取、纯化、捕获、扩增等一系列步骤的试剂及方法，可在1-2天内完成从体液获取到exRNA上机测序的全部准备，实用便捷。
 
-试剂盒包含small RNA-seq和total RNA-seq两种方案。
+试剂盒包含small RNA-seq和total RNA-seq两种方案:
+
+![](image/exRNA-seq.png)
+
+
+
+
 
 #### 4. 提供体液中新型exRNA的鉴定方法：生物信息学软件和平台
 
-我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面。
+我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面:
 
 
 * **1) RNAfinder**
