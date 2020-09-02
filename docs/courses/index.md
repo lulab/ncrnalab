@@ -16,7 +16,7 @@ description: Teaching @ Tsinghua
 
 #### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo}
 
-> 本课程也设有一定的本科生容量，原本科《生物信息学导论》课并入其中
+> 本课程也设有一定的本科生容量，和本科生课《生物信息学导论》也有部分内容相同
 
 ---
 
@@ -135,7 +135,46 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 ### Basic Courses 本科生课程
 
-#### I. Biophysics 《生物物理学》 {#biophysics}
+#### I. Introduction to Bioinformatics《生物信息学导论》 {#bioinfo3}
+
+> 本课程和研究生课《生物信息学实践》有部分内容相同
+
+---
+
+主讲课程
+
+-   时间：春季学期
+-   学时：32
+-   学分：2
+-   主讲老师：鲁志   \|  合讲老师：龚海鹏等       
+-   对象：博士生容量\~20人，本科生容量\~10人
+-   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
+-   教学日历和教案: 
+
+**【Teaching Philosophy】**
+
+“Study and Practice”  格物致知 \| 知行合一
+
+> We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
+
+
+**【课程简介】**
+
+生物信息学是采用数学、统计学、计算机等方法分析生物医学数据的一种交叉性学科。
+
+该课程的教学目的是为了让学生对生物信息的基础知识有所了解和掌握，同时让学生能够掌握实用的生物信息学实用技能和编程技术。课程设计是让学生能够从“零基础”开始，逐步学习生物信息基础知识和练习基础计算机技能，直到最后能够对常用的生物信息学技术例如机器学习等都有所掌握。课程将让学生从了解和练习基本的Linux操作开始，通过生物信息必备的计算语言（如Bash, R, Python等）的编程训练，掌握生物信息学在新一代高通量测序数据上的基本分析方法。
+
+该课程除了理论教学，加强补充了实践练习的训练环节，更强调学生对生物信息学实际应用的实践学习和上机练习，在往年基础上加大了课程的挑战性和实用性。
+
+**【预修课程准备】**
+
+1. 基本生物课程： 如《遗传学》和/或《分子生物学》
+2. 基本统计课程： 如《概率论》和/或《生物统计》
+3. 基本数学课程： 如《线性代数》
+4. 基本计算机课程：如《C语言》
+
+#### II. Biophysics 《生物物理学》 {#biophysics}
+
 ---
 
 讲授单元：**RNA Secondary Structure Prediction** -- 6hr
