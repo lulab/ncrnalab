@@ -147,7 +147,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 -   学时：32
 -   学分：2
 -   主讲老师：鲁志   \|  合讲老师：龚海鹏等       
--   对象：博士生容量\~20人，本科生容量\~10人
+-   对象：本科生容量\~20人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
 -   教学日历和教案: 
 
