@@ -23,7 +23,7 @@ description: Collaborate with us !
 
 ## 研究目标
 
-#### **我们的使命，是帮助人们更早期的发现癌症，因为“上工治未病”**
+#### **“上工治未病”，我们的使命，是帮助人们更早期的发现癌症**
 
  该癌症检测项目的目的是要为癌症早期筛查、早期诊断以及预后治疗寻找到更好（精准、重复性高、经济上利于普及大众、操作上简单无创）的新型体液标志物（exRNA），并标准化其检测和解析流程，开发出新的液体活检技术。
 
@@ -159,7 +159,7 @@ description: Collaborate with us !
 >
 > `Host: http://lulab.life.tsinghua.edu.cn/clipdb`
 
-    CLIPdb是一个集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
+    CLIPdb集成了各种类型的CLIP-seq数据，是描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
 
 * **3) RNAstructure**
 
@@ -169,7 +169,7 @@ description: Collaborate with us !
 >
 > `Github: https://github.com/lulab/RME`
 
-    RME是RNA二级结构预测的工具，同时提供了多种类型的实验探测数据。
+    RME用于预测RNA二级结构，同时提供了多种类型的实验探测数据。
 
 * **4) RNAmed**
 
@@ -179,7 +179,7 @@ description: Collaborate with us !
 >
 > `Host: http://lulab.life.tsinghua.edu.cn/ccg`
 
-    CCG是一个用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源。
+    CCG用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用。
 
 * **5) Biomarker**
 
@@ -187,13 +187,13 @@ description: Collaborate with us !
 
     > `Github: https://github.com/lulab/exSEEK`
 
-      exSeek是一个用于整合分析和评估细胞外RNA作为生物标志物的一个计算框架。
+      exSeek是用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
 
   * exMarker
 
     > `Host: http://lulab.life.tsinghua.edu.cn/exmarker/`
 
-      exMarker是一个能提供用于检索和评估各种生物学元件作为生物标志物，预测疾病患病可能性的一个集成资源。
+      exMarker能提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
 
 
 ## 合作方资质需求
