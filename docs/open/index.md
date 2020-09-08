@@ -237,11 +237,12 @@ description: Collaborate with us !
 
 ## 相关专利
 
-* 基于机器学习的生物信息方法RNAfinder（专利号：201610806928.8）(Science 2010; Genome Res. 2011; Nucleic Acids Res. 2015;2017a;2018)
-* 针对肝癌的一个新型非编码exRNA标志物（专利号:201811009464.3）(Nature Comminications 2017; Clinical Chemistry 2019)
-* 超微量RNA捕获和测序技术i-SMART(专利申请号：201810607652X）(Briefings in Bioinformatics 2018; Cell Res. 2020)
-* 体液样本中鉴定exRNA生物标志物的方法(专利申请号：202010618721.4)（Clinical Chemistry 2019)
-* 癌症相关的RNA数据库（著作权号：2016R11S367236）(Genome Biology 2017; Nucleic Acids Res. 2017b;2019)
+* 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
+* 针对肝癌的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
+* 超微量RNA捕获和测序技术i-SMART (**专利申请号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
+* 体液样本中鉴定exRNA生物标志物的方法 (**专利申请号：202010618721.4**)（*Theranostics* 2020)
+* 一种用于肝细胞癌早期筛查的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2020)
+* 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
 
 
 ![主要专利](image/patent.png)
