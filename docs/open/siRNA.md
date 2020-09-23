@@ -14,6 +14,9 @@ description: Collaborate with us !
 
 - **招募机构：医院和医药公司等** 
 - **合作课题：RNA在疾病治疗上的应用**  
+- **合作方式**：
+  - 我们提供siRNA/shRNA的设计及靶标筛选方案
+  - 合作方提供Deliver RNA的方法  或者 提供靶标的疾病  
 - **发起组织：清华大学生命学院鲁志实验室**（Lab of *RNA Bioinformatics*）
 - **有效时间：长期**
 
@@ -45,14 +48,6 @@ shRNAs can trigger effective silencing of gene expression in mammalian cells, th
 
 > 针对新型RNA的10余年研究经验和主要成果
 > ![针对新型RNA的10余年研究经验和主要成果](image/rna_study_10years.png)
-
-
-## 合作方资质需求
-
-
-* 可以提供Deliver RNA的方法  
-
-* 可以提供靶标的疾病  
 
 
 
