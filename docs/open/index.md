@@ -218,13 +218,15 @@ description: Collaborate with us !
 
 ## 代表性论文
 
-* Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)(IF:18)
-* Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) Selective translation by alternative bacterial ribosomes. ***PNAS*** (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:10)
+* Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:20.5)
+* Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) Selective translation by alternative bacterial ribosomes. ***PNAS*** (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:9.4)
+* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2020) Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer. ***Theranostics*** doi:10.7150/thno.48206 (<sup>1</sup>contributed equally, \*co-corresponding authors)  (IF: 8.6)
 * Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu*** (2019) Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma **_Clinical Chemistry_** 65:7 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 8)
+* Zhiyu Xu<sup>1</sup>, Long Hu<sup>1</sup>, Binbin Shi, SiSi Geng, Longchen Xu, Dong Wang\* and **Zhi John Lu\*** (2018) Ribosome elongating footprints denoised by wavelet transform comprehensively characterize dynamic cellular translation events. ***Nucleic Acids Research*** 46 (18), e109-e109  (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 11)
 * Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12)
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 14)
-* Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **_Nucleic Acids Research_** 45 (D1): D104-D114 (<sup>1</sup>contributed equally) (IF: 11)
-* Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu*** (2017) COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features. **_Nucleic Acids Research_** 45 (1): e2  (IF: 11)
+
+
 
 ## 代表性合作
 
@@ -238,11 +240,18 @@ description: Collaborate with us !
 ## 相关专利
 
 * 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
-* 针对肝癌的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
-* 超微量RNA捕获和测序技术i-SMART (**专利申请号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
-* 体液样本中鉴定exRNA生物标志物的方法 (**专利申请号：202010618721.4**)（*Theranostics* 2020)
-* 一种用于肝细胞癌早期筛查的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2020)
+
 * 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
+
+* 针对肝癌的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
+
+* 超微量RNA捕获和测序技术i-SMART (**专利申请号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
+
+* 体液样本中鉴定exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)（*Theranostics* 2020)
+
+* 一种用于肝细胞癌早期筛查的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2020)
+
+  
 
 
 ![主要专利](image/patent.png)

@@ -12,13 +12,19 @@ title: Publications
 
 ## 2020
 
-*	Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) **Selective translation by alternative bacterial ribosomes.** *PNAS* (<sup>1</sup>contributed equally, \*co-corresponding authors)
-
-    [View Detail](https://doi.org/10.1073/pnas.2009607117)
-
 *	Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) **Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer.** *Cell Research* 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
     [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31811277)
+
+*	Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) **Selective translation by alternative bacterial ribosomes.** *PNAS* 117(32):19487-19496 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+
+    [View Detail](https://doi.org/10.1073/pnas.2009607117)
+
+* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2020) **Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer.** *Theranostics* doi:10.7150/thno.48206 (<sup>1</sup>contributed equally, \*co-corresponding authors)  
+
+    [View Detail](https://www.thno.org/toc/acceptms)
+
+
 
 ## 2019
 
