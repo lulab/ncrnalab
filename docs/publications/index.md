@@ -20,6 +20,10 @@ title: Publications
 
     [View Detail](https://doi.org/10.1073/pnas.2009607117)
 
+*	Yu Ma<sup>1</sup>, Shang Zhang<sup>1</sup>, Chao Bi<sup>1</sup>, Chao Mei, Shang-Chuan Jiang, Xiao-Fang Wang,  **Zhi John Lu**\* and Da-Peng Zhang\* (2020) **Arabidopsis exoribonuclease USB1 interacts with the PPR-domain protein SOAR1 to negatively regulate abscisic acid signaling.** *Journal of Experimental Botany* eraa315 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+
+    [View Detail](https://doi.org/10.1093/jxb/eraa315)
+
 * Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2020) **Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer.** *Theranostics* doi:10.7150/thno.48206 (<sup>1</sup>contributed equally, \*co-corresponding authors)  
 
     [View Detail](https://www.thno.org/toc/acceptms)
