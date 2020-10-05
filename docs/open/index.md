@@ -13,7 +13,6 @@ description: Collaborate with us !
 
 ---
 
-
 ## 实验室简介
 
 鲁志实验室（[实验室主页](http://www.ncrnalab.org)）隶属清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。本实验室已经建立了项目所需要的基本分子实验平台和计算平台，同时也依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
@@ -174,6 +173,8 @@ description: Collaborate with us !
 
 <img src="image/compare.png" style="zoom: 30%;" />
 
+
+<div style="page-break-after: always;"></div>
 
 # 项目二：小RNA治疗科研项目 {#proj2}
 
