@@ -15,11 +15,11 @@ description: Collaborate with us !
 
 ## 实验室简介
 
-鲁志实验室（[实验室主页](http://www.ncrnalab.org)）隶属清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。本实验室已经建立了项目所需要的基本分子实验平台和计算平台，同时也依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
+鲁志实验室（[实验室主页](http://www.ncrnalab.org)）下属于清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。本实验室已经建立了项目所需要的基本分子实验平台和计算平台，同时也依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
 
-本实验室属于交叉科学实验室，致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
+本实验室属于交叉科学实验室，致力于发展生物信息学技术，并探索能够广泛应用于基因组学和癌症生物学的医学实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。“上工治未病”，我们的一个使命，就是要帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-> 实验室负责人鲁志博士([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院 研究员，博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章近60篇([Pulibcation List](https://www.ncrnalab.org/publications)),包括Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。
+> 实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院 研究员，博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括 *Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research* 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。
 
 针对新型RNA的10余年研究经验和主要成果：<img src="image/rna_study_10years.png" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" align="center" />
 
@@ -39,68 +39,86 @@ description: Collaborate with us !
 - **发起组织：清华大学生命学院鲁志实验室** （Lab of *RNA Bioinformatics*）
 - **有效时间：长期**
 
-## 研究目标
+## 研究目标和项目简介
 
-该癌症检测项目的目的是要为癌症早期筛查、早期诊断以及预后治疗寻找到更好（精准、重复性高、经济上利于普及大众、操作上简单无创）的新型体液标志物（exRNA），并标准化其检测和解析流程，开发出新的液体活检技术。**我们的使命，是帮助人们更早期的发现癌症，因为“上工治未病”**
+* **研究目标**：
 
-## 项目简介
+该癌症检测项目的目的是要为癌症早期筛查、早期诊断以及预后治疗寻找到更好（精准、重复性高、经济上利于普及大众、操作上简单无创）的新型体液标志物（exRNA），并标准化其检测和解析流程，开发出新的液体活检技术。**“上工治未病”，我们的一个使命，就是要帮助人们更早期的发现癌症。**
+
+* **项目简介**：
 
 本项目将基于基因组学和生物信息学，通过开发体液RNA微量测序技术和机器学习方法，在体液中发现和鉴定与癌症发生发展相关的新型exRNA标志物，应用于国内高致死癌症的早期诊断和预后辅助治疗。exRNA指的是胞外RNA，包括的类型很多，例如miRNA,Y RNA,circRNA,lncRNA等。RNA标志物与DNA和蛋白标志物相比，具有更好的敏感性、组织特异性和多样性，给更好的临床检验带来了新的期望。我们在新型非编码RNA和生物信息学研究方面积累了丰富经验，基于此，我们将在癌症病人体液（如血液）中发现和分析标志癌症发生发展的新型exRNA，并整合现有标志物构建多重标志物的智能模型，在大样本上进行验证，建立具有更高精准度和可重复性的无创检验方法。
 
-我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了10余年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（Science 2010; Nature 2012; Nature 2014; Nature Communications 2017), 其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)，发现了一些新的exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)，为癌症无创检测试剂盒的开发提供有力的支持。
+我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了10余年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利申请号:2018110094643) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2020*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*)，为癌症无创检测试剂盒的开发提供有力的支持。
 
 
 ## 合作方式 
 
-* **1) 合作发现和研究体液中的新型exRNA标志物**。
-  * **I期. 新型标志物的“发现和探索”阶段** 
-  	* 贵院/临检机构负责收集 **少量（30-50例血样）** 癌症病人和/或健康对照人群的血浆，妥善储存并运输； 
-  	* 鲁志实验室负责进行预实验和分析，实验和分析费用由鲁志实验室承担； 
-  	* 共同发表文章。
-  * **II期. 新型标志物的“鉴定和验证”阶段** 
-    * 在前期预实验效果较好的前提下，还需要在 **大量样本（200-500例血样）** （最好部分血样能配套组织样本）中进行测序和验证；
-    * 实验费用由双方共同承担；
-    * 共同发表文章和申请专利，具体合作事宜面议。
-  
-* **2) 我们提供相关试剂盒和检测方法的开发和生产方案**。
-	* **III期. 新型标志物的再验证和优化阶段**
-		* 鲁志实验室负责从自有的液体活检生物标志物数据库中，综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等，根据贵单位需求筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白等不同分子类型；
-		* 贵单位负责对筛选的标志物在大量（**200-500例**）癌症病人和健康对照人群的血浆样本中进行更大规模的二次验证；
-		* 鲁志实验室负责对二次验证数据进行再分析，采用机器学习等人工智能方法优化出诊断模型。
-	* **IV期. 大规模临床、试剂盒开发和产业化阶段**
-		* 共同寻找投资和合作伙伴，进行试剂盒和三类医疗器械证的开发、申报（**样本1000-2000例**）及推广，具体合作事宜面议。
+#### 1) 合作发表科研文章
 
-> 我们构建了一个**包含 DNA，RNA，蛋白质和代谢物**的整合性液体活检生物标志物数据库。该数据库包括：
+**合作发现和研究体液中的新型exRNA标志物，共同发表科研文章**
+
+* **I期. 新型标志物的“发现和探索”阶段** 
+	* 贵院/临检机构负责收集 **少量（30-50例血样）** 癌症病人和/或健康对照人群的血浆，妥善储存并运输； 
+	* 鲁志实验室负责进行预实验和分析，实验和分析费用由鲁志实验室承担。
+* **II期. 新型标志物的“鉴定和验证”阶段** 
+	* 在前期预实验效果较好的前提下，还需要在 **大量样本（200-500例血样）** （最好部分血样能配套组织样本）中进行测序和验证；
+	* 实验费用由双方共同承担，具体合作事宜面议。
+
+> **样本收集与临床队列设计**：
+> <img src="image/flow.png" style="zoom: 50%;" />
+
+#### 2) 合作开发试剂盒和申请器械证
+
+**我们提供相关试剂盒和检测方法的开发和生产方案**
+
+* **III期. 新型标志物优化和试剂盒设计**
+	* 鲁志实验室负责从前期科研成果和**自有的液体活检生物标志物数据库**中（**注1**），综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等，**根据贵单位需求**筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白等不同分子类型；
+	* 贵单位负责对筛选的标志物在大量（**200-500例**）癌症病人和健康对照人群的血浆样本中进行更大规模的二次验证；
+	* 鲁志实验室负责对二次验证数据进行再分析，采用机器学习等人工智能方法优化出诊断模型，设计相应试剂盒；
+	* 贵单位进行相应试剂盒生产。
+* **IV期. 大规模临床报证和产业化阶段**
+	* 共同寻找投资和合作伙伴，进行三类医疗器械证的注册、申报（**样本1000-2000例**）及推广，具体合作事宜面议。
+
+> **注1：**
+>
+> 我们已经构建了一个**包含 DNA，RNA，蛋白质和代谢物**的整合性液体活检生物标志物数据库。该数据库包括：
+>
 >   *  获 FDA 批准的近百个用于临床肿瘤诊断、指导用药和预后的生物标志物；
 >   *  从 上千篇已发表科研文献中手动收集的具有临床应用潜能的生物标志物；
 >   *  从公开发表的几千套液体活检高通量数据中鉴定出来的候选 RNA 生物标志物。
-> 
+>
 > 我们的数据库涵盖了肺癌、乳腺癌、结直肠癌、肝癌、胰腺癌、胃癌、食管癌、脑胶质瘤、多发性骨髓瘤、前列腺癌、卵巢癌、肾癌、冠心病等**31种人类疾病**。同时，我们基于标志物的证据水平发展了一套**标志物分级系统**，给每一个标志物指定一个证据等级，帮助用户快速地认识所感兴趣的标志物的临床应用潜力。
 
+> **各种无创检测（液体活检）技术对比：**
+> <img src="image/compare.png" style="zoom: 30%;" />
 
-* **3) 我们提供体液中新型标志物的发现和鉴定方法 - 实验方案**
+#### 3) 提供标志物发现和优化的实验方案
+
+**我们提供体液中新型标志物的发现和鉴定方法 - 实验方案**
 
 我们在前期研究exRNA的过程中，参考最新的单细胞测序方法，摸索了一套可以从体液中高效率地捕获不同长度、不同类型的exRNA的实验流程。我们计划将其开发成试剂盒，可以帮助使用者从多种体液开始，涵盖了提取、纯化、捕获、扩增等一系列步骤的试剂及方法，可在1-2天内完成从体液获取到exRNA上机测序的全部准备，实用便捷。
 
-包含small RNA-seq和total RNA-seq两种方案:
+> **包含small RNA和total RNA的全转录组捕获、富集和测序方案:**
+> <img src="image/exRNA-seq.png" style="zoom:33%;" />
 
-<img src="image/exRNA-seq.png" style="zoom:33%;" />
+#### 4) 提供标志物发现和优化的生信分析
 
-* **4) 我们提供体液中新型标志物的发现和鉴定方法 - 生物信息学分析和软件定制**。我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面:
-	* **a) RNAfinder**
-		* Ribowave (*Nucleic Acids Research* 2018,  [Github](https://github.com/lulab/Ribowave)):  用于核糖体测序数据（Ribo-seq）的分析。利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息。
-	  * COME (*Nucleic Acids Research* 2017,  [Github](https://github.com/lulab/COME)):  用于mRNA和lncRNA中蛋白编码潜能的分析。
-	  * RNAfeature (*Nucleic Acids Research* 2015,  [Github](https://github.com/lulab/RNAfeature)): 用于多个物种间非编码RNA保守性区域的分析。
-	* **b) RNAtarget**
-		* RBPgroup (*Genome Biology*  2017,  [Github](https://github.com/lulab/RBPgroup)): 用于各种CLIP-seq数据的RNA结合蛋白的分析。
-	    * POSTAR (*Nucleic Acids Research* 2019/2017, [Website](http://lulab.life.tsinghua.edu.cn/postar)): 一个通过RNA结合蛋白来探究转录后调控事件的分析平台。能提供多个物种间RNA-蛋白的相互作用信息。
-	    * CLIPdb (*BMC Genomics* 2015, [Website](http://lulab.life.tsinghua.edu.cn/clipdb)): 集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
-	* **c) RNAstructurome**
-	  * RME (*Nucleic Acids Research* 2015, [Github](https://github.com/lulab/RME)):  RNA二级结构预测工具，同时提供了多种类型的实验探测数据。
-	* **d) RNAmed**
-	     * CCG (*Discovery Medicine*, 2016, [Website](http://lulab.life.tsinghua.edu.cn/ccg)): 用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源。
-	  * exSeek ([Github](https://github.com/lulab/exSEEK)): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
-	  * exMarker ([Website](http://lulab.life.tsinghua.edu.cn/exmarker/)): 提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
+**我们提供体液中新型标志物的发现和鉴定方法 - 生物信息学分析和软件定制**。我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面:
+* **a) RNAfinder**
+	* [Ribowave](https://github.com/lulab/Ribowave):  用于核糖体测序数据（Ribo-seq）的分析。利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息 (*Nucleic Acids Research* 2018)。
+	* [COME](https://github.com/lulab/COME):  用于mRNA和lncRNA中蛋白编码潜能的分析 (*Nucleic Acids Research* 2017)。
+	* [RNAfeature](https://github.com/lulab/RNAfeature): 用于多个物种间非编码RNA保守性区域的分析 (*Nucleic Acids Research* 2015)。
+* **b) RNAtarget**
+	* [RBPgroup](https://github.com/lulab/RBPgroup): 用于各种CLIP-seq数据的RNA结合蛋白的分析  (*Genome Biology*  2017)。
+	* [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个通过RNA结合蛋白来探究转录后调控事件的分析平台。能提供多个物种间RNA-蛋白的相互作用信息 (*Nucleic Acids Research* 2019/2017)。
+	* [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源  (*BMC Genomics* 2015)。
+* **c) RNAstructurome**
+	* [RME](https://github.com/lulab/RME):  RNA二级结构预测工具，同时提供了多种类型的实验探测数据 (*Nucleic Acids Research* 2015)。
+* **d) RNAmed**
+	* [CCG](http://lulab.life.tsinghua.edu.cn/ccg): 用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源  (*Discovery Medicine*, 2016)。
+	* [exSeek](https://github.com/lulab/exSEEK): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
+	* [exMarker](http://lulab.life.tsinghua.edu.cn/exmarker/): 提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
 
 ## 合作方资质需求和已有合作单位
 
@@ -118,7 +136,9 @@ description: Collaborate with us !
   - **重庆** 重庆开州人民医院
 
 
-## 相关专利
+## 相关专利和科研论文
+
+**相关专利**
 
 * 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
 * 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
@@ -127,11 +147,10 @@ description: Collaborate with us !
 * 体液样本中鉴定exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)（*Theranostics* 2020)
 * 一种用于肝细胞癌早期筛查的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2020)
 
-<img src="image/patent.png" alt="主要专利" style="zoom:33%;" />
+<img src="image/patent.png" alt="主要专利" style="zoom:20%;" />
 
-## 相关科研论文
 
-**主要代表性论文**
+**主要相关科研论文**
 
 * Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:20.5)
 * Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) Selective translation by alternative bacterial ribosomes. ***PNAS*** (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:9.4)
@@ -150,7 +169,7 @@ description: Collaborate with us !
 * Gerstein MB <sup>1</sup>\*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, \* 15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
-## 相关代表性在研项目
+## 相关在研项目
 
 *	国家自然科学基金面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，
   2020-2023		主持
@@ -160,17 +179,6 @@ description: Collaborate with us !
 *	北京市高精尖结构生物学中心竞争性项目， RNA二级结构预测新方法的开发和研究，2017-2020	主持
 *	国家科技部重点研发计划，2016YFA0500803，植物中新非编码RNA及其靶标的系统发现和解析，2016/07-2021/06	课题负责人 （生物信息组）
 *	北京市高精尖结构生物学中心竞争性项目， 植物免疫中的RNA动态结构研究，2020/07-2023/06	主持
-
-## 附录
-
-* **样本收集与临床队列设计**
-
-<img src="image/flow.png" style="zoom: 50%;" />
-
-
-* **各种无创检测（液体活检）技术对比**
-
-<img src="image/compare.png" style="zoom: 30%;" />
 
 ---
 
@@ -217,7 +225,7 @@ shRNAs can trigger effective silencing of gene expression in mammalian cells, th
 ---
 
 
-# 联系方式
+# 联系方式 {#contact}
 
 
 | **地址：**       | **清华大学 生命科学学院，生物信息学“教育部重点实验室”， 北京，100084** |
