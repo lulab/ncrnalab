@@ -4,40 +4,15 @@ title: 清华大学・鲁志实验室 寻求合作
 description: Collaborate with us !
 ---
 
-
 # 清华大学鲁志实验室科研项目寻求合作
 
-<<<<<<< HEAD
+
 **目录：**
-=======
----
-
-
-## 基本信息
-
-- **招募机构：医院、临检机构、医药公司、癌症检测公司等** 
-
-- **合作课题和合作方式：**
-
-  - **合作发现和研究癌症早筛、早诊和预后中的新型体液标志物** 
-  - **我们提供相关试剂盒和检测方法的开发和生产方案** 
-  - **我们提供相关生物信息学分析和软件定制**
-
-- **发起组织：清华大学生命学院鲁志实验室** （Lab of *RNA Bioinformatics*）
-
-- **有效时间：长期**
-
-  
-
-## 研究目标
-
-#### **“上工治未病”，我们的使命，是帮助人们更早期的发现癌症**
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
-
 * TOC
 {:toc}
 
 ---
+
 
 ## 实验室简介
 
@@ -119,15 +94,15 @@ description: Collaborate with us !
 	  * COME (*Nucleic Acids Research* 2017,  [Github](https://github.com/lulab/COME)):  用于mRNA和lncRNA中蛋白编码潜能的分析。
 	  * RNAfeature (*Nucleic Acids Research* 2015,  [Github](https://github.com/lulab/RNAfeature)): 用于多个物种间非编码RNA保守性区域的分析。
 	* **b) RNAtarget**
-		* RBPgroup (*Genome Biology*  2017,  [Github](https://github.com/lulab/RBPgroup)）: 用于各种CLIP-seq数据的RNA结合蛋白的分析。
+		* RBPgroup (*Genome Biology*  2017,  [Github](https://github.com/lulab/RBPgroup)): 用于各种CLIP-seq数据的RNA结合蛋白的分析。
 	    * POSTAR (*Nucleic Acids Research* 2019/2017, [Website](http://lulab.life.tsinghua.edu.cn/postar)): 一个通过RNA结合蛋白来探究转录后调控事件的分析平台。能提供多个物种间RNA-蛋白的相互作用信息。
-	    * CLIPdb (*BMC Genomics* 2015, [Website](http://lulab.life.tsinghua.edu.cn/clipdb)）: 一个集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
+	    * CLIPdb (*BMC Genomics* 2015, [Website](http://lulab.life.tsinghua.edu.cn/clipdb)): 集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
 	* **c) RNAstructurome**
 	  * RME (*Nucleic Acids Research* 2015, [Github](https://github.com/lulab/RME)):  RNA二级结构预测工具，同时提供了多种类型的实验探测数据。
 	* **d) RNAmed**
-	     * CCG (*Discovery Medicine*, 2016, [Website](http://lulab.life.tsinghua.edu.cn/ccg)): 一个用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源。
-	  * exSeek ([Github](https://github.com/lulab/exSEEK)): 一个用于整合分析和评估细胞外RNA作为生物标志物的一个计算框架。
-	  * exMarker ([Website](http://lulab.life.tsinghua.edu.cn/exmarker/)): 一个能提供用于检索和评估各种生物学元件作为生物标志物，预测疾病患病可能性的一个集成资源。
+	     * CCG (*Discovery Medicine*, 2016, [Website](http://lulab.life.tsinghua.edu.cn/ccg)): 用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源。
+	  * exSeek ([Github](https://github.com/lulab/exSEEK)): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
+	  * exMarker ([Website](http://lulab.life.tsinghua.edu.cn/exmarker/)): 提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
 
 ## 合作方资质需求和已有合作单位
 
@@ -177,11 +152,7 @@ description: Collaborate with us !
 * Gerstein MB <sup>1</sup>\*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, \* 15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
-<<<<<<< HEAD
 ## 相关代表性在研项目
-=======
-    CLIPdb集成了各种类型的CLIP-seq数据，是描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源。
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
 
 *	国家自然科学基金面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，
   2020-2023		主持
@@ -196,41 +167,17 @@ description: Collaborate with us !
 
 * **样本收集与临床队列设计**
 
-<<<<<<< HEAD
- 该课题将针对多种国内高致死率或高发的癌症，如肺癌、胃癌、肝癌、食管癌、结直肠癌、乳腺癌、胰腺癌等，收集患者的血浆，用以发现新型exRNA标志物。随后，我们将建立标准的实验检测方法与生物信息学算法，开发设计无创检测试剂盒，用于癌症的早期筛查、早期诊断和预后辅助治疗。样本收集与临床队列设计如下：
-=======
-    RME用于预测RNA二级结构，同时提供了多种类型的实验探测数据。
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
-
 <img src="image/flow.png" style="zoom: 50%;" />
 
 
 * **各种无创检测（液体活检）技术对比**
 
-<<<<<<< HEAD
-<img src="image/dba_small.png" style="zoom: 67%;" />
-=======
-    CCG用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用。
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
+<img src="image/compare.png" style="zoom: 30%;" />
 
-
-
----
-
-<<<<<<< HEAD
-<div style="page-break-after: always;"></div>
-=======
-      exSeek是用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
 
 # 项目二：小RNA治疗科研项目 {#proj2}
 
-
-<<<<<<< HEAD
 ## 基本信息
-=======
-      exMarker能提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
->>>>>>> 7480af3078171a3f7a95c8c887f3d7c1cec55a86
 
 - **招募机构：医院和医药公司等** 
 - **合作课题：RNA在疾病治疗上的应用**  
