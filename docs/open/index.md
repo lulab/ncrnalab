@@ -21,11 +21,11 @@ description: Collaborate with us !
 
 > 实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院 研究员，博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括 *Science, Genome Res., Genome Biology, Nature Communications, Nucleic Acids Research* 等, 总引用超过10,000 次（[Google Scholar Site](https://scholar.google.com/citations?user=wrtnAbEAAAAJ&hl=en))；其中，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。
 
-针对新型RNA的10余年研究经验和主要成果：<img src="image/rna_study_10years.png" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" align="center" />
+针对新型RNA的10余年研究经验和主要成果：<img src="image/rna_study_10years.png" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" />
+
+<br/>
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 # 项目一：癌症无创基因检测项目 {#proj1}
 
@@ -182,9 +182,9 @@ description: Collaborate with us !
 
 <br/><br/><br/>
 
----
-
 <div style="page-break-after: always;"></div>
+
+---
 
 # 项目二：特定疾病的小RNA治疗项目 {#proj2}
 
