@@ -23,8 +23,7 @@ description: Collaborate with us !
 
 针对新型RNA的10余年研究经验和主要成果：<img src="image/rna_study_10years.png" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" align="center" />
 
-
-
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -173,6 +172,7 @@ description: Collaborate with us !
 
 <img src="image/compare.png" style="zoom: 30%;" />
 
+---
 
 <div style="page-break-after: always;"></div>
 
