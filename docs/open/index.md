@@ -222,6 +222,9 @@ shRNAs can trigger effective silencing of gene expression in mammalian cells, th
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 14)
 
 
+
+<br/><br/><br/><br/><br/>
+
 ---
 
 
