@@ -27,7 +27,7 @@ description: Collaborate with us !
 
 <div style="page-break-after: always;"></div>
 
-# 项目一：癌症基因检测科研项目 {#proj1}
+# 项目一：癌症无创基因检测项目 {#proj1}
 
 ## 基本信息
 
@@ -66,19 +66,19 @@ description: Collaborate with us !
 	* 实验费用由双方共同承担，具体合作事宜面议。
 
 > **样本收集与临床队列设计**：
-> <img src="image/flow.png" style="zoom: 50%;" />
+> <img src="image/flow.png" style="zoom: 80%;" />
 
 #### 2) 合作开发试剂盒和申请器械证
 
 **我们提供相关试剂盒和检测方法的开发和生产方案**
 
 * **III期. 新型标志物优化和试剂盒设计**
-	* 鲁志实验室负责从前期科研成果和**自有的液体活检生物标志物数据库**中（**注1**），综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等，**根据贵单位需求**筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白等不同分子类型；
+	* 鲁志实验室负责从前期科研成果和**自有的液体活检生物标志物数据库**（**注1**）中**根据贵单位需求**筛选出证据等级和临床应用潜力较高的候选生物标志物，涵盖DNA，RNA，蛋白等不同分子类型，综合考虑标志物的一致性报道个数、已验证的样本数、生物学功能和诊断效果等；
 	* 贵单位负责对筛选的标志物在大量（**200-500例**）癌症病人和健康对照人群的血浆样本中进行更大规模的二次验证；
 	* 鲁志实验室负责对二次验证数据进行再分析，采用机器学习等人工智能方法优化出诊断模型，设计相应试剂盒；
 	* 贵单位进行相应试剂盒生产。
 * **IV期. 大规模临床报证和产业化阶段**
-	* 共同寻找投资和合作伙伴，进行三类医疗器械证的注册、申报（**样本1000-2000例**）及推广，具体合作事宜面议。
+	* 进行三类医疗器械证的注册、申报（**样本1000-2000例**）及推广，具体合作事宜面议，可以共同寻找投资和合作伙伴。
 
 > **注1：**
 >
@@ -86,39 +86,39 @@ description: Collaborate with us !
 >
 >   *  获 FDA 批准的近百个用于临床肿瘤诊断、指导用药和预后的生物标志物；
 >   *  从 上千篇已发表科研文献中手动收集的具有临床应用潜能的生物标志物；
->   *  从公开发表的几千套液体活检高通量数据中鉴定出来的候选 RNA 生物标志物。
+>   *  从公开发表的几千套液体活检高通量数据中鉴定出来的候选生物标志物。
 >
 > 我们的数据库涵盖了肺癌、乳腺癌、结直肠癌、肝癌、胰腺癌、胃癌、食管癌、脑胶质瘤、多发性骨髓瘤、前列腺癌、卵巢癌、肾癌、冠心病等**31种人类疾病**。同时，我们基于标志物的证据水平发展了一套**标志物分级系统**，给每一个标志物指定一个证据等级，帮助用户快速地认识所感兴趣的标志物的临床应用潜力。
 
 > **各种无创检测（液体活检）技术对比：**
-> <img src="image/compare.png" style="zoom: 30%;" />
+> <img src="image/compare.png" style="zoom: 50%;" />
 
 #### 3) 提供标志物发现和优化的实验方案
 
-**我们提供体液中新型标志物的发现和鉴定方法 - 实验方案**
+**我们提供体液中新型标志物的发现、鉴定和优化方法 - 实验方案**
 
-我们在前期研究exRNA的过程中，参考最新的单细胞测序方法，摸索了一套可以从体液中高效率地捕获不同长度、不同类型的exRNA的实验流程。我们计划将其开发成试剂盒，可以帮助使用者从多种体液开始，涵盖了提取、纯化、捕获、扩增等一系列步骤的试剂及方法，可在1-2天内完成从体液获取到exRNA上机测序的全部准备，实用便捷。
+我们在前期研究exRNA的过程中，参考最新的单细胞测序方法，摸索了一套可以从体液中高效率地捕获不同长度、不同类型的exRNA（又称为cfRNA）的实验流程。我们计划将其开发成试剂盒，可以帮助使用者从多种体液开始，涵盖了提取、纯化、捕获、扩增等一系列步骤的试剂及方法，可在1-2天内完成从体液获取到exRNA上机测序的全部准备，实用便捷。
 
-> **包含small RNA和total RNA的全转录组捕获、富集和测序方案:**
+> **包含small cfRNA/exRNA和total cfRNA/exRNA的全转录组捕获、富集和测序方案:**
 > <img src="image/exRNA-seq.png" style="zoom:33%;" />
 
 #### 4) 提供标志物发现和优化的生信分析
 
-**我们提供体液中新型标志物的发现和鉴定方法 - 生物信息学分析和软件定制**。我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面:
+**我们提供体液中新型标志物的发现、鉴定和优化方法 - 生物信息学分析和软件定制**。我们在开展广泛应用于基因组学和癌症生物学的科学实践的同时，开发了一系列分析工具和平台。主要包括：RNAfinder、RNAtarget、RNAstructurome、RNAmed、Biomarker五个方面:
 * **a) RNAfinder**
-	* [Ribowave](https://github.com/lulab/Ribowave):  用于核糖体测序数据（Ribo-seq）的分析。利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息 (*Nucleic Acids Research* 2018)。
+	* [Ribowave](https://github.com/lulab/Ribowave):  用于核糖体测序数据（Ribo-seq）的分析，利用小波变换模型来提取核糖体3-nt周期（即信号频率）来使原始信号去噪声化，并精确定位其足迹信息 (*Nucleic Acids Research* 2018)。
 	* [COME](https://github.com/lulab/COME):  用于mRNA和lncRNA中蛋白编码潜能的分析 (*Nucleic Acids Research* 2017)。
 	* [RNAfeature](https://github.com/lulab/RNAfeature): 用于多个物种间非编码RNA保守性区域的分析 (*Nucleic Acids Research* 2015)。
 * **b) RNAtarget**
-	* [RBPgroup](https://github.com/lulab/RBPgroup): 用于各种CLIP-seq数据的RNA结合蛋白的分析  (*Genome Biology*  2017)。
-	* [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个通过RNA结合蛋白来探究转录后调控事件的分析平台。能提供多个物种间RNA-蛋白的相互作用信息 (*Nucleic Acids Research* 2019/2017)。
-	* [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源  (*BMC Genomics* 2015)。
+	* [RBPgroup](https://github.com/lulab/RBPgroup): 利用NMF（非负矩阵分解）对各种CLIP-seq数据进行整合分析  (*Genome Biology*  2017)。
+	* [POSTAR](http://lulab.life.tsinghua.edu.cn/postar): 一个通过RNA结合蛋白来探究RNA转录后调控事件的数据库和分析平台，能提供多个物种间RNA-蛋白的相互作用信息 (*Nucleic Acids Research* 2017/2019)。
+	* [CLIPdb](http://lulab.life.tsinghua.edu.cn/clipdb): 集成了各种类型的CLIP-seq数据，描述RNA结合蛋白和各种RNA转录类间调控网络的集成资源数据库 (*BMC Genomics* 2015)。
 * **c) RNAstructurome**
-	* [RME](https://github.com/lulab/RME):  RNA二级结构预测工具，同时提供了多种类型的实验探测数据 (*Nucleic Acids Research* 2015)。
+	* [RME](https://github.com/lulab/RME):  一种RNA二级结构预测算法，同时提供了多种类型的实验探测数据 (*Nucleic Acids Research* 2015)。
 * **d) RNAmed**
-	* [CCG](http://lulab.life.tsinghua.edu.cn/ccg): 用于探究肿瘤中蛋白编码基因和非编码RNA间相互作用的一个组装资源  (*Discovery Medicine*, 2016)。
+	* [CCG](http://lulab.life.tsinghua.edu.cn/ccg): 用于探究肿瘤中蛋白编码基因和非编码RNA的一个资源数据库  (*Discovery Medicine*, 2016)。
 	* [exSeek](https://github.com/lulab/exSEEK): 用于整合分析和评估细胞外RNA作为生物标志物的计算框架。
-	* [exMarker](http://lulab.life.tsinghua.edu.cn/exmarker/): 提供用于检索和评估各种生物学元件作为生物标志物，并预测疾病患病可能性的一个集成资源。
+	* [exMarker](http://lulab.life.tsinghua.edu.cn/exmarker/): 多类型生物标志物的整合数据库，也可以用来预测各种疾病患病可能性。
 
 ## 合作方资质需求和已有合作单位
 
@@ -184,7 +184,7 @@ description: Collaborate with us !
 
 <div style="page-break-after: always;"></div>
 
-# 项目二：小RNA治疗科研项目 {#proj2}
+# 项目二：特定疾病的小RNA治疗项目 {#proj2}
 
 ## 基本信息
 
