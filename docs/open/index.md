@@ -15,14 +15,14 @@ description: Collaborate with us !
 
 ## 实验室简介
 
-鲁志实验室（实验室主页 [http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)）下属于清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。实验室依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
+鲁志实验室（实验室主页： [http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)）下属于清华大学生命科学学院，实验室成员包括博士生10余名和本科实习生若干，来自生物学、统计学、计算机科学等多学科。实验室依托于“生物信息学教育部重点实验室”和清华大学“合成与系统生物学研究中心”，拥有很好的人才支撑、硬件平台和合作科研环境。
 
 实验室致力于**生物信息学**研究，利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。“上工治未病”，我们的一个使命，就是要帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院 研究员，博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications等，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。我们针对RNA的10余年研究经验和主要成果如下图所示：
+实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院・研究员、博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications*等，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。我们针对RNA的10余年研究经验和主要成果如下图所示：
 
 <div align="middle">
-<img src="image/rna_study_10years.png" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" />
+<img src="image/rna_study_10years.jpg" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" />
 </div>
 <br/>
 
@@ -55,7 +55,7 @@ description: Collaborate with us !
 
 ## 合作方式 
 
-#### 1) 合作发表科研文章
+### 1) 合作发表科研文章
 
 **合作发现和研究体液中的新型exRNA/cfRNA，共同发表科研文章**
 
@@ -69,11 +69,16 @@ description: Collaborate with us !
 <div style="page-break-after: always;"></div>
 > 样本收集与临床队列设计:
 <div align="middle">
-<img src="image/flow.png" style="zoom: 70%;" />
+<img src="image/flow.jpg" style="zoom: 50%;" />
 </div>
 
 
-#### 2) 合作开发试剂盒和申请器械证
+
+
+
+---
+
+### 2) 合作开发试剂盒和申请器械证
 
 **我们提供相关试剂盒和检测方法的开发和生产方案**
 
@@ -96,7 +101,13 @@ description: Collaborate with us !
 > 我们的数据库涵盖了肺癌、乳腺癌、结直肠癌、肝癌、胰腺癌、胃癌、食管癌、脑胶质瘤、多发性骨髓瘤、前列腺癌、卵巢癌、肾癌、冠心病等**31种人类疾病**。同时，我们基于标志物的证据水平发展了一套**标志物分级系统**，给每一个标志物指定一个证据等级，帮助用户快速地认识所感兴趣的标志物的临床应用潜力。
 
 
-#### 3) 提供标志物发现和优化的实验方案
+
+
+
+---
+
+
+### 3) 提供标志物发现和优化的实验方案
 
 **我们提供体液中新型标志物的发现、鉴定和优化方法 - 实验方案**
 
@@ -105,10 +116,13 @@ description: Collaborate with us !
 <div style="page-break-after: always;"></div>
 > 包含small cfRNA/exRNA和total cfRNA/exRNA的全转录组捕获、富集和测序方案:
 <div align="middle">
-<img src="image/exRNA-seq.png" style="zoom:33%;" />
+<img src="image/exRNA-seq.jpg" style="zoom:33%;" />
 </div>
 
-#### 4) 提供标志物发现和优化的生信分析
+
+---
+
+### 4) 提供标志物发现和优化的生信分析
 
 **我们提供体液中新型标志物的发现、鉴定和优化方法 - 生物信息学分析和软件定制**。
 
@@ -157,7 +171,7 @@ description: Collaborate with us !
 * 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2020)
 
 <div align="middle">
-<img src="image/patent.png" alt="主要专利" style="zoom:20%;" />
+<img src="image/patent.jpg" alt="主要专利" style="zoom:20%;" />
 </div>
 
 **主要相关科研论文**
@@ -193,7 +207,7 @@ description: Collaborate with us !
 
 > 各种无创检测（液体活检）技术对比：
 <div align="middle">
-<img src="image/compare.png" style="zoom: 40%;" />
+<img src="image/compare.jpg" style="zoom: 40%;" />
 </div>
 <br/><br/><br/>
 
