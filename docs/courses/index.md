@@ -70,16 +70,17 @@ PTN学生上课要求
 
 教学资源
 
-- [课件下载](https://cloud.tsinghua.edu.cn/d/675c2b1a930047eaab97/?p=/genomics-PTN2019&mode=list)
+- [课件下载](https://cloud.tsinghua.edu.cn/d/675c2b1a930047eaab97/?p=/genomics-PTN2020&mode=list)
 
 作业
 
 > 文献阅读:  (**Due: Dec. 31.**)
-Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic. (Please list the key points of your thoughts in the last paragraph.)
+> Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic. (Please list the key points of your thoughts in the last paragraph.)
+>
 >  * Topic I:  RNA Regulation
 >  * Topic II: Precision Medicine
 >
-> [阅读文献下载](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup&mode=list)
+> [阅读文献下载](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F0.%20Startup&mode=list)
 
 
 ### Basic Courses 本科生课程
