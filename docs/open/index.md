@@ -175,7 +175,7 @@ description: Collaborate with us !
 </div>
 
 
-**主要相关科研论文**
+**相关代表性通讯论文**
 
 * Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:20.5)
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 14)
@@ -186,7 +186,7 @@ description: Collaborate with us !
 
 
 
-**代表性合作论文**
+**相关代表性合作论文**
 
 * Gerstein MB <sup>1</sup>\*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, \* 15 co-corresponding authors, ~150 authors in total) [Cover Story]
 * Rui Xiao, Jia-Yu Chen, Zhengyu Liang, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu (2019) Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription. **_Cell_** 178, 107–121

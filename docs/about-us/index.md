@@ -39,7 +39,7 @@ title: About Us!
 
 
 
-**代表性论文**
+**代表性通讯论文**
 
 * Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:20.5)
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 14)
