@@ -11,7 +11,7 @@ title: About Us!
 
 实验室致力于**生物信息学**研究，利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。“上工治未病”，我们的使命之一，就是要帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院研究员、博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications*等，近5年的通讯作者文章20余篇（影响因子10分以上的10余篇）。我们针对RNA的10余年研究经验和主要成果如下图所示：
+实验室负责人鲁志博士 ([个人官方主页](http://life.tsinghua.edu.cn/info/1048/1412.htm))，清华大学生命科学学院研究员、博士生导师，教育部"长江学者“青年项目、国家基金委“优秀青年”基金、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章近 30 篇(影响因子 10 分以上的 12 篇)；􏰍文章所发表期刊包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications*等，总引用近 15,000 次。我们针对RNA的10余年研究经验和主要成果如下图所示：
 
 <div align="middle">
 <img src="../open/image/rna_study_10years.jpg" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" />
@@ -44,18 +44,22 @@ title: About Us!
 * Shuaishuai Teng<sup>1</sup>, Yang Eric Li<sup>1</sup>, Ming Yang, Rui Qi, Yiming Huang, Qianyu Wang, Yanmei Zhang, Shanwen Chen, Shasha Li, Kequan Lin, Yang Cao, Qunsheng Ji, Qingyang Gu, Yujing Cheng, Zai Chang, Wei Guo, Pengyuan Wang, Ivan Garcia-Bassets, **Zhi John Lu**\* and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **_Cell Research_** 30(1):34-49 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:20.5)
 * Yang Eric Li<sup>1</sup>, Mu Xiao<sup>1</sup>, Binbin Shi<sup>1</sup>, Yu-Cheng T. Yang, Dong Wang, Fei Wang, Marco Marcia and **Zhi John Lu*** (2017) Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. **_Genome Biology_** 18:169 (<sup>1</sup>contributed equally) (IF: 14)
 * Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, Jiapei Yuan, Qiuyu Lian, Guishuai Lv, Siqi Wang, Yang Wu, Yu-Cheng T. Yang, Dongfang Wang, Yang Liu, Jing Tang, Guijuan Luo, Yang Li, Long Hu, Xinbao Sun, Dong Wang, Mingzhou Guo, Qiaoran Xi, Jianzhong Xi, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma. **_Nature Communications_** 8, 14421 (<sup>1</sup> contributed equally, \* co-corresponding) (IF: 12)
-* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2020) Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer. ***Theranostics*** doi:10.7150/thno.48206 (<sup>1</sup>contributed equally, \*co-corresponding authors)  (IF: 8.6)
-* Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) Selective translation by alternative bacterial ribosomes. ***PNAS*** (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:9.4)
+* Yu-Xiang Chen<sup>1</sup>, Zhi-yu Xu<sup>1</sup>, Xueliang Ge, Suparna Sanyal, **Zhi John Lu**\* and Babak Javid\* (2020) Selective translation by alternative bacterial ribosomes. ***PNAS*** 117(32):19487-19496 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF:9.4)
+* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2021) Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer. ***Theranostics*** 11(1):181-193 (<sup>1</sup>contributed equally, \*co-corresponding authors)  (IF: 8.6)
 
 
 
 **代表性合作论文**
 
 * Gerstein MB <sup>1</sup>\*, **Lu ZJ**<sup>1</sup>, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative analysis of the _Caenorhabditis elegans_ genome by the modENCODE project. **_Science_** 330(6012): 1775-1787 (<sup>1</sup>20 co-first authors, \* 15 co-corresponding authors, ~150 authors in total) [Cover Story]
-* ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
-* Gerstein MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
+
 * Rui Xiao, Jia-Yu Chen, Zhengyu Liang, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu (2019) Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription. **_Cell_** 178, 107–121
-* Tan X, Hu L, Luquette LJ, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**, Park PJ & Elledge SJ. (2012) Systematic Identification of Synergistic Drug Pairs Targeting HIV. ***Nature Biotech.*** 30:1125-1130
+
+* ENCODE Project Consortium<sup>#</sup>. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **_Nature_** 489, 57–74\. (<sup>#</sup>**Lu Z** is part of ENCODE Consortium) [Cover Story]
+
+* Gerstein MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **_Nature_** 512(7515):445-448.
+
+  
 
 <br>
 
