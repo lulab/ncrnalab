@@ -86,6 +86,7 @@ PTN学生上课要求
 ### Basic Courses 本科生课程
 
 #### I. Frontier of Life Sciences 《生命科学前沿》
+
 ---
 
 讲授单元：**生物信息和基因组学介绍** -- 2hr
@@ -138,8 +139,6 @@ PTN学生上课要求
 
 #### I. Introduction to Bioinformatics《生物信息学导论》 {#bioinfo3}
 
-> 本课程和研究生课《生物信息学实践》有部分内容相同
-
 ---
 
 主讲课程
@@ -147,10 +146,11 @@ PTN学生上课要求
 -   时间：春季学期
 -   学时：32
 -   学分：2
--   主讲老师：鲁志   \|  合讲老师：龚海鹏等       
+-   主讲老师：鲁志   \|  合讲老师：李寅青，龚海鹏等       
 -   对象：本科生容量\~20人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: 
+-   教学日历和教案: [Syllabus 2020](https://app.yinxiang.com/fx/31ac2fb0-ca34-4df3-b794-14ac88237a73)
+
 
 **【Teaching Philosophy】**
 
@@ -173,6 +173,8 @@ PTN学生上课要求
 2. 基本统计课程： 如《概率论》和/或《生物统计》
 3. 基本数学课程： 如《线性代数》
 4. 基本计算机课程：如《C语言》
+
+
 
 #### II. Biophysics 《生物物理学》 {#biophysics}
 
