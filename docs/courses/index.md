@@ -146,11 +146,10 @@ PTN学生上课要求
 -   时间：春季学期
 -   学时：32
 -   学分：2
--   主讲老师：鲁志   \|  合讲老师：李寅青，龚海鹏等       
+-   主讲老师：鲁志   \|  合讲老师：李寅青等       
 -   对象：本科生容量\~20人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus 2020](https://app.yinxiang.com/fx/31ac2fb0-ca34-4df3-b794-14ac88237a73)
-
+-   教学日历和教案: [Syllabus - 2021 Spring](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
 
 **【Teaching Philosophy】**
 
