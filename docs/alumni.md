@@ -29,6 +29,10 @@ title: Lu Lab Alumni
 
 
 
+---
+
+
+
 |      | Master                      | Name                   | Lab Dates        | Current Position               |
 | ---- | --------------------------- | ---------------------- | ---------------- | ------------------------------ |
 | 4    | 17’ Master (14’)            | 宋楠溪 Nanxi Song      | 2014.9-2016.6.   | 勃林格殷格翰(中国)投资有限公司 |
@@ -63,6 +67,7 @@ title: Lu Lab Alumni
 | 13’ Undergrad. (PKU)       | 邱耘江 Yunjiang Qiu  | 2011.3.-2013.6. | UCSD                    |
 | 12’ Undergrad. (PKU)       | 丁新强 Xinqiang Ding | 2011.9.-2013.6. | U. Michican             |
 | 12’ Undergrad. (CAU)       | 李唯一 Weiyi Li      | 2011.9.-2012.5  | Indiana University      |
+| ... ...       |      |  |       |
 
 ## Others
 
@@ -93,4 +98,5 @@ title: Lu Lab Alumni
 | Research Assist.                   | 丛丽丽 Lili Cong      | 2011.3.21-2011.7.2    |                    |
 | CEC Center Secretary               | 黄宁 Ning Huang       | 2011.6.-2012.1        |                    |
 | Lab Manager                        | 刘亚蒂 Yadi Liu       | 2011.3.1. -- 2011.4.5 |                    |
+| ... ...                       |       |  |
 
