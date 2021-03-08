@@ -11,7 +11,7 @@ title: About Us!
 
 实验室致力于**生物信息学**研究，利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。“上工治未病”，我们的使命之一，就是要帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章近 30余 篇(影响因子 10 分以上的10余篇)；􏰍文章所发表期刊包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications*等，总引用近 17,000 次。我们针对RNA的10余年研究经验和主要成果如下图所示：
+实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士10余年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章近 30余 篇(影响因子 10 分以上的10余篇)；􏰍文章所发表期刊包括 *Science, Nature, Cell, PNAS, Genome Biology, Nature Communications*等，总引用近 17,000 次。我们针对RNA的10余年研究经验和主要成果如下图所示：
 
 <div align="middle">
 <img src="../open/image/rna_study_10years.jpg" alt="针对新型RNA的10余年研究经验和主要成果" style="zoom: 38%" />
