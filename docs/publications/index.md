@@ -11,9 +11,13 @@ title: Publications
 ---
 ## 2021
 
-* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2021) **Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer.** *Theranostics* 11(1):181-193 (<sup>1</sup>contributed equally, \*co-corresponding authors)  
+* Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2021) **Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer.** *Theranostics* 11(1):181-193 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
-    [View Detail](https://www.thno.org/v11p0181.htm)
+    [View Detail](https://pubmed.ncbi.nlm.nih.gov/33391469/)
+
+* Jia Li, Lei Sun, Xue-Liang Peng, Xiao-Ming Yu, Shao-Jun Qi, **Zhi John Lu**, Jing-Dong J Han, Qin Shen (2021) **Integrative genomic analysis of early neurogenesis reveals a temporal genetic program for differentiation and specification of preplate and Cajal-Retzius neurons**. *PLoS Genetics* 17(3):e1009355
+[View Detail](https://pubmed.ncbi.nlm.nih.gov/33760820/)
+
 
 ## 2020
 
