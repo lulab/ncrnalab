@@ -163,12 +163,12 @@ description: Collaborate with us !
 
 **相关专利**
 
-* 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
-* 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
-* 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
-* 超微量RNA捕获和测序技术i-SMART (**专利申请号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
-* 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)（*Theranostics* 2021)
-* 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2021)
+1. 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
+2. 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
+3. 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
+4. 超微量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
+5. 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)（*Theranostics* 2021)
+6. 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利申请号：202010927225.7**)（*Theranostics* 2021)
 
 <div align="middle">
 <img src="image/patent.jpg" alt="主要专利" style="zoom:40%;" />
