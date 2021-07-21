@@ -57,9 +57,7 @@ title: Join Us!
 * 在生物信息、生物计算、大数据挖掘等方面有特长和经验;
 * **有癌症基因组或者植物基因组分析经验者优先**。
 
-#### 科研助理 （2-3名）
 
-* 对没有博士学位但是在上述各方面有很好的工作实践经验的也欢迎申请科研助理岗位
 
 
 ### 岗位待遇：
@@ -70,6 +68,7 @@ title: Join Us!
 2. [清华大学水木学者支持计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)
 3. [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/Academicactivities/notices/index4438.shtml)
 4. 产学研结合，产业化方向资助
+5. 。。。
 
 
 ### 申请和联系方法：
