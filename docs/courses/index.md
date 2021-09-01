@@ -28,8 +28,7 @@ description: Teaching @ Tsinghua
 -   主讲老师：鲁志   \|  合讲老师：杨雪瑞，蓝勋，李寅青等       
 -   对象：博士生容量\~20人，本科生容量\~10人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus 2020](https://app.yinxiang.com/fx/31ac2fb0-ca34-4df3-b794-14ac88237a73)
-
+-   教学日历和教案: [Syllabus 2021](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
 
 **【Teaching Philosophy】**
 
@@ -70,7 +69,7 @@ PTN学生上课要求
 
 教学资源
 
-- [课件下载](https://cloud.tsinghua.edu.cn/d/675c2b1a930047eaab97/?p=/genomics-PTN2020&mode=list)
+- [课件下载](https://cloud.tsinghua.edu.cn/d/dfd03a89e7ac49e8b9fe/)
 
 作业
 
