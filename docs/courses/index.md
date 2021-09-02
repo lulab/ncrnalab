@@ -16,7 +16,7 @@ description: Teaching @ Tsinghua
 
 #### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo}
 
-> 本课程也设有一定的本科生容量，和本科生课《生物信息学导论》也有部分内容相同
+> 本课程也设有一定的本科生容量，同时也和本科生课《生物信息学导论》的很多内容相同。
 
 ---
 
@@ -25,10 +25,10 @@ description: Teaching @ Tsinghua
 -   时间：秋季学期
 -   学时：32
 -   学分：2
--   主讲老师：鲁志   \|  合讲老师：杨雪瑞，蓝勋，李寅青等       
+-   主讲老师：鲁志   \|  合讲老师：李寅青、杨雪瑞       
 -   对象：博士生容量\~20人，本科生容量\~10人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus 2021](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
+-   教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
 
 **【Teaching Philosophy】**
 
@@ -138,6 +138,9 @@ PTN学生上课要求
 
 #### I. Introduction to Bioinformatics《生物信息学导论》 {#bioinfo3}
 
+> 本课程和研究生课《生物信息学实践》的很多内容相同，此研究生课也设有一定的本科生容量可以选修。
+
+
 ---
 
 主讲课程
@@ -148,7 +151,7 @@ PTN学生上课要求
 -   主讲老师：鲁志   \|  合讲老师：李寅青等       
 -   对象：本科生容量\~20人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus - 2021 Spring](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
+-   教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
 
 **【Teaching Philosophy】**
 
