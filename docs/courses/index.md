@@ -16,7 +16,7 @@ description: Teaching @ Tsinghua
 
 #### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo}
 
-> 本课程也设有一定的本科生容量，同时也和本科生课《生物信息学导论》的很多内容相同。
+> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学导论》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
 
 ---
 
@@ -138,7 +138,7 @@ PTN学生上课要求
 
 #### I. Introduction to Bioinformatics《生物信息学导论》 {#bioinfo3}
 
-> 本课程和研究生课《生物信息学实践》的很多内容相同，此研究生课也设有一定的本科生容量可以选修。
+> 本课程课堂容量有限，但和秋季学期的研究生课《生物信息学实践》的很多内容相同，此研究生课也设有一定的本科生容量，本学期没有选上的同学可以下学期选修这门研究生课。
 
 
 ---
@@ -151,7 +151,7 @@ PTN学生上课要求
 -   主讲老师：鲁志   \|  合讲老师：李寅青等       
 -   对象：本科生容量\~20人
 -   主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
--   教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
+-   教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/48420550-8f51-49a6-b404-0cc7e810ab4c)
 
 **【Teaching Philosophy】**
 
