@@ -22,6 +22,10 @@ title: Publications
 
     [View Detail](https://pubmed.ncbi.nlm.nih.gov/33391469/)
 
+* Jing Gong<sup>1</sup>, Kui Xu<sup>1</sup>, Ziyuan Ma, **Zhi John Lu** & Qiangfeng Cliff Zhang (2021) **A deep learning method for recovering missing signals in transcriptome-wide RNA structure profiles from probing experiments.** *Nature Machine Intelligence* 3:995–1006
+
+    [View Detail](https://www.nature.com/articles/s42256-021-00412-0)
+
 * Jia Li, Lei Sun, Xue-Liang Peng, Xiao-Ming Yu, Shao-Jun Qi, **Zhi John Lu**, Jing-Dong J Han, Qin Shen (2021) **Integrative genomic analysis of early neurogenesis reveals a temporal genetic program for differentiation and specification of preplate and Cajal-Retzius neurons**. *PLoS Genetics* 17(3):e1009355
 [View Detail](https://pubmed.ncbi.nlm.nih.gov/33760820/)
 
