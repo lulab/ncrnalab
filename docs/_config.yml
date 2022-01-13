@@ -1,8 +1,10 @@
+markdown: kramdown
+
 gems:
   - jekyll-redirect-from
 
 theme: jekyll-theme-cayman
-markdown: kramdown
+
 
 # ---- parameters for deploy prodcution
 # JEKYLL_ENV=production bundle exec jekyll build

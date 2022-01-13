@@ -7,7 +7,7 @@ description: Teaching @ Tsinghua
 **Table of Contents:**
 
 * TOC
-  {:toc}
+{:toc}
 
 ---
 
@@ -75,7 +75,7 @@ PTN学生上课要求
 
 > **文献阅读**:  (**Due: Dec. 31.**)
 > Pick one of the papers and write a review and perspective (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
-> 
+>
 > * **2021 Nature** - Multi-omic machine learning predictor of breast cancer therapy response
 > * **2021 Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 > * **2021 Nature Biotech.** - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
