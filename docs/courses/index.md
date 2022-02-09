@@ -7,7 +7,7 @@ description: Teaching @ Tsinghua
 **Table of Contents:**
 
 * TOC
-  {:toc}
+{:toc}
 
 ---
 
@@ -75,7 +75,7 @@ PTN学生上课要求
 
 > **文献阅读**:  (**Due: Dec. 31.**)
 > Pick one of the papers and write a review and perspective (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
-> 
+>
 > * **2021 Nature** - Multi-omic machine learning predictor of breast cancer therapy response
 > * **2021 Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
 > * **2021 Nature Biotech.** - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
@@ -92,7 +92,7 @@ PTN学生上课要求
 - 时间：秋季学期
 - 学时：2/32 
 - 学分：2
-- 主讲老师：施一公 | 合讲老师：鲁志 等 
+- 主讲老师：施一公 \| 合讲老师：鲁志 等 
 - 对象：大一新生
 
 **【课程简介】**
@@ -112,9 +112,9 @@ PTN学生上课要求
 - 时间：春季学期
 - 学时：48 
 - 学分：2
-- 主讲老师：杨雪瑞 | 合讲老师：鲁志  等
+- 主讲老师：杨雪瑞 \| 合讲老师：鲁志  等
 - 对象：清华博士生
-- 
+-
 
 #### II. RNA Biology《RNA生物学》 {#RNA}
 
@@ -125,7 +125,7 @@ PTN学生上课要求
 - 时间：春季学期 
 - 学时：32 
 - 学分：2
-- 主讲老师：戚益军  | 合讲老师：鲁志  等
+- 主讲老师：戚益军  \| 合讲老师：鲁志  等
 - 对象：清华博士生
 
 ### Basic Courses 本科生课程
@@ -176,10 +176,10 @@ PTN学生上课要求
 - 时间：春季学期
 - 学时：32 
 - 学分：2
-- 主讲老师：龚海鹏 | 合讲老师：鲁志  等 
+- 主讲老师：龚海鹏 \| 合讲老师：鲁志  等 
 - 对象：大三大四本科生， 专业选修课
 - 更多阅读:  [Link](https://lulab.gitbook.io/docs/literature-reading/rna/rna-structure#iii.-rna-secondary-structure-prediction)
-- 讲课视频:  [Link]([清华大学云盘](https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FVideo%2FAdvanced%20Theory&mode=list))
+- 讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FVideo%2FAdvanced%20Theory&mode=list)
 
 ### Other Courses 其他课程
 
