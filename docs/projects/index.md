@@ -16,13 +16,13 @@ description: Research @ Tsinghua
 _Our group is interested in developing bioinformatics technologies and practicing evidence-based medicine._ We utilize high-throughput sequencing technologies, together with machine learning and AI, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system, including both animal and plant. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
 
 <br>
-我们实验室致力于发展生物信息学技术，并探索能够广泛应用于动植物基因组学和癌症生物学的具体实践。我们利用高通量测序，结合机器学习和人工智能技术，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们的一个重要使命，是帮助人们更早期地发现癌症的发生，因为上工治未病。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
+我们实验室致力于发展**生物信息学**技术，并探索能够广泛应用于动植物基因组学和癌症生物学的具体实践。我们利用机器学习等**人工智能技术**，结合**高通量测序数据**，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。我们的一个重要使命，是帮助人们更早期地发现癌症的发生，因为上工治未病。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
 
 ---
 
 
-## [1. RNA Medicine] exRNA for Precision Medicine {#MED}
+## [1. RNA Medicine] exRNA/cfRNA for Precision Medicine {#MED}
 
 
 
