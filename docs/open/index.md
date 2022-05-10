@@ -54,7 +54,7 @@ description: Collaborate with us !
 
 本项目将基于基因组学和生物信息学，通过开发体液RNA微量测序技术和机器学习方法，在体液中发现和鉴定与癌症发生发展相关的新型exRNA标志物，应用于国内高致死癌症的早期诊断和预后辅助治疗。exRNA指的是胞外RNA，又称cfRNA，包括多种类型：miRNA,Y RNA,circRNA,lncRNA等。RNA标志物与DNA和蛋白标志物相比，具有更好的敏感性、组织特异性和多样性，为更好的临床检验带来了新的期望。我们在新型非编码RNA和生物信息学研究方面积累了丰富经验，基于此，我们将在癌症病人体液（如血液）中发现和分析标志癌症发生发展的新型exRNA/cfRNA，并整合现有标志物构建多重标志物的智能模型，在大样本上进行验证，建立具有更高精准度和可重复性的无创检验方法。
 
-我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利申请号:2018110094643) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2020*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*)，为癌症无创检测试剂的开发提供了有力的支持。
+我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2015年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利号:2018110094643；专利号：202010927225.7) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2021*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*；*Nucleic Acids Res.* 2022)，为癌症无创检测试剂的开发提供了有力的支持。
 
 ## 合作方式
 
@@ -159,7 +159,7 @@ description: Collaborate with us !
 3. 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
 4. 痕量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
 5. 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利号：202010927225.7**)（*Theranostics* 2021)
-6. 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)（*Theranostics* 2021)
+6. 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)
 
 <div align="middle">
 <img src="image/patent.jpg" alt="主要专利" style="zoom:40%;" />
