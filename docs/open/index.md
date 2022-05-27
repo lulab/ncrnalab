@@ -160,6 +160,7 @@ description: Collaborate with us !
 4. 痕量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
 5. 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利号：202010927225.7**)（*Theranostics* 2021)
 6. 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (**专利申请号：202010618721.4**)
+7. 痕量RNA捕获和测序技术DETECTOR (**专利申请号：202210579444.X**)
 
 <div align="middle">
 <img src="image/patent.jpg" alt="主要专利" style="zoom:40%;" />
