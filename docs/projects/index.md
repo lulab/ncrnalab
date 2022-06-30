@@ -4,17 +4,18 @@ title: Projects
 description: Research @ Tsinghua
 ---
 
-**Table of Contents:**
-
-> We have two major research projects/directions in our lab.
+We have two major research directions.
 
 * TOC
 {:toc}
-<img src="projects.png" style="zoom:38%;" />
-
 
 ---
 
+<a href="https://cloud.tsinghua.edu.cn/f/59efeaa4400647a3896b/"><img src="projects.png" style="zoom:38%;" /></a>
+
+[Detailed Introduction](https://cloud.tsinghua.edu.cn/f/59efeaa4400647a3896b/)
+
+---
 
 
 _Our group is interested in developing <b>bioinformatics technologies</b>, and practicing evidence-based <b>precision medicine</b> for diseases like cancer._ We utilize high-throughput sequencing technologies for **multi-omics**, together with **machine learning and AI**, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system, including both animal and plant. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
@@ -28,8 +29,7 @@ _Our group is interested in developing <b>bioinformatics technologies</b>, and p
 
 ![Bioinformatics Studies for noncoding RNA](../open/image/rna_study.jpg)
 
-
-## 代表性在研项目
+**代表性在研项目:**
 
 * 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025		主持
 * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，2020-2023		主持
@@ -47,7 +47,7 @@ _Our group is interested in developing <b>bioinformatics technologies</b>, and p
 
 _**exRNA/cfRNA in Cancer**_: In clinical studies like liquid biopsy, exRNA (extra-cellular RNA) is also called cfRNA(cell free RNA). Many exRNAs are noncoding RNAs, like miRNAs and long noncoding RNAs (lncRNAs). 
 
-<img src="research.png" style="zoom:25%;" />
+<img src="research.png" style="zoom:28%;" />
 
 
 
@@ -57,7 +57,7 @@ _**exRNA/cfRNA in Cancer**_: In clinical studies like liquid biopsy, exRNA (extr
 
 ### 2.1 Omics Model
 
-**和Omics相关的生物信息学基础理论和方法的研究，尤其是最新的机器学习技术的应用。** 基础的理论和方法是应用的基础，我们针对新一代高通量数据的机器学习模型，深入研究针对RNA尤其是非编码RNA的生物信息学理论、算法和方法。不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们将尤其注意将最新的计算领域的新技术和新思维（例如“深度学习”中的新方法）引入到生物数据的研究上。
+**和Omics相关的生物信息学基础理论和方法的研究，尤其是最新的机器学习和人工智能技术的应用。** 基础的理论和方法是应用的基础，我们针对多组学（multi-omics）数据开发深度学习等AI模型，尤其深入研究针对**cfRNA-seq**的生物信息学理论、算法和方法。不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们将尤其注意将最新的计算领域的新技术和新思维（例如“深度学习”中的新方法）引入到生物数据的研究上。
 
 ![](RNAfinder.png)
 
@@ -65,7 +65,7 @@ _**exRNA/cfRNA in Cancer**_: In clinical studies like liquid biopsy, exRNA (extr
 
 ### 2.2 RNA Model
 
-利用生物信息学方法在**RNA结构和调控**等基础科学问题上的探索。RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪切，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。我们将利用我们关于RNA结构及其靶标蛋白方面的在理论和方法上的研究成果，研究生物当中RNA的转录后调控机制。同时，我们开发RNA结构预测算法，深入研究针对RNA尤其是非编码RNA的生物信息学理论、算法和方法。
+利用生物信息学方法在**RNA（尤其是非编码RNA）结构和调控**等基础科学问题上的探索。RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪切，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。我们将利用我们关于RNA结构及其靶标蛋白方面的在理论和方法上的研究成果，研究生物当中RNA的转录后调控机制。同时，我们开发RNA结构预测算法，深入研究针对RNA尤其是非编码RNA的生物信息学理论、算法和方法。
 
 <img src="RBPgroup.png" style="zoom:70%;" />
 
