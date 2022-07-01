@@ -53,7 +53,7 @@ _Our group is interested in developing <b>bioinformatics technologies</b>, and p
 
 ## 1. Precision Medicine {#MED}
 
-Early detection based on tumor biomarkers has very important clinical and social significance for cancer diagnosis and treatment, however, current biomarkers have poor generalization ability because of the inter-heterogeneity and intra-heterogeneity among individuals and tumor cells. Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, c'fRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
+Early detection based on tumor biomarkers has very important clinical and social significance for cancer diagnosis and treatment, however, current biomarkers have poor generalization ability because of the inter-heterogeneity and intra-heterogeneity among individuals and tumor cells. Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
 
 > **exRNA/cfRNA**: In clinical studies like liquid biopsy, exRNA (extra-cellular RNA) is also called cfRNA (cell free RNA). Many exRNAs are noncoding RNAs, like miRNA, lncRNA, srpRNA, circRN, etc. 
 
@@ -67,9 +67,9 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 <img src="research.webp" style="zoom:28%;" />
 
-<small>We apply exRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
+<small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
 
-<small>我们利用基因组学和生物信息学技术，重点开展以exRNA/cfRNA为重点的多组学数据在精准医疗，尤其是癌症早筛和个性化的免疫治疗上的研究和应用。</small>
+<small>我们利用基因组学和生物信息学技术，重点开展以cfRNA/exRNA为重点的多组学数据在精准医疗，尤其是癌症早筛和个性化的免疫治疗上的研究和应用。</small>
 
 
 
@@ -101,7 +101,7 @@ RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪�
 
 同时，我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地设计药物。可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，进行功能性 RNA 靶标预测，结合结构预测和小分子对 接，实现 RNA 靶点的设计、筛选和验证。
 
-<img src="drug_RNA.webp" style="zoom:38%;" />
+<img src="drug_RNA.webp" style="zoom:50%;" />
 
 <small>Warner, et al., *Nature Reviews \| Drug Discovery* , 2018</small>
 
