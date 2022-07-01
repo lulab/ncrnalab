@@ -20,7 +20,6 @@ We have two major research directions.
 
 _Our group is interested in developing <b>bioinformatics technologies</b>, and practicing evidence-based <b>precision medicine</b> for diseases like cancer._ We utilize high-throughput sequencing technologies for **multi-omics**, together with **machine learning and AI**, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system, including both animal and plant. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
 
-<br>
 我们实验室致力于发展**生物信息学技术**，并探索其在癌症等复杂疾病的**精准医疗**上的具体实践。我们利用机器学习等**人工智能技术**，结合**多组学**数据，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。
 “上工治未病”，我们的一个重要使命，是帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
@@ -68,7 +67,9 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 <img src="research.png" style="zoom:28%;" />
 
-**我们利用基因组学和生物信息学技术，重点开展以exRNA/cfRNA为重点的多组学数据在精准医疗，尤其是癌症早筛和个性化的免疫治疗上的研究和应用**。
+<small>We apply exRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
+
+<small>我们利用基因组学和生物信息学技术，重点开展以exRNA/cfRNA为重点的多组学数据在精准医疗，尤其是癌症早筛和个性化的免疫治疗上的研究和应用。</small>
 
 
 
@@ -79,6 +80,10 @@ Early detection based on tumor biomarkers has very important clinical and social
 Omics data, especially those from body fluid, are sparse and heterogenous. Therefore, we tend to develop a paired integration model based on techniques like deep learning with regard to these features. At first, we collect paired multi-omics data (multi-omics, which includes proteomics, transcriptomics, genomics and epigenomics data) or multi-features matrix calculated by bioinformatic analysis from a single omics data (multi-features, features like expression and splicing calculated from RNA-seq, for example). Then we explore the possibility of integrating body fluid multi-omics data or multi-features data by multiple deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model, to find multi-omics integrated markers through the important neurons in the latent space, and to illustrate the gene composition, omics sources and relations by model visualization.
 
 很多组学数据，尤其是体液中的组学数据，具有稀疏化、异质性明显等特点，我们将针对这些特点开发基于深度学习等技术的配对整合模型。首先我们收集配套的多组学数据（multi-omics，蛋白组学、转录组学、基因组学和表观组学数据）或者是由一个组学数据通过生物信息分析计算得到多特征矩阵（multi-features，例如，通过 RNA-seq 可以计算得到表达、剪接等多特征）。其次我们将探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行体液多组学数据或者多特征数据的整合，通过潜在空间重要神经元找到多组学整合标记物，并通过模型可视化来解释多组学整合标记物的基因组成、组学来源和相关关系。
+
+<img src="multiomics.webp" style="zoom:50%;" />
+
+<small>Heitzer, et al., *Nature Reviews \| Genetics* , 2018</small>
 
 
 
@@ -98,4 +103,5 @@ RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪�
 
 <img src="drug RNA.webp" style="zoom:38%;" />
 
-Warner, et al., *Nature Reviews*, 2018
+<small>Warner, et al., *Nature Reviews \| Drug Discovery* , 2018</small>
+
