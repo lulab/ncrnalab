@@ -11,7 +11,7 @@ We have two major research directions.
 
 ---
 
-<a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.png" style="zoom:38%;" /></a>
+<a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:38%;" /></a>
 
 [Detailed Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 
@@ -28,7 +28,7 @@ _Our group is interested in developing <b>bioinformatics technologies</b>, and p
 **Major publications** (see details in [Publications](../publications))：
 
 
-![Bioinformatics Studies for noncoding RNA](../open/image/rna_study.jpg)
+![Bioinformatics Studies for noncoding RNA](../open/image/rna_study.webp)
 
 **Funding:**
 
@@ -65,7 +65,7 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 
 
-<img src="research.png" style="zoom:28%;" />
+<img src="research.webp" style="zoom:28%;" />
 
 <small>We apply exRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
 
@@ -101,7 +101,7 @@ RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪�
 
 同时，我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地设计药物。可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，进行功能性 RNA 靶标预测，结合结构预测和小分子对 接，实现 RNA 靶点的设计、筛选和验证。
 
-<img src="drug RNA.webp" style="zoom:38%;" />
+<img src="drug_RNA.webp" style="zoom:38%;" />
 
 <small>Warner, et al., *Nature Reviews \| Drug Discovery* , 2018</small>
 

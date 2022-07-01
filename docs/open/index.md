@@ -24,7 +24,7 @@ description: Collaborate with us !
 实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章30余篇(影响因子 10 分以上的 10余篇, ESI高被引论文3篇)；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。**我们针对noncoding RNA的近20年的研究经验**和主要成果如下图所示：
 
 
-![Bioinformatics Studies for noncoding RNA](image/rna_study.jpg)
+![Bioinformatics Studies for noncoding RNA](image/rna_study.webp)
 
 
 ## 代表性在研项目
