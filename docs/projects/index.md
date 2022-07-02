@@ -11,24 +11,19 @@ We have two major research directions.
 
 ---
 
+* **Outline of research projects:** 
+
 <a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:38%;" /></a>
 
 [Detailed Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 
----
 
 
-_Our group is interested in developing <b>bioinformatics technologies</b>, and practicing evidence-based <b>precision medicine</b> for diseases like cancer._ We utilize high-throughput sequencing technologies for **multi-omics**, together with **machine learning and AI**, to understand how genetic information is encoded in the structured DNA and RNA sequences, and how they interact and regulate each other in a biological system, including both animal and plant. Ultimately, this will help us understand and cure human diseases, know and improve ourselves.
-
-我们实验室致力于发展**生物信息学技术**，并探索其在癌症等复杂疾病的**精准医疗**上的具体实践。我们利用机器学习等**人工智能技术**，结合**多组学**数据，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。
-“上工治未病”，我们的一个重要使命，是帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
-
-
-
-**Major publications** (see details in [Publications](../publications))：
-
+* **Major publications:** 
 
 ![Bioinformatics Studies for noncoding RNA](../open/image/rna_study.webp)
+
+[Full list of Publications](../publications)
 
 **Funding:**
 
@@ -69,8 +64,6 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 <small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
 
-<small>我们利用基因组学和生物信息学技术，重点开展以cfRNA/exRNA为重点的多组学数据在精准医疗，尤其是癌症早筛和个性化的免疫治疗上的研究和应用。</small>
-
 
 
 ## 2. Machine Learning & AI {#AI}
@@ -83,7 +76,7 @@ Omics data, especially those from body fluid, are sparse and heterogenous. There
 
 <img src="multiomics.webp" style="zoom:50%;" />
 
-<small>Heitzer, et al., *Nature Reviews \| Genetics* , 2018</small>
+<small>Heitzer, et al., *Nature Reviews \| Genetics*  2018</small>
 
 
 
@@ -103,5 +96,5 @@ RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪�
 
 <img src="drug_rna.webp" style="zoom:30%;" />
 
-<small>Warner, et al., *Nature Reviews \| Drug Discovery* , 2018</small>
+<small>Warner, et al., *Nature Reviews \| Drug Discovery*  2018</small>
 
