@@ -63,21 +63,29 @@ We have two major research directions.
 
 Early detection based on tumor biomarkers has very important clinical and social significance for cancer diagnosis and treatment, however, current biomarkers have poor generalization ability because of the inter-heterogeneity and intra-heterogeneity among individuals and tumor cells. 
 
+癌症早期诊断具有非常重要的临床价值和社会意义，但由于癌症异质性高等原因，基于标志物的液体活检技术在实际的癌症检测中泛化能力较差、准确性也有待提高。
+
+
+
+### 1.1 NGS Technology Development
+
 ***cfRNA-seq Development.*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
-***MultiOmics Data Mining.*** Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
-
-> **exRNA/cfRNA**: In clinical studies like liquid biopsy, exRNA (extra-cellular RNA) is also called cfRNA (cell free RNA). Many exRNAs are noncoding RNAs, like miRNA, lncRNA, srpRNA, circRN, etc. 
+> **cfRNA/exRNA**: In clinical studies like liquid biopsy, exRNA (extra-cellular RNA) is also called cfRNA (cell free RNA). Many exRNAs are noncoding RNAs, like miRNA, lncRNA, srpRNA, circRN, etc. 
 
 
-
-癌症早期诊断具有非常重要的临床价值和社会意义，但由于癌症异质性高等原因，基于标志物的液体活检技术在实际的癌症检测中泛化能力较差、准确性也有待提高。
 
 ***cfRNA-seq Development***: 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
-***MultiOmics Data Mining***: 近年来，人们逐渐认识到多组学大数据在实现癌症早期诊断中的重要性，但具体如何实现多维数据的有效整合以及优化出癌症体液标志物组合，还有待探索和研究。本项目拟探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物。
-
 > **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多非编码 RNA（如 miRNA，lncRNA，srpRNA，circRNA等）。
+
+
+
+### 1.2 Multi-Omics Data Mining
+
+Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
+
+近年来，人们逐渐认识到多组学大数据在实现癌症早期诊断中的重要性，但具体如何实现多维数据的有效整合以及优化出癌症体液标志物组合，还有待探索和研究。本项目拟探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物。
 
 
 
