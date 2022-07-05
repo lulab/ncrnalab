@@ -79,6 +79,12 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 > **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多非编码 RNA（如 miRNA，lncRNA，srpRNA，circRNA等）。
 
+<div align="middle">
+<img src="../open/image/exRNA-seq.jpg" style="zoom:33%;" />
+<br>
+<small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
+</div>
+
 
 
 ### 1.2 Multi-Omics Data Mining
@@ -87,11 +93,15 @@ Recently, people are increasingly aware of the importance of big omics data in r
 
 近年来，人们逐渐认识到多组学大数据在实现癌症早期诊断中的重要性，但具体如何实现多维数据的有效整合以及优化出癌症体液标志物组合，还有待探索和研究。本项目拟探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物。
 
-
-
-<img src="research.webp" style="zoom:28%;" />
-
+<div align="middle">
+<img src="research.webp" style="zoom:25%;" />
+<br>
 <small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
+</div>
+
+
+
+
 
 
 
@@ -103,9 +113,15 @@ Omics data, especially those from body fluid, are sparse and heterogenous. There
 
 很多组学数据，尤其是体液中的组学数据，具有稀疏化、异质性明显等特点，我们将针对这些特点开发基于深度学习等技术的配对整合模型。首先我们收集配套的多组学数据（multi-omics，蛋白组学、转录组学、基因组学和表观组学数据）或者是由一个组学数据通过生物信息分析计算得到多特征矩阵（multi-features，例如，通过 RNA-seq 可以计算得到表达、剪接等多特征）。其次我们将探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行体液多组学数据或者多特征数据的整合，通过潜在空间重要神经元找到多组学整合标记物，并通过模型可视化来解释多组学整合标记物的基因组成、组学来源和相关关系。
 
-<img src="multiomics.webp" style="zoom:50%;" />
 
-<small>Heitzer, et al., *Nature Reviews \| Genetics*  2018</small>
+
+<div align="middle">
+<img src="multiomics.webp" style="zoom:50%;" />
+<br>
+<small>Multi-Omics strategies for diagnosis and prognosis of cancer from liquid biopsy samples (Heitzer, et al., <i>Nature Reviews | Genetics</i>  2018)</small>
+</div> 
+
+
 
 
 
@@ -123,7 +139,11 @@ The introduction of new methods and new thinking in different fields can often l
 
 ***RNA Structure, Target and Drug Design:*** 同时，我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地设计药物。可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，进行功能性 RNA 靶标预测，结合结构预测和小分子对 接，实现 RNA 靶点的设计、筛选和验证。
 
-<img src="drug_rna.webp" style="zoom:30%;" />
+<div align="middle">
+  <img src="drug_rna.webp" style="zoom:30%;" />
+  <br>
+  <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
+</div>
 
-<small>Warner, et al., *Nature Reviews \| Drug Discovery*  2018</small>
+
 
