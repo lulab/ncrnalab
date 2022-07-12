@@ -13,9 +13,18 @@ title: Publications
 
 ## 2022
 
-* Shanwen Chen<sup>1</sup>, Yunfan Jin<sup>1</sup>, Siqi Wang<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Yingchao Wu, Yuhuan Tao, Yongchen Ma, Shuai Zuo, Xiaofan Liu, Yichen Hu, Hongyan Chen, Yuandeng Luo, Feng Xia, Chuanming Xie, Jianhua Yin, Xin Wang, Zhihua Liu, Ning Zhang, Zhenjiang Zech Xu\*, **Zhi John Lu**\*, Pengyuan Wang\* (2022) **Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes.** *e-Life* (<sup>1</sup>contributed equally, *co-corresponding authors) 
+* Shanwen Chen<sup>1</sup>, Yunfan Jin<sup>1</sup>, Siqi Wang<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Yingchao Wu, Yuhuan Tao, Yongchen Ma, Shuai Zuo, Xiaofan Liu, Yichen Hu, Hongyan Chen, Yuandeng Luo, Feng Xia, Chuanming Xie, Jianhua Yin, Xin Wang, Zhihua Liu, Ning Zhang, Zhenjiang Zech Xu\*, **Zhi John Lu**\*, Pengyuan Wang\* (2022) **Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes.** *e-Life* 11:e75181 (<sup>1</sup>contributed equally, *co-corresponding authors) 
 
-* Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi Lu**, and Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications*
+<div>
+<img src="./assets/2022_elife.webp" style="zoom:20%;" />
+<a href="https://doi.org/10.7554/eLife.75181">View Detail</a>
+</div>
+
+
+* Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu**, and Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
+
+    [View Detail](https://pubmed.ncbi.nlm.nih.gov/35810171/) 
+
 
 * Weihao Zhao<sup>1</sup>, Shang Zhang<sup>1</sup>, Yumin Zhu, Xiaochen Xi, Pengfei Bao, Ziyuan Ma, Thomas H Kapral, Shuyuan Chen, Bojan Zagrovic, Yucheng T Yang\*, **Zhi John Lu**\* (2022) **POSTAR3: an updated platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins.** *Nucleic Acids Research* 50(D1):D287-D294 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
