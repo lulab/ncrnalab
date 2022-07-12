@@ -13,13 +13,10 @@ title: Publications
 
 ## 2022
 
-* Shanwen Chen<sup>1</sup>, Yunfan Jin<sup>1</sup>, Siqi Wang<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Yingchao Wu, Yuhuan Tao, Yongchen Ma, Shuai Zuo, Xiaofan Liu, Yichen Hu, Hongyan Chen, Yuandeng Luo, Feng Xia, Chuanming Xie, Jianhua Yin, Xin Wang, Zhihua Liu, Ning Zhang, Zhenjiang Zech Xu\*, **Zhi John Lu**\*, Pengyuan Wang\* (2022) **Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes.** *e-Life* 11:e75181 (<sup>1</sup>contributed equally, *co-corresponding authors) 
+* Shanwen Chen<sup>1</sup>, Yunfan Jin<sup>1</sup>, Siqi Wang<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Yingchao Wu, Yuhuan Tao, Yongchen Ma, Shuai Zuo, Xiaofan Liu, Yichen Hu, Hongyan Chen, Yuandeng Luo, Feng Xia, Chuanming Xie, Jianhua Yin, Xin Wang, Zhihua Liu, Ning Zhang, Zhenjiang Zech Xu\*, **Zhi John Lu**\*, Pengyuan Wang\* (2022) **Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes.** *eLife* 11:e75181 (<sup>1</sup>contributed equally, *co-corresponding authors) 
 
-<div>
-<img src="./assets/2022_elife.webp" style="zoom:20%;" />
-<a href="https://doi.org/10.7554/eLife.75181">View Detail</a>
-</div>
-
+    [View Detail](https://pubmed.ncbi.nlm.nih.gov/35816095/) 
+    <img src="./assets/2022_elife.webp" style="zoom:30%;" />
 
 * Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu**, and Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
 
