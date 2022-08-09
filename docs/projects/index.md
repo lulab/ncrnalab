@@ -13,7 +13,7 @@ We have two major research directions.
 
 * **Outline of research projects:** 
 
-<a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:38%;" /></a>
+<a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:80%;" /></a>
 
 [Detailed Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 
@@ -94,10 +94,11 @@ Recently, people are increasingly aware of the importance of big omics data in r
 近年来，人们逐渐认识到多组学大数据在实现癌症早期诊断中的重要性，但具体如何实现多维数据的有效整合以及优化出癌症体液标志物组合，还有待探索和研究。本项目拟探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物。
 
 <div align="middle">
-<img src="research.webp" style="zoom:25%;" />
+<img src="research.webp" style="zoom:60%;" />
 <br>
 <small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
 </div>
+
 
 
 
