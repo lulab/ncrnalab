@@ -234,11 +234,11 @@ title: Publications
 
   [View Details](http://www.nature.com/nbt/journal/v30/n11/abs/nbt.2391.html)
 
-* Tan X, **Lu ZJ**<sup>2</sup>, Gao G, Xu QK, Hu L<sup>2</sup>, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) **Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy.** *Proc. Natl. Acad. Sci. U. S. A.*, 109(3):869-74. (2 Lu Lab, School of Life Sciences, Tsinghua University)
+* Tan X, **Lu ZJ**<sup>2</sup>, Gao G, Xu QK, Hu L<sup>2</sup>, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) **Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy.** *Proc. Natl. Acad. Sci. U. S. A.*, 109(3):869-74. (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University)
 
   [View Details](http://www.pnas.org/content/109/3/869.abstract)
 
-* The ENCODE Project Consortium# (2012) **An integrated encyclopedia of DNA elements in the human genome.** *Nature* 489:57-74 (# **ZJL** is member of ENCODE Consortium)
+* The ENCODE Project Consortium# (2012) **An integrated encyclopedia of DNA elements in the human genome.** *Nature* 489:57-74 (# **ZJL** was a member of ENCODE Consortium)
 
   [View Details](http://www.nature.com/nature/journal/v489/n7414/abs/nature11247.html)
   <img src="./assets/2012.ENCODE_Nature.webp" style="zoom:25%;" />
