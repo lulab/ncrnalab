@@ -18,10 +18,13 @@ title: Publications
     [View Detail](https://pubmed.ncbi.nlm.nih.gov/35816095/) 
     <img src="./assets/2022_elife.webp" style="zoom:30%;" />
 
-* Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu**, and Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
+* Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu** & Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
 
     [View Detail](https://pubmed.ncbi.nlm.nih.gov/35810171/) 
+    
+* Liuqing Yang, Kequan Lin, Lin Zhu, Huili Wang, Shuaishuai Teng, Lijun Huang, Shiyi Zhou, Guanbin Zhang, **Zhi John Lu** & Dong Wang (2022) **Long non-coding RNA DARS-AS1 promotes tumor progression by directly suppressing PACT-mediated cellular stress.**  *Communications Biology* 5, 822
 
+    [View Detail](https://doi.org/10.1038/s42003-022-03778-y) 
 
 * Weihao Zhao<sup>1</sup>, Shang Zhang<sup>1</sup>, Yumin Zhu, Xiaochen Xi, Pengfei Bao, Ziyuan Ma, Thomas H Kapral, Shuyuan Chen, Bojan Zagrovic, Yucheng T Yang\*, **Zhi John Lu**\* (2022) **POSTAR3: an updated platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins.** *Nucleic Acids Research* 50(D1):D287-D294 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
@@ -238,6 +241,7 @@ title: Publications
 * The ENCODE Project Consortium# (2012) **An integrated encyclopedia of DNA elements in the human genome.** *Nature* 489:57-74 (# **ZJL** is member of ENCODE Consortium)
 
   [View Details](http://www.nature.com/nature/journal/v489/n7414/abs/nature11247.html)
+  <img src="./assets/2012.ENCODE_Nature.webp" style="zoom:25%;" />
 
 * He C, Li YX, Zhang G, Gu Z, Yang R, Li J, Lu ZJ, Zhou ZH, Zhang C, Wang J. (2012) **MiRmat: Mature microRNA Sequence Prediction.** *PloS one* 7 (12), e51673.
 
@@ -248,6 +252,7 @@ title: Publications
 * **Lu ZJ**<sup>1</sup>, Yip KY<sup>1</sup>, Wang G, Shou C, Hillier LW, et al. (2011) **Prediction and characterization of noncoding RNAs in C. elegans by integrating conservation, secondary structure, and high-throughput sequencing and array data.** *Genome Research* 21: 276-285. (<sup>1</sup>contributed equally) [modENCODE special issue]
 
   [View Details](http://genome.cshlp.org/content/21/2/276.full)
+  <img src="./assets/2011.ncRNA_GenomeResearch.webp" style="zoom:25%;" />
 
 * Niu W, **Lu ZJ**, Zhong M, Sarov M, Murray JI, et al. (2011) **Diverse transcription factor binding features revealed by genome-wide ChIP-seq in C. elegans.** *Genome Research* 21: 245-254.
 
@@ -268,12 +273,15 @@ title: Publications
 * Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
+  <img src="./assets/2010.modENCOE_Science.webp" style="zoom:25%;" />
 
 * Zhong M, Niu W, **Lu ZJ**, Sarov M, Murray JI, et al. (2010) **Genome-Wide Identification of Binding Sites Defines Distinct Functions for Caenorhabditis elegans PHA-4/FOXA in Development and Environmental Response.** *PLoS Genetics* 9.532) 6(2): e1000848.
 
   [View Details](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000848)
 
 ## 2006 - 2009 (Ph.D.)
+
+<img src="./assets/rnastructure.jpg"  style="zoom:60%;" />
 
 * **Lu ZJ**, Gloor JW, Mathews DH. (2009) **Improved RNA secondary structure prediction by maximizing expedted pair accuracy.** *RNA* 15:1805-1813.
 
@@ -294,6 +302,8 @@ title: Publications
 * **Lu ZJ**, Turner DH, Mathews DH. (2006) **A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation.** *Nucleic Acids Research*34:4912-4924.
 
   [View Details](http://nar.oxfordjournals.org/content/34/17/4912.short)
+
+  
 
 ---
 
