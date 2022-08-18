@@ -175,7 +175,7 @@ PTN学生上课要求
 - 学分：2
 - 主讲老师：龚海鹏 \| 合讲老师：鲁志  等 
 - 对象：大三大四本科生， 专业选修课
-- 课件下载:  [link](https://cloud.tsinghua.edu.cn/d/8573ecae05584b26b69f/)
+- 课件下载:  [Link](https://cloud.tsinghua.edu.cn/d/8573ecae05584b26b69f/)
 - 更多阅读:  [Link](https://lulab.gitbook.io/docs/literature-reading/rna/rna-structure#iii.-rna-secondary-structure-prediction)
 - 讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FVideo%2FAdvanced%20Theory%20-%20ZJL&mode=list)
 
