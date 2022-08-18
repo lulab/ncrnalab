@@ -26,7 +26,7 @@ description: Teaching @ Tsinghua
 - 时间：秋季学期
 - 学时：32
 - 学分：2
-- 主讲老师：鲁志   \|  合讲老师：李寅青  等
+- 主讲老师：鲁志   \|  合讲老师：李寅青 
 - 对象：博士生容量\~20人，本科生容量\~10人
 - 主要教材：《[Bioinformatics Tutorial – Basics](http://lulab2.gitbook.io)》
 - 教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
@@ -69,17 +69,14 @@ PTN学生上课要求
 
 教学资源
 
-- [课件下载](https://cloud.tsinghua.edu.cn/d/dfd03a89e7ac49e8b9fe/)
+- [课件下载](https://cloud.tsinghua.edu.cn/d/4c56bf659c1b4ec3a004/)
 
 作业
 
 > **文献阅读**:  (**Due: Dec. 31.**)
 > Pick one of the papers and write a review and perspective (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
 >
-> * **2021 Nature** - Multi-omic machine learning predictor of breast cancer therapy response
-> * **2021 Nature** - MicroRNA sequence codes for small extracellular vesicle release and cellular retention
-> * **2021 Nature Biotech.** - Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID
-> * **2020 Cell** - Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers
+> **Paper List:** [1.Precision Medicine](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list);  [2.AI](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup%2FAI&mode=list)
 
 ### Basic Courses 本科生课程
 
