@@ -27,7 +27,7 @@ description: Teaching @ Tsinghua
 - 学时：32
 - 学分：2
 - 主讲老师：鲁志   \|  合讲老师：李寅青 
-- 对象：博士生容量\~20人，本科生容量\~10人
+- 对象：博士生 容量20人; 本科生 容量10人
 - 主要教材：《[Bioinformatics Tutorial – Basics](http://book.ncRNAlab.org)》
 - 教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
 
@@ -138,8 +138,8 @@ PTN学生上课要求
 - 时间：春季学期
 - 学时：32
 - 学分：2
-- 主讲老师：鲁志   \|  合讲老师：李寅青  等       
-- 对象：本科生容量\~20人
+- 主讲老师：鲁志   \|  合讲老师：李寅青         
+- 对象：本科生 容量30人
 - 主要教材：《[Bioinformatics Tutorial – Basics](http://book.ncrnalab.org)》
 - 教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/48420550-8f51-49a6-b404-0cc7e810ab4c)
 
@@ -176,7 +176,7 @@ PTN学生上课要求
 - 主讲老师：龚海鹏 \| 合讲老师：鲁志  等 
 - 对象：大三大四本科生， 专业选修课
 - 更多阅读:  [Link](https://lulab.gitbook.io/docs/literature-reading/rna/rna-structure#iii.-rna-secondary-structure-prediction)
-- 讲课视频:  [Link](https://cloud.tsinghua.edu.cn/library/583b54ce-59e3-4417-b513-ebb7a607df7b/Lu%20Lab%20Library/Lu%20Lab%20Public%20Files/Bioinformatics%20Tutorial/Video/Advanced%20Theory%20-%20ZJL)
+- 讲课视频:  [Link](https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FVideo%2FAdvanced%20Theory%20-%20ZJL&mode=list)
 
 ### Other Courses 其他课程
 
