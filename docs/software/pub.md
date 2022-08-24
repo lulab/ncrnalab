@@ -1,12 +1,14 @@
 ---
 layout: default
-title:  Publications - Catergorized
+title:  Representative Publications
 ---
 
 **Table of Contents:**
 
 * TOC
 {:toc}
+
+
 
 ---
 

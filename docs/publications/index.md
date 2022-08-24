@@ -4,10 +4,11 @@ title: Publications
 ---
 
 **Table of Contents:**
-> [Catergorized by topic](../software/pub.md)
 
 * TOC
 {:toc}
+
+> [Representative Publications](../software/pub.md)
 
 ---
 

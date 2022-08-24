@@ -15,7 +15,8 @@ Here, we develop bioinformatic software about biological system, and applying th
 * [04 RNAmed](#04)
 
 > [Lu Lab's **Github**](https://github.com/lulab)
-> [Catergorized Publications](./pub.md)
+> 
+> [Related Publications](./pub.md)
 
 
 ---
