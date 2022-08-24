@@ -61,6 +61,6 @@ title:  Representative Publications
 
 ## IV. RNA-med
 
-- Shanwen Chen1, Yunfan Jin1, Siqi Wang1, Shaozhen Xing1, …, Zhenjiang Zech Xu*, **Zhi John Lu\***, Pengyuan Wang* (2022) Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes. **eLife** 11:e75181 (1contributed equally, *co-corresponding authors) (IF: 8.7)
-- Shuaishuai Teng1, Yang Eric Li1, …, **Zhi John Lu***** and Dong Wang*** (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **Cell Research** 30(1):34-49 (1contributed equally, *co-corresponding authors) (IF: 25.6)
+- Shanwen Chen1, Yunfan Jin1, Siqi Wang1, Shaozhen Xing1, …, Zhenjiang Zech Xu\*, **Zhi John Lu\*** and Pengyuan Wang\* (2022) Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes. **eLife** 11:e75181 (1contributed equally, \*co-corresponding authors) (IF: 8.7)
+- Shuaishuai Teng1, Yang Eric Li1, …, **Zhi John Lu\*** and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **Cell Research** 30(1):34-49 (1contributed equally, *co-corresponding authors) (IF: 25.6)
 
