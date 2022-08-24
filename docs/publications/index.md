@@ -4,11 +4,13 @@ title: Publications
 ---
 
 **Table of Contents:**
+> [Catergorized by topic](../software/pub.md)
 
 * TOC
 {:toc}
 
 ---
+
 
 
 ## 2022
