@@ -8,7 +8,7 @@ title: Publications
 * TOC
 {:toc}
 
-> [Representative Publications](../software/pub.md)
+> [Representative Publications](./pub.md)
 
 ---
 

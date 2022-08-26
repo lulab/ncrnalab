@@ -8,58 +8,19 @@ We have two major research directions.
 
 * TOC
 {:toc}
-
----
-
-* **Outline of research projects:** 
-
 <a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:80%;" /></a>
 
 [Detailed Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
 
 
 
-* **Major publications:** 
-
-![Bioinformatics Studies for noncoding RNA](../open/image/rna_study.webp)
-
-[Full list of publications](../publications)
-
-
-
-* **Funding:**
-
-  * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
-
-  * 2022-2024     AI model informed by biological network for early cancer diagnosis, PI, Tsinghua Guoqiang AI Institute
-
-  * 2021-2023     Development of nucleic acid detection technology for microbial infection, PI, Tsinghua Chunfeng Foundation
-
-  * 2021-2023     Development of bioinformatics technology for body fluid multi-omics data in cancer PI, National Center for Protein Sciences (Beijing)
-
-  * 2020-2023     Novel extracellular RNA biomarkers for cancer diagnosis and prognosis, PI, National Natural Science Foundation of China
-
-  * 2020-2023     Post-transcriptional regulation and RNA structures, PI, Beijing Advanced Innovation Center for Structural Biology
-
-
-* **代表性在研项目:**
-
-  * 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025		主持
-  * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，2020-2023		主持
-  * 国家“凤凰工程”  技术创新开放共享课题，2021-NCPSB-005，多组学整合的生物信息学研究，2021/07-2023/06	主持
-  * 北京市高精尖结构生物学中心 竞争性项目， 翻译调控中的 RNA结构研究，2020/07-2023/06	主持
-  * 清华大学国强研究院  人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022/04-2024/03	主持
-  * 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09	主持
-
-
-
 
 ---
 
 
 
 
-## 1. Precision Medicine {#MED}
+## A. Precision Medicine {#MED}
 
 Early detection based on tumor biomarkers has very important clinical and social significance for cancer diagnosis and treatment, however, current biomarkers have poor generalization ability because of the inter-heterogeneity and intra-heterogeneity among individuals and tumor cells. 
 
@@ -67,7 +28,7 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 
 
-### 1.1 NGS Technology Development
+### A1 NGS Technology Development
 
 ***cfRNA-seq Development.*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
@@ -87,7 +48,7 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 
 
-### 1.2 Multi-Omics Data Mining
+### A2 Multi-Omics Data Mining
 
 Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
 
@@ -106,9 +67,9 @@ Recently, people are increasingly aware of the importance of big omics data in r
 
 
 
-## 2. Machine Learning & AI {#AI}
+## B. Machine Learning & AI {#AI}
 
-### 2.1 Omics Model
+### B1 Omics Model
 
 Omics data, especially those from body fluid, are sparse and heterogenous. Therefore, we tend to develop a paired integration model based on techniques like deep learning with regard to these features. At first, we collect paired multi-omics data (multi-omics, which includes proteomics, transcriptomics, genomics and epigenomics data) or multi-features matrix calculated by bioinformatic analysis from a single omics data (multi-features, features like expression and splicing calculated from RNA-seq, for example). Then we explore the possibility of integrating body fluid multi-omics data or multi-features data by multiple deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model, to find multi-omics integrated markers through the important neurons in the latent space, and to illustrate the gene composition, omics sources and relations by model visualization.
 
@@ -126,7 +87,7 @@ Omics data, especially those from body fluid, are sparse and heterogenous. There
 
 
 
-### 2.2 RNA Model
+### B2 RNA Model
 
 The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as new methods in deep learning) into biological data. We use bioinformatics methods to explore basic scientific questions such as the structure and regulation of RNAs (especially non-coding RNAs).
 
@@ -147,3 +108,32 @@ The introduction of new methods and new thinking in different fields can often l
 </div>
 
 
+## Funded Projects
+
+* **Funding:**
+
+  * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
+
+  * 2020-2023     Novel extracellular RNA biomarkers for cancer diagnosis and prognosis, PI, National Natural Science Foundation of China
+
+  * 2021-2023     Development of bioinformatics technology for body fluid multi-omics data in cancer PI, National Center for Protein Sciences (Beijing)
+
+  * 2020-2023     Post-transcriptional regulation and RNA structures, PI, Beijing Advanced Innovation Center for Structural Biology
+
+  * 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, PI, Tsinghua Precision Medicine Institute
+
+  * 2022-2024     AI model informed by biological network for early cancer diagnosis, PI, Tsinghua Guoqiang AI Institute
+
+  * 2021-2023     Development of nucleic acid detection technology for microbial infection, PI, Tsinghua Chunfeng Foundation
+
+    
+
+
+* **代表性在研项目:**
+  * 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025		主持
+  * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，2020-2023		主持
+  * 国家“凤凰工程”  技术创新开放共享课题，2021-NCPSB-005，多组学整合的生物信息学研究，2021/07-2023/06	主持
+  * 北京市高精尖结构生物学中心 竞争性项目， 翻译调控中的 RNA结构研究，2020/07-2023/06	主持
+  * 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022/08-2025/07	主持
+  * 清华大学国强研究院  人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022/04-2024/03	主持
+  * 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09	主持

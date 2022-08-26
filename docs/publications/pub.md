@@ -7,6 +7,10 @@ title:  Representative Publications
 
 * TOC
 {:toc}
+![Bioinformatics Studies for noncoding RNA](./rna_study.webp)
+
+[Full list of publications](./index.md)
+
 
 
 

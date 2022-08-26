@@ -16,7 +16,7 @@ Here, we develop bioinformatic software about biological system, and applying th
 
 > [Lu Lab's **Github**](https://github.com/lulab)
 > 
-> [Related Publications](./pub.md)
+> [Related Publications](../publications/pub.md)
 
 
 ---

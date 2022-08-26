@@ -24,7 +24,7 @@ description: Collaborate with us !
 实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章30余篇(影响因子 10 分以上的 10余篇, ESI高被引论文3篇)；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。**我们针对noncoding RNA的近20年的研究经验**和主要成果如下图所示：
 
 
-![Bioinformatics Studies for noncoding RNA](image/rna_study.webp)
+![Bioinformatics Studies for noncoding RNA](../publications/rna_study.webp)
 
 
 ## 代表性在研项目
@@ -33,6 +33,7 @@ description: Collaborate with us !
 * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，2020-2023		主持
 * 国家“凤凰工程”  技术创新开放共享课题，2021-NCPSB-005，多组学整合的生物信息学研究，2021/07-2023/06	主持
 * 北京市高精尖结构生物学中心 竞争性项目， 翻译调控中的 RNA结构研究，2020/07-2023/06	主持
+* 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022/08-2025/07	主持
 * 清华大学国强研究院  人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022/04-2024/03	主持
 * 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09	主持
 
