@@ -22,13 +22,27 @@ We have two major research directions.
 
 ## A. Precision Medicine {#MED}
 
-Early detection based on tumor biomarkers has very important clinical and social significance for cancer diagnosis and treatment, however, current biomarkers have poor generalization ability because of the inter-heterogeneity and intra-heterogeneity among individuals and tumor cells. 
+In recent years, people have gradually realized the importance of multi-omics big data in the precised diagnosis and treatment of complex diseases such as cancer. However, how to realize the effective integration and optimization of multi-dimensional data remains to be explored and studied.
 
-癌症早期诊断具有非常重要的临床价值和社会意义，但由于癌症异质性高等原因，基于标志物的液体活检技术在实际的癌症检测中泛化能力较差、准确性也有待提高。
+近年来，人们逐渐认识到多组学大数据在癌症等复杂性疾病的精准诊疗中的重要性。但具体如何实现多维数据的有效整合以及优化，还有待探索和研究。
+
+### A1 Development of Bioinformatics Method & Tool
+
+For multi-dimensional and multi-modal data, we need to perform 4 steps for machine learning and other analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)).
+
+对于多维度、多模态的高通量数据，例如 RNA-seq data，我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)）。
 
 
 
-### A1 NGS Technology Development
+<div align="middle">
+<img src="multiomics.webp" style="zoom:50%;" />
+<br>
+<small>Multi-Omics strategies for diagnosis and prognosis of cancer from liquid biopsy samples (Heitzer, et al., <i>Nature Reviews | Genetics</i>  2018)</small>
+</div> 
+
+
+
+### A2 Development of Omics Technology
 
 ***cfRNA-seq Development.*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
@@ -48,21 +62,17 @@ Early detection based on tumor biomarkers has very important clinical and social
 
 
 
-### A2 Multi-Omics Data Mining
+### A+ Application for Cancer & Immunotherapy
 
-Recently, people are increasingly aware of the importance of big omics data in realizing early cancer diagnosis, but how to implement it is still under exploration. This project intends to develop new bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer detection. 
+We develop bioinformatics methods to integrate multi-omics data (e.g., cfDNA methylation, cfRNA/exRNA and sEV protein，etc) of cancer, which aims to explain cancer development based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer screen, cancer microbiome and cancer immunotherapy and  studies. 
 
-近年来，人们逐渐认识到多组学大数据在实现癌症早期诊断中的重要性，但具体如何实现多维数据的有效整合以及优化出癌症体液标志物组合，还有待探索和研究。本项目拟探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物。
+我们探索新的生物信息学方法，分析和整合癌症病人血液中的cfDNA甲基化、exRNA/cfRNA和sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示癌症发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于癌症无创检测的多分子组合标志物，进行癌症筛查、癌症微生物、癌症免疫治疗等研究。
 
 <div align="middle">
 <img src="research.webp" style="zoom:60%;" />
 <br>
 <small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., early cancer screen, cancer immunology and cancer microbiome.</small>
 </div>
-
-
-
-
 
 
 
@@ -74,17 +84,6 @@ Recently, people are increasingly aware of the importance of big omics data in r
 Omics data, especially those from body fluid, are sparse and heterogenous. Therefore, we tend to develop a paired integration model based on techniques like deep learning with regard to these features. At first, we collect paired multi-omics data (multi-omics, which includes proteomics, transcriptomics, genomics and epigenomics data) or multi-features matrix calculated by bioinformatic analysis from a single omics data (multi-features, features like expression and splicing calculated from RNA-seq, for example). Then we explore the possibility of integrating body fluid multi-omics data or multi-features data by multiple deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model, to find multi-omics integrated markers through the important neurons in the latent space, and to illustrate the gene composition, omics sources and relations by model visualization.
 
 很多组学数据，尤其是体液中的组学数据，具有稀疏化、异质性明显等特点，我们将针对这些特点开发基于深度学习等技术的配对整合模型。首先我们收集配套的多组学数据（multi-omics，蛋白组学、转录组学、基因组学和表观组学数据）或者是由一个组学数据通过生物信息分析计算得到多特征矩阵（multi-features，例如，通过 RNA-seq 可以计算得到表达、剪接等多特征）。其次我们将探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行体液多组学数据或者多特征数据的整合，通过潜在空间重要神经元找到多组学整合标记物，并通过模型可视化来解释多组学整合标记物的基因组成、组学来源和相关关系。
-
-
-
-<div align="middle">
-<img src="multiomics.webp" style="zoom:50%;" />
-<br>
-<small>Multi-Omics strategies for diagnosis and prognosis of cancer from liquid biopsy samples (Heitzer, et al., <i>Nature Reviews | Genetics</i>  2018)</small>
-</div> 
-
-
-
 
 
 ### B2 RNA Model
