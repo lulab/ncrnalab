@@ -73,15 +73,16 @@ Omics data, especially those from body fluid, are sparse and heterogenous. There
 
 ### 4. Applications for Cancer & Immunotherapy
 
-We develop bioinformatics methods to integrate multi-omics data (e.g., cfRNA/exRNA, cfDNA and its methylation, sEV protein, etc), which aims to explain development of complex diseases (e.g., cancer, immune related diseases) based on an integrative, multi-dimensional level. We will first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer screen, cancer microbiome and immunotherapy studies. 
+We develop bioinformatics methods to integrate multi-omics data for RNA, noncoding RNA (ncRNA) in particular, DNA and its methylation, EV protein. We aim to explain development of complex diseases (e.g., cancer, immune related diseases) based on an integrative, multi-dimensional level. For instance, we first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer screen, cancer microbiome and immunotherapy studies. 
 
-我们探索新的生物信息学方法，分析和整合病人血液中的exRNA/cfRNA、cfDNA及其甲基化、sEV（如外泌体）蛋白等体液多组学数据，从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。我们将首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于疾病无创检测的多分子组合标志物，进行癌症微生物、癌症筛查和免疫治疗等方面的研究。
+我们探索新的生物信息学方法，分析和整合RNA (尤其是noncoding RNA)、DNA及其甲基化、外泌体蛋白等多组学数据，从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。例如，我们首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于疾病无创检测的多分子组合标志物，进行癌症微生物、癌症筛查和免疫治疗等方面的研究。
 
 <div align="middle">
 <img src="research.webp" style="zoom:60%;" />
 <br>
-<small>We apply cfRNA-focused genomics and bioinformatics technologies to precision medicine, e.g., cancer microbiome, cancer screen and immunotherapy.</small>
+<small>We apply noncoding RNA (ncRNA) focused genomics and bioinformatics technologies to precision medicine, e.g., cancer microbiome, cancer screen and immunotherapy.</small>
 </div>
+
 
 
 
