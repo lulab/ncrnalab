@@ -66,5 +66,7 @@ title:  Representative Publications
 ## IV. RNA-med
 
 - Shanwen Chen1, Yunfan Jin1, Siqi Wang1, Shaozhen Xing1, …, Zhenjiang Zech Xu\*, **Zhi John Lu\*** and Pengyuan Wang\* (2022) Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes. **eLife** 11:e75181 (1contributed equally, \*co-corresponding authors) (IF: 8.7)
+- Yumin Zhu<sup>1</sup>, Siqi Wang<sup>1</sup>, Xiaochen Xi<sup>1</sup>, Minfeng Zhang<sup>1</sup>, Xiaofan Liu, Weina Tang, Peng Cai, Shaozhen Xing, Pengfei Bao, Yunfan Jin, Weihao Zhao, Yinghui Chen, Huanan Zhao, Xiaodong Jia, Shanshan Lu, Yinying Lu, Lei Chen\*, Jianhua Yin\*, **Zhi John Lu**\* (2021) **Integrative analysis of long extracellular RNAs reveals a detection panel of noncoding RNAs for liver cancer.** *Theranostics* 11(1):181-193 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 11.556) (Patent Protected)
 - Shuaishuai Teng1, Yang Eric Li1, …, **Zhi John Lu\*** and Dong Wang\* (2020) Tissue-specific transcription reprogramming promotes liver metastasis of colorectal cancer. **Cell Research** 30(1):34-49 (1contributed equally, *co-corresponding authors) (IF: 25.6)
+- Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu\*** (2019) **Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma** *Clinical Chemistry* 65(7):905-915  (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 8.3) (Patent Protected)
 
