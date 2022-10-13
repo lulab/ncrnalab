@@ -15,9 +15,9 @@ description: Teaching @ Tsinghua
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo}
+#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo2}
 
-> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学导论》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
+> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
 
 ---
 
@@ -28,8 +28,8 @@ description: Teaching @ Tsinghua
 - 学分：2
 - 主讲老师：鲁志   \|  合讲老师：李寅青 
 - 对象：博士生 容量22人; 本科生 容量10人
-- 主要教材：《[Bioinformatics Tutorial](http://book.ncRNAlab.org)》
-- 教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91)
+- 主要教材：《[Bioinformatics Tutorial](http://bioinfo.gitbook.io)》
+- 教学日历和教案: [Syllabus](http://courses.ncRNAlab.org/bioinfo2)
 
 **【Teaching Philosophy】**
 
@@ -54,7 +54,7 @@ description: Teaching @ Tsinghua
 3. 基本数学课程： 如《线性代数》
 4. 基本计算机技能：如 Linux基础 + C/Python语言
 
-#### II. Introduction to Genomics - PTN 《基因组学导论-PTN》 {#PTN}
+#### II. Introduction to Genomics - PTN 《基因组学导论-PTN》 {#genomics}
 
 ---
 
@@ -102,7 +102,7 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
+#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo3}
 
 ---
 
@@ -129,7 +129,7 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### I. Introduction to Bioinformatics《生物信息学导论》 {#bioinfo3}
+#### I. Bioinformatics《生物信息学》 {#bioinfo}
 
 > 本课程课堂容量有限，但和秋季学期的研究生课《生物信息学实践》的很多内容相同，此研究生课也设有一定的本科生容量，本学期没有选上的同学可以下学期选修这门研究生课。
 
@@ -143,7 +143,7 @@ PTN学生上课要求
 - 主讲老师：鲁志            
 - 对象：本科生 容量40人
 - 主要教材：《[Bioinformatics Tutorial](http://book.ncrnalab.org)》
-- 教学日历和教案: [Syllabus](https://app.yinxiang.com/fx/48420550-8f51-49a6-b404-0cc7e810ab4c)
+- 教学日历和教案: [Syllabus](http://courses.ncRNAlab.org/bioinfo)
 
 **【Teaching Philosophy】**
 
