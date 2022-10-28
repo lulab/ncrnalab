@@ -6,7 +6,7 @@ description: Research @ Tsinghua
 
 
 
-在人类的2万个左右的蛋白编码基因，但仅占人类基因组总长度的1.5%左右，另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，这些很多都是非编码RNA，noncoding RNA (ncRNA)。
+人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，这些很多都是非编码RNA，noncoding RNA (ncRNA)。
 
 About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are noncoding RNAs (ncRNAs).
 
