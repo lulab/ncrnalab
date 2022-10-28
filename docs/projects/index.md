@@ -4,7 +4,7 @@ title: Projects
 description: Research @ Tsinghua
 ---
 
-We have two major research directions centered on **RNA**:
+We have two major research directions centered on **noncoding RNA (ncRNA)**:
 
 * TOC
 {:toc}
@@ -22,15 +22,9 @@ We have two major research directions centered on **RNA**:
 
 ## I. Precision Medicine {#med}
 
-In recent years, people have gradually realized the importance of multi-omics big data in the precised diagnosis and treatment of complex diseases such as cancer. However, how to realize the effective integration and optimization of multi-dimensional data remains to be explored and studied.
+In recent years, people have gradually realized the importance of multi-omics big data in the precised diagnosis and treatment of complex diseases such as cancer. However, how to realize the effective integration and optimization of multi-dimensional data remains to be explored and studied. Omics data, especially those from body fluid, are sparse and heterogenous. Therefore, we tend to develop a paired integration model based on techniques like deep learning with regard to these features. At first, we collect paired multi-omics data (multi-omics, which includes proteomics, transcriptomics, genomics and epigenomics data) or multi-features matrix calculated by bioinformatic analysis from a single omics data (multi-features, features like expression and splicing calculated from **RNA-seq**, for example). Then we explore the possibility of integrating body fluid multi-omics data or multi-features data by multiple deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model, to find multi-omics integrated markers through the important neurons in the latent space, and to illustrate the gene composition, omics sources and relations by model visualization. 
 
-近年来，人们逐渐认识到多组学大数据在癌症等复杂性疾病的精准诊疗中的重要性。但具体如何实现多维数据的有效整合以及优化，还有待探索和研究。
-
-### 1. Development of Bioinformatics Method & Tool
-
-For multi-dimensional and multi-modal data, we need to perform 4 steps for machine learning and other analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)).
-
-对于多维度、多模态的高通量数据，例如 RNA-seq data，我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)）。
+近年来，人们逐渐认识到多组学大数据在癌症等复杂性疾病的精准诊疗中的重要性。但具体如何实现多维数据的有效整合以及优化，还有待探索和研究。很多组学数据，尤其是体液中的组学数据，具有稀疏化、异质性明显等特点，我们将针对这些特点开发基于深度学习等技术的配对整合模型。首先我们收集配套的多组学数据（multi-omics，蛋白组学、转录组学、基因组学和表观组学数据）或者是由一个组学数据通过生物信息分析计算得到多特征矩阵（multi-features，例如，通过 **RNA-seq** 可以计算得到表达、剪接等多特征）。其次我们将探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行体液多组学数据或者多特征数据的整合，通过潜在空间重要神经元找到多组学整合标记物，并通过模型可视化来解释多组学整合标记物的基因组成、组学来源和相关关系。
 
 
 
@@ -41,16 +35,19 @@ For multi-dimensional and multi-modal data, we need to perform 4 steps for machi
 </div> 
 
 
-
-### 2. Development of Omics Technology
+### 1. RNA Detection
 
 ***cfRNA-seq Development.*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
+
+***Bioinfo. Method Development.*** For multi-dimensional and multi-modal data, such as **RNA-seq data,** we need 4 steps for machine learning and other analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)).
 
 > **cfRNA/exRNA**: In clinical studies like liquid biopsy, exRNA (extra-cellular RNA) is also called cfRNA (cell free RNA). Many exRNAs are noncoding RNAs, like miRNA, lncRNA, srpRNA, circRN, etc. 
 
 
 
 ***cfRNA-seq Development***: 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
+
+***Bioinfo. Method Development:*** 对于多维度、多模态的高通量数据，例如 **RNA-seq data**，我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)）。
 
 > **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多非编码 RNA（如 miRNA，lncRNA，srpRNA，circRNA等）。
 
@@ -63,19 +60,15 @@ For multi-dimensional and multi-modal data, we need to perform 4 steps for machi
 
 
 
-### 3. Development of AI Model
+### 2. RNA Regulation
 
-Omics data, especially those from body fluid, are sparse and heterogenous. Therefore, we tend to develop a paired integration model based on techniques like deep learning with regard to these features. At first, we collect paired multi-omics data (multi-omics, which includes proteomics, transcriptomics, genomics and epigenomics data) or multi-features matrix calculated by bioinformatic analysis from a single omics data (multi-features, features like expression and splicing calculated from RNA-seq, for example). Then we explore the possibility of integrating body fluid multi-omics data or multi-features data by multiple deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model, to find multi-omics integrated markers through the important neurons in the latent space, and to illustrate the gene composition, omics sources and relations by model visualization.
+After RNA is transcribed, it will have very complex and fine post-transcriptional regulation, such as alternative splicing (AS), alternative polyadenylation (APA), degradation, editing, modification, cellular localization and so on. These are closely related to the structure of RNA itself and the proteins that recognize RNA sequence and structure. We use our theoretical and methodological findings on RNA structure and its interacted proteins to study the mechanisms of post-transcriptional regulation of RNA.
 
-很多组学数据，尤其是体液中的组学数据，具有稀疏化、异质性明显等特点，我们将针对这些特点开发基于深度学习等技术的配对整合模型。首先我们收集配套的多组学数据（multi-omics，蛋白组学、转录组学、基因组学和表观组学数据）或者是由一个组学数据通过生物信息分析计算得到多特征矩阵（multi-features，例如，通过 RNA-seq 可以计算得到表达、剪接等多特征）。其次我们将探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行体液多组学数据或者多特征数据的整合，通过潜在空间重要神经元找到多组学整合标记物，并通过模型可视化来解释多组学整合标记物的基因组成、组学来源和相关关系。
+We develop bioinformatics methods to integrate multi-omics data for RNA, **noncoding RNA (ncRNA)** in particular, DNA and its methylation, EV protein. We aim to explain development of complex diseases (e.g., cancer, immune related diseases) based on an integrative, multi-dimensional level. For instance, we first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model. These results can be used as biomarkers and regultion targets for non-invasive cancer screen, cancer microbiome and immunotherapy studies. 
 
+RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪切，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。我们利用我们关于RNA结构及其靶标蛋白方面的在理论和方法上的研究成果，研究生物当中RNA的转录后调控机制。
 
-
-### 4. Applications for Cancer & Immunotherapy
-
-We develop bioinformatics methods to integrate multi-omics data for RNA, noncoding RNA (ncRNA) in particular, DNA and its methylation, EV protein. We aim to explain development of complex diseases (e.g., cancer, immune related diseases) based on an integrative, multi-dimensional level. For instance, we first collect published data as a multi-omics database, and then we will explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these paired and unpaired multi-omics data. Subsequently, we will sequence multi-omics data in cancer plasma samples using the latest sequencing technology; and develop a multi-dimensional model as a multi-molecular markers for non-invasive cancer screen, cancer microbiome and immunotherapy studies. 
-
-我们探索新的生物信息学方法，分析和整合RNA (尤其是noncoding RNA)、DNA及其甲基化、外泌体蛋白等多组学数据，从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。例如，我们首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型，开发用于疾病无创检测的多分子组合标志物，进行癌症微生物、癌症筛查和免疫治疗等方面的研究。
+我们探索新的生物信息学方法，分析和整合RNA (尤其是**noncoding RNA**)、DNA及其甲基化、外泌体蛋白等多组学数据，从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。例如，我们首先收集发表数据构建体液多组学数据库，接着我们将基于这个数据库针对配对和不配对的多组学数据探索深度学习、迁移学习、相似网络融合等生物信息分析技术，构建多模态模型。这些数据和模型可以应用于癌症筛查、癌症微生物和免疫治疗等方面的研究。
 
 <div align="middle">
 <img src="research.webp" style="zoom:60%;" />
@@ -92,26 +85,21 @@ We develop bioinformatics methods to integrate multi-omics data for RNA, noncodi
 
 
 
-## II. AI-driven Drug Design {#drug}
+## II. AI-driven Drug Design {#AI}
 
 The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as new methods in deep learning) into biological data. We use bioinformatics methods to explore basic scientific questions such as the structure, regulation and target of RNAs (especially non-coding RNAs). Finally, it will bring us the new era of drug design.
 
 不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如深度学习中的新方法）引入到生物数据的研究上，利用生物信息学和最新的 AI方法在RNA（尤其是非编码RNA）结构、调控和靶标等科学问题上进行探索。最终，这些将带领我们进入一个崭新思维的药物设计新时代。
 
-
-### 1. AI Model of RNA Structure 
+### 1. RNA Structure
 
 ***RNA Structure.***  We develop structure prediction algorithm for RNA. The accurate prediction of RNA structure will help us better design drugs.
 
-***RNA Regulation.*** After RNA is transcribed, it will have very complex and fine post-transcriptional regulation, such as alternative splicing (AS), alternative polyadenylation (APA), degradation, editing, modification, cellular localization and so on. These are closely related to the structure of RNA itself and the proteins that recognize RNA sequence and structure. We use our theoretical and methodological findings on RNA structure and its interacted proteins to study the mechanisms of post-transcriptional regulation of RNA.
-
 ***RNA Structure:*** 我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地设计药物。
 
-***RNA Regulation:*** RNA在被转录后，会有着非常复杂而精细的调控，例如加工剪切，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。我们利用我们关于RNA结构及其靶标蛋白方面的在理论和方法上的研究成果，研究生物当中RNA的转录后调控机制。
 
 
-
-### 2. AI Model of RNA Target
+### 2. RNA Target
 
 
 
