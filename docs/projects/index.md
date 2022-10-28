@@ -6,9 +6,9 @@ description: Research @ Tsinghua
 
 
 
-人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，这些很多都是非编码RNA，noncoding RNA (ncRNA)。
+人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，这些很多都是非编码RNA，noncoding RNA (ncRNA)。对于为数众多的非编码RNA，我们还知之甚少。
 
-About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are noncoding RNAs (ncRNAs).
+About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are noncoding RNAs (ncRNAs), which are not well studied yet.
 
 针对非编码RNA （**noncoding RNA, ncRNA)**），我们致力于两个主要研究方向：
 
@@ -39,7 +39,7 @@ The application of these methods to precision medicine can be mainly divided int
 这些方法的应用在精准医疗上可以主要分为**Detection**和**Regulation**两个研究方向，包括了癌症筛查、免疫调控、人体微生物调控等。
 
 <div align="middle">
-<img src="research.webp" style="zoom:30%;" />
+<img src="research.webp" style="zoom:20%;" />
 <br>
 <small>We apply noncoding RNA (ncRNA) focused genomics and bioinformatics technologies to precision medicine, e.g., cancer microbiome, cancer screen and immunotherapy.</small>
 </div>
