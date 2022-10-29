@@ -6,7 +6,7 @@ description: Research @ Tsinghua
 
 
 
-> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，这些很多都是非编码RNA，noncoding RNA (ncRNA)。对于为数众多的非编码RNA，我们还知之甚少。
+> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（noncoding RNA，ncRNA)。对于为数众多的非编码RNA，我们还知之甚少。
 >
 > About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are noncoding RNAs (ncRNAs), which are not well studied yet.
 
@@ -34,7 +34,7 @@ The application of these methods to precision medicine can be mainly divided int
 
 我们探索新的高通量测序和生物信息学方法，研究和分析细胞内和细胞外的转录组 (尤其是 noncoding RNA)。通过结合转录组和其他多组学数据，我们将从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。例如，我们测序和收集体液多组学数据，基于这些多模态数据, 我们探索深度学习、迁移学习、相似网络融合等生物信息分析技术和方法。
 
-这些方法的应用在精准医疗上可以主要分为**Detection**和**Regulation**两个研究方向，包括了癌症筛查、免疫调控、人体微生物调控等。
+这些方法应用在精准医疗上可以主要分为**Detection**和**Regulation**两个研究方向，包括了癌症筛查、免疫调控、人体微生物调控等。
 
 <div align="middle">
 <img src="research.webp" style="zoom:25%;" />
@@ -62,15 +62,15 @@ The application of these methods to precision medicine can be mainly divided int
 
 
 
-***Bioinfo. Method Development.*** Multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from cfRNA-seq data.  For multi-modal data, such as multi-omics data and/or  cfRNA-seq derived multi-view data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)). For instance, we integrate these multi-modal data using deep learning models, for example Transformer, Adversarial autoencoder (AAE), and Deep adversarial variational autoencoder model. 
+***Bioinfo. Method Development.*** Multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from cfRNA-seq data.  For multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)). For instance, we integrate these multi-modal data using deep learning models, such as Transformer, Adversarial autoencoder (AAE) and Deep adversarial variational autoencoder model. 
 
-***Bioinfo. Method Development:***  我们可以由cfRNA-seq通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于多维度、多模态的高通量数据（例如 multi-omics数据，cfRNA-seq分析得到的多模态数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)）。例如，我们探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型进行多模态数据的整合。
+***Bioinfo. Method Development:***  我们可以由cfRNA-seq通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于多维度、多模态的高通量数据（例如 cfRNA-seq分析得到的多模态数据，以及multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)）。例如，我们探索转换器（Transformer）、对抗自编码器（Adversarial autoencoder, AAE）、深度对抗变分自动编码器模型（Deep adversarial variational autoencoder model）等深度学习模型，进行多模态数据的整合。
 
 
 
-Subsequently, we use these methods for cancer screen based on liquid biopsy data.
+Subsequently,  by applying these methods to liquid biopsy, we help many clinical studies like cancer screen.
 
-最后，我们将这些方法应用在癌症无创检测的液体活检数据上进行癌症早筛。
+最后，我们将这些方法应用在液体活检上，助力解决临床问题，例如癌症早筛。
 
 <div align="middle">
 <img src="multiomics.webp" style="zoom:50%;" />
@@ -88,9 +88,9 @@ Subsequently, we use these methods for cancer screen based on liquid biopsy data
 
 ### 2. RNA Regulation
 
-RNAs are dynamicly regulated during transcription. In addition, after RNA is transcribed, it will also have very complex and fine post-transcriptional regulation, such as alternative splicing (AS), alternative polyadenylation (APA), degradation, editing, modification, cellular localization and so on. These are closely related to the structure of RNA itself and the proteins that recognize RNA sequence and structure. At the same time, RNAs, especially noncoding RNAs, also regulates other macromolecules, thus playing an important role in innate immune response and cancer immunity. We will explore these complex regulatory processes in complex diseases such as cancer, autoimmunity, which will be applied to immunotherapy.
+RNAs are dynamicly regulated during transcription. In addition, after RNA is transcribed, it will also have very complex and fine post-transcriptional regulation, such as alternative splicing (AS), alternative polyadenylation (APA), degradation, editing, modification, cellular localization and so on. These are closely related to the structure of RNA itself and the proteins that recognize RNA sequence and structure. At the same time, RNAs, especially noncoding RNAs, also regulate other macromolecules, thus playing important roles in innate immune response to viruses and cancer immunity. We explore these complex regulatory processes in complex diseases such as cancer, autoimmunity, which are applied to immunotherapy.
 
-RNA不仅在转录时被动态调控，而且在被转录后也会有着非常复杂而精细的调控工程，例如剪接，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。同时，RNA，尤其是noncoding RNA，还会调控其他大分子，从而在先天免疫应答、癌症免疫中起到重要的作用。我们将在癌症、自身免疫等复杂性疾病中探索这些复杂的调控过程，并应用于免疫治疗。
+RNA不仅在转录时被动态调控，而且在被转录后也会有着非常复杂而精细的调控工程，例如剪接，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。同时，RNA，尤其是noncoding RNA，还会调控其他大分子，从而在人体对病毒的免疫应答以及癌症免疫等重要生命过程中发挥作用。我们在癌症、自身免疫等复杂性疾病中探索这些复杂的调控过程，并应用于免疫治疗。
 
 
 
@@ -110,9 +110,9 @@ The introduction of new methods and new thinking in different fields can often l
 
 ### 1. RNA Structure
 
-***RNA Structure.***  We develop structure prediction algorithm for RNA. The accurate prediction of RNA structure will help us better design drugs.
+***RNA Structure.***  We develop structure prediction algorithm for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving its drug design.
 
-***RNA Structure:*** 我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地设计药物。
+***RNA Structure:*** 我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于药物的设计。
 
 <div align="middle">
   <img src="rna-structure-prediction.webp" style="zoom:20%;" />
