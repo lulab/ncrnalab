@@ -5,6 +5,8 @@ title: Academic Tree of Lu Lab
 
 
 
+# Academic Tree of Lu Lab
+
 | Generation | Name                                                    | Born Year | Death Year | Ph.D./Degree Year                          | Ph.D./Degree Institution                                     |
 | ---------- | ------------------------------------------------------- | --------- | ---------- | ------------------------------------------ | ------------------------------------------------------------ |
 | 30         | Zhi J. Lu                                               |           |            | 2008                                       | University  of Rochester, USA                                |
