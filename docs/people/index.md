@@ -13,7 +13,7 @@ description: Welcome to Lu Lab @ Tsinghua University
 ---
 
 
-* [Academic Tree](../academic.md)
-* [Alumni](https://cloud.tsinghua.edu.cn/f/146aaa65df0641ff9fd4/)
+* [Lab Members & Alumni](https://cloud.tsinghua.edu.cn/f/146aaa65df0641ff9fd4/)
 * [Event Photos](https://cloud.tsinghua.edu.cn/d/97e8ead7974a461499d3/?p=%2F&mode=grid)
+* [Academic Tree](../academic.md)
 
