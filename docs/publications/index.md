@@ -33,7 +33,7 @@ title: Publications
 
     [View Detail](https://pubmed.ncbi.nlm.nih.gov/34403477/)  \| [Website](http://POSTAR.ncrnalab.org)
 
-* Thomas H Kapral, Fiona Farnhammer, Weihao Zhao, **Zhi J Lu** and Bojan Zagrovic (2022) **Widespread autogenous mRNA–protein interactions detected by CLIP-seq.** *Nucleic Acids Research*, gkac75
+* Thomas H Kapral, Fiona Farnhammer, Weihao Zhao, **Zhi J Lu** and Bojan Zagrovic (2022) **Widespread autogenous mRNA–protein interactions detected by CLIP-seq.** *Nucleic Acids Research*, 50(17):9984-9999
 
     [View Detail](https://doi.org/10.1093/nar/gkac756) 
 
