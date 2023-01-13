@@ -141,7 +141,9 @@ title: Publications
 
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28678648)
 
-- Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu\*** (2017) **COME: a robust coding potential calculator for lncRNA identification and characterization based on multiple features.** *Nucleic Acids Research* 45 (1): e2
+- Long Hu, Zhiyu Xu, Boqin Hu and **Zhi John Lu\*** (2017) **COME: a robust coding potential calculation tool for lncRNA identification and characterization based on multiple features. ** *Nucleic Acids Research* 45 (1): e2
+
+
 
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/27608726) [Web Site](http://rnafinder.ncrnalab.org/COME) [GitHub](https://github.com/lulab/COME)
 
