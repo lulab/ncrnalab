@@ -10,9 +10,9 @@ description: Research @ Tsinghua
 
 
 
-因此，对应着“诊断”和“治疗”，我们将围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
+对应着“诊断”和“治疗”，我们将围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
 
-Therefore, corresponding to diagnosis and treatment, we have two major research directions centered on **noncoding RNA (ncRNA)**:
+Corresponding to diagnosis and treatment, we have two major research directions centered on **noncoding RNA (ncRNA)**:
 
 * TOC
 {:toc}
