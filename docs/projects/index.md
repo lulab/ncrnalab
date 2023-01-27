@@ -4,9 +4,13 @@ title: Projects
 description: Research @ Tsinghua
 ---
 
-> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。我们围绕非编码RNA发展生物信息学技术，并探索其在复杂疾病精准诊疗上的具体实践。我们将充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在癌症、自身免疫疾病等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标，在研究其免疫调控机理的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床**诊断**和**治疗**两个方面实现应用价值。
+> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
 >
-> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet. We develop bioinformatics technology around non-coding RNA and explore its specific practice in the precise diagnosis and treatment of complex diseases. We will utilize bioinformatics to explore new targets in the form of non-coding RNA in complex diseases such as cancer and autoimmune diseases through cooperation with front-line doctors and experts. While studying its immune regulation mechanism, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. Realize the application value in two aspects of **diagnosis** and **treatment**.
+> 因此，我们围绕非编码RNA发展生物信息学技术，并探索其在复杂疾病精准诊疗上的具体实践。我们将充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在癌症、自身免疫疾病等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标，在研究其免疫调控机理的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床**诊断**和**治疗**两个方面实现应用价值。
+>
+> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet. 
+>
+> Therefore, we develop bioinformatics technology around non-coding RNA and explore its specific practice in the precise diagnosis and treatment of complex diseases. We will utilize bioinformatics to explore new targets in the form of non-coding RNA in complex diseases such as cancer and autoimmune diseases through cooperation with front-line doctors and experts. While studying its immune regulation mechanism, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. Realize the application value in two aspects of **diagnosis** and **treatment**.
 
 
 
@@ -109,6 +113,10 @@ The introduction of new methods and new thinking in different fields can often l
 
 不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如深度学习中的新方法）引入到生物数据的研究上，利用生物信息学和最新的 AI方法在RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等科学问题上进行探索。最终，这些将带领我们进入一个崭新思维的药物设计新时代。
 
+We will study in two sub-directions, **Structure** and **Target**: predict RNA structure, identify functional RNA target, design small molecule, and finally design drugs targeting RNAs.
+
+我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，重点研究 **Structure** 和 **Target** 两个子方向：进行RNA结构预测、功能性 RNA 靶标预测、小分子设计和对接，实现靶标RNA的药物设计。
+
 ### 1. RNA Structure
 
 ***RNA Structure Prediction.***  We develop structure prediction algorithm for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving its drug design.
@@ -123,9 +131,9 @@ The introduction of new methods and new thinking in different fields can often l
 
 ### 2. RNA Target
 
-***RNA Target & Drug Design.*** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information. We will study in two sub-directions, **Structure** and **Target**: predict RNA structure, identify functional RNA target, design small molecule, and finally design drugs targeting RNAs.
+***RNA Target & Drug Design.*** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information,  and subsequently to design drugs targeting RNAs. 
 
-***RNA Target & Drug Design:***可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，重点研究 **Structure** 和 **Target** 两个子方向：进行RNA结构预测、功能性 RNA 靶标预测、小分子设计和对接，实现靶标RNA的药物设计。
+***RNA Target & Drug Design:***可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
 <div align="middle">
   <img src="drug_rna.webp" style="zoom:30%;" />
