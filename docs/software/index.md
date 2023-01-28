@@ -3,9 +3,10 @@ layout: default
 title: Software
 ---
 
-
 We are interested in developing bioinformatics technologies and practicing evidence-based medicine.
 Here, we develop bioinformatic software about biological system, and applying them to RNA biology and Precision Medicine.
+
+![](rnafinder.webp)
 
 **Table of Contents:**
 
@@ -24,7 +25,7 @@ Here, we develop bioinformatic software about biological system, and applying th
 # 01
 ## RNAfinder
 
-[**Ribowave**](https://lulab.github.io/Ribowave)
+[**V3. Ribowave**](https://lulab.github.io/Ribowave)
 
 > Zhiyu Xu, Long Hu, et al. Nucleic Acids Research (2018)
 
@@ -33,7 +34,7 @@ Github: https://github.com/lulab/Ribowave
 
 RiboWave analyses Ribosome profiling data (Ribo-seq). It utilizes wavelet transform to denoise the original signal by extracting 3-nt periodicity of ribosomes (i.e. signal frequency) and precisely locate their footprint.
 
-[**COME**](https://github.com/lulab/COME)
+[**V2. COME**](https://github.com/lulab/COME)
 
 > Long Hu, et al. Nucleic Acids Research (2017)
 
@@ -41,7 +42,7 @@ Github: https://github.com/lulab/COME
 
 COME is a tool to calculate COding potential from Multiple fEatures for a given transcript. The models in COME were trained on mRNAs and long ncRNAs (lncRNAs).
 
-[**RNAfeature**](http://Rnafeature.ncrnalab.org)
+[**V1. RNAfeature**](http://Rnafeature.ncrnalab.org)
 
 Github: https://github.com/lulab/RNAfinder  \|  https://github.com/lulab/RNAfeature
 
@@ -60,15 +61,19 @@ Github: https://github.com/lulab/RBPgroup
 
 RBPgroup is a soft-clustering method on various CLIP-seq datasets, in order to group together RBPs that specifically bind the same RNA sites. Our approach links proteins and RNA motifs known to possess similar biochemical and cellular properties and can, when used in conjunction with additional experimental data, identify high- confidence RBP groups and their associated RNA regulatory elements.
 
-[**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar)
+[**V1-3. POSTAR Database**](http://lulab.life.tsinghua.edu.cn/postar)
 
->  Yumin Zhu, Gang Xu, Yu-Cheng T. Yang, Boqin Hu, et al. Nucleic Acids Research (2019) / (2017)
+>  V3: Weihao Zhao, Shang Zhang, et al. Nucleic Acids Research  (2022)
+>
+>  V2: Yumin Zhu, Gang Xu, Yu-Cheng T. Yang,  et al. Nucleic Acids Research  (2017)
+>
+>  V1: Boqin Hu, Yu-Cheng T. Yang,  et al. Nucleic Acids Research  (2017)
 
 Website: http://POSTAR.ncRNAlab.org
 
 POSTAR is a platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins. It enables the experimental biologists to connect protein-RNA interactions with multi-layer information of post-transcriptional regulation and functional genes, and helps them generate novel hypotheses about the post-regulatory mechanisms of phenotypes and diseases.
 
-[**CLIPdb**](http://clipdb.ncrnalab.org)
+[**V0. CLIPdb Database**](http://clipdb.ncrnalab.org)
 
 >  Yu-Cheng T. Yang, Chao Di, Boqin Hu, et al. BMC Genomics (2015)
 
@@ -79,7 +84,7 @@ CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize t
 # 03
 ## RNAstructurome
 
-**RNAex** (*deprecated*)
+**RNAex Server** (*deprecated*)
 
 >  Yang Wu, Rihao Qu, Yiming Huang, et al. Nucleic Acids Research (2016)
 
@@ -108,7 +113,7 @@ Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other dise
 
 Transformer model integrating multimodal data.
 
-**CCG** (*deprecated*)
+**CCG Database** (*deprecated*)
 
 > Mengrong Liu, Yu-Cheng T. Yang, et al. Discovery Medicine (2016)
 
