@@ -21,7 +21,7 @@ description: Collaborate with us !
 我们实验室致力于发展**生物信息学技术**，并探索其在**癌症等复杂疾病**的**精准诊疗**上的具体应用。我们利用机器学习等**人工智能技术**，结合**非编码RNA (ncRNA)**为核心的**多组学**数据，来研究遗传信息是如何被编码在结构化的DNA和RNA分子之中，以及它们是如何在一个生命体系中相互作用、彼此调控。
 “上工治未病”，我们的一个重要使命，是帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
-实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章30余篇(影响因子 10 分以上的 10余篇, ESI高被引论文3篇)；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。**我们针对noncoding RNA的近20年的研究经验**和主要成果如下图所示：
+实验室负责人鲁志博士 ([个人官方主页](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E7%94%9F%E5%91%BD%E5%AD%A6%E9%99%A2+%E9%B2%81%E5%BF%97))，清华大学生命科学学院副教授（tenured）、特别研究员、博士生导师，国家基金委“优秀青年”基金、某青年人才项目、“霍英东”青年基金获得者。鲁志博士近20年来一直致力于非编码RNA相关的生物信息学研究，发表国际重要期刊文章60余篇 ([Pulibcation List](https://www.ncrnalab.org/publications))，包括通讯作者文章30余篇(影响因子 10 分以上的 10余篇, ESI高被引论文4篇)；文章所发表期刊包括 *Science, Nature, Cell, PNAS, e-Life, Genome Biology*等，总引用超过2万次。**我们针对noncoding RNA的近20年的研究经验**和主要成果如下图所示：
 
 
 ![Bioinformatics Studies for noncoding RNA](../publications/rna_study.webp)
@@ -32,11 +32,10 @@ description: Collaborate with us !
 * 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025		主持
 * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究，2020-2023		主持
 * 国家“凤凰工程”  技术创新开放共享课题，2021-NCPSB-005，多组学整合的生物信息学研究，2021/07-2023/06	主持
-* 北京市高精尖结构生物学中心 竞争性项目， 翻译调控中的 RNA结构研究，2020/07-2023/06	主持
 * 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022/08-2025/07	主持
 * 清华大学国强研究院  人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022/04-2024/03	主持
 * 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09	主持
-
+* Bayer AI制药项目, AI driven drug design targeting RNAs，2023-2024 主持
 
 
 
@@ -167,7 +166,6 @@ description: Collaborate with us !
 **相关专利**
 
 1. 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
-2. 癌症相关的RNA数据库（**著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b;2019)
 3. 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
 4. 痕量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
 5. 一种用于肝细胞癌早期筛查和复发监测的系统 (**专利号：202010927225.7**)（*Theranostics* 2021)
@@ -191,8 +189,9 @@ description: Collaborate with us !
 - **合作课题：RNA制药在疾病治疗上的应用**  
 - **合作方式**：
   - 通过 AI 技术筛选和优化针对**RNA结构**的小分子药物
-  - 通过 AI 技术筛选和优化针对**RNA序列**的siRNA/shRNA
-  - **合作方**提供Deliver RNA的方法  或者 提供靶标的疾病  
+  - 通过 AI 技术筛选和优化针对**RNA序列**的小RNA药物
+  - 通过 AI 技术筛选和优化针对**RNA结构**的蛋白药物
+  - **合作方**提供Deliver RNA的方法  或者 提供应用场景  
 - **发起组织：清华大学生命学院鲁志实验室**（Lab of *RNA Bioinformatics*）
 - **有效时间：长期**
 
@@ -202,11 +201,13 @@ description: Collaborate with us !
 
 ## 项目简介
 
-我们在RNA-protein interaction (***Nuc. Acids. Res. 2017, 2019, 2022***), RNA secondary structure prediction (***Nucleic Acids Res. 2006，RNA 2009, Nucleic Acids Res. 2015，2016***）, siRNA(Nucleic Acids Res. 2008a,b,c）和shRNA(***PNAS 2012***)的设计及其在靶标HIV、HCV等病毒的应用上取得了很多科研成果。
+我们在RNA-protein interaction (***Nuc. Acids. Res. 2017, 2019, 2022***), RNA secondary structure prediction (***Nucleic Acids Res. 2006，RNA 2009, Nucleic Acids Res. 2015，2016***）, siRNA(Nucleic Acids Res. 2008a,b,c）和shRNA(***PNAS 2012***)的设计，以及小分子靶标病毒（***Natture Biotech. 2012***) 上取得了很多科研成果。
 
 
 
 RNA-binding proteins (RBPs) play key roles in post- transcriptional regulation. Accurate identification of RBP binding sites in multiple cell lines and tissue types from diverse species is a fundamental en- deavor towards understanding the regulatory mech- anisms of RBPs under both physiological and patho- logical conditions. Our POSTAR annotation pro- cesses make use of publicly available large-scale CLIP-seq datasets and external functional genomic annotations to generate a comprehensive map of RBP binding sites and their association with other regulatory events as well as functional variants. Here, we present POSTAR3, an updated database with im- provements in data collection, annotation infrastruc- ture, and analysis that support the annotation of post-transcriptional regulation in multiple species in- cluding: we made a comprehensive update on the CLIP-seq and Ribo-seq datasets which cover more biological conditions, technologies, and species; we added RNA secondary structure profiling for RBP binding sites; we provided miRNA-mediated degra- dation events validated by degradome-seq; we included RBP binding sites at circRNA junction re- gions; we expanded the annotation of RBP binding sites, particularly using updated genomic variants and mutations associated with diseases. POSTAR3 is freely available at http://postar.ncrnalab.org.  — ***Nucleic Acids Res.* 2022**
+
+The systematic identification of effective drug combinations has been hindered by the unavailability of methods that can explore the large combinatorial search space of drug interactions. Here we present multiplex screening for interacting compounds (MuSIC), which expedites the comprehensive assessment of pairwise compound interactions. We examined ~500,000 drug pairs from 1,000 US Food and Drug Administration (FDA)-approved or clinically tested drugs and identified drugs that synergize to inhibit HIV replication. Our analysis reveals an enrichment of anti-inflammatory drugs in drug combinations that synergize against HIV. As inflammation accompanies HIV infection, these findings indicate that inhibiting inflammation could curb HIV propagation. Multiple drug pairs identified in this study, including various glucocorticoids and nitazoxanide (NTZ), synergize by targeting different steps in the HIV life cycle. MuSIC can be applied to a wide variety of disease-relevant screens to facilitate efficient identification of compound combinations. —  ***Natture Biotech. 2012***
 
 shRNAs can trigger effective silencing of gene expression in mammalian cells, thereby providing powerful tools for genetic studies, as well as potential therapeutic strategies. Specific shRNAs can interfere with the replication of pathogenic viruses and are currently being tested as antiviral therapies in clinical trials. However, this effort is hindered by our inability to systematically and accurately identify potent shRNAs for viral genomes. Here we apply a recently developed highly parallel sensor assay to identify potent shRNAs for HIV, hepatitis C virus (HCV), and influenza. We observe known and previously unknown sequence features that dictate shRNAs efficiency. Validation using HIV and HCV cell culture models demonstrates very high potency of the top-scoring shRNAs. Comparing our data with the secondary structure of HIV shows that shRNA efficacy is strongly affected by the secondary structure at the target RNA site. Artificially introducing secondary structure to the target site markedly reduces shRNA silencing. In addition, we observe that HCV has distinct sequence features that bias HCV- targeting shRNAs toward lower efficacy. Our results facilitate further development of shRNA based antiviral therapies and improve our understanding and ability to predict efficient shRNAs.  — ***PNAS* 2012**
 
@@ -214,7 +215,9 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 
 
+## 相关专利
 
+* RNA-protein 结合及调控**数据库**（**著作权号：2016R11S367236**）(***Genome Biology* 2017; *Nucleic Acids Res.* 2017b; 2019; 2022**)
 
 <br/><br/><br/><br/><br/>
 
@@ -222,8 +225,8 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 # 联系方式
 
-| **地址：**     | **清华大学 生命科学学院，生物信息学“教育部重点实验室”， 北京，100084**                                                                                           |
-|:----------- |:------------------------------------------------------------------------------------------------------------------------------------ |
-| **办公电话：**   | **+86-10-62789217**                                                                                                                  |
-| **E-mail：** | **lulab1 AT tsinghua.edu.cn**                                                                                                        |
-| **实验室主页：**  | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **[http://www.ncrnalab.org](http://www.ncrnalab.org)** |
+| **地址：**       | **清华大学 生命科学学院，生物信息学“教育部重点实验室”， 北京，100084** |
+| :--------------- | :----------------------------------------------------------- |
+| **办公电话：**   | **+86-10-62789217**                                          |
+| **E-mail：**     | **lulab1 AT tsinghua.edu.cn**                                |
+| **实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **[http://www.ncRNAlab.org](http://www.ncrnalab.org)** |
