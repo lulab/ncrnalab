@@ -217,6 +217,8 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 ## 相关专利
 
+* 基于机器学习的生物信息方法RNAfinder（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
+* 痕量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
 * RNA-protein 结合及调控**数据库**（**著作权号：2016R11S367236**）(***Genome Biology* 2017; *Nucleic Acids Res.* 2017b; 2019; 2022**)
 
 <br/><br/><br/><br/><br/>
@@ -230,3 +232,4 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 | **办公电话：**   | **+86-10-62789217**                                          |
 | **E-mail：**     | **lulab1 AT tsinghua.edu.cn**                                |
 | **实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **[http://www.ncRNAlab.org](http://www.ncrnalab.org)** |
+
