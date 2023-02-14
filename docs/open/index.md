@@ -41,6 +41,8 @@ description: Collaborate with us !
 
 <br/>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 # 项目一：针对癌症等复杂疾病的核酸检测项目 - AI驱动的cfRNA检测技术
@@ -83,8 +85,9 @@ description: Collaborate with us !
 <div style="page-break-after: always;"></div>
 > 样本收集与临床队列设计:
 <div align="middle">
-<img src="image/flow.jpg" style="zoom: 50%;" />
+<img src="image/flow.jpg" style="zoom: 40%;" />
 </div>
+
 
 ---
 
@@ -171,8 +174,9 @@ description: Collaborate with us !
 7. 痕量RNA捕获和测序技术DETECTOR (**专利申请号：202210579444.X**)
 
 <div align="middle">
-<img src="image/patent.jpg" alt="主要专利" style="zoom:40%;" />
+<img src="image/patent.jpg" alt="主要专利" style="zoom:30%;" />
 </div>
+
 <br/>
 
 <div style="page-break-after: always;"></div>
