@@ -76,7 +76,7 @@ PTN学生上课要求
 作业
 
 > **文献阅读**:  (**Due: Dec. 31.**)
-> Pick one of the papers (NOT the *Reviews* papers) and write a review and perspective (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
+> Pick one of the papers (NOT the *Reviews* papers) and write a brief summary, including your discussion and perspectives (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
 >
 > *   **[Recommended Papers](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup)**
 
