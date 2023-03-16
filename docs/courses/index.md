@@ -78,7 +78,7 @@ PTN学生上课要求
 > **文献阅读**:  (**Due: Dec. 31.**)
 > Pick one of the papers and write a review and perspective (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
 >
-> **Paper List:** [1.Precision Medicine](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup%2FPrecision%20Medicine&mode=list);  [2.AI](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup%2FAI&mode=list)
+> *   **[Recommended Papers](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup)**
 
 ### Basic Courses 本科生课程
 
