@@ -10,13 +10,13 @@ description: Research @ Tsinghua
 >
 > About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet. 
 >
-> Therefore, we develop bioinformatics technology around non-coding RNA and explore its specific practice in the precise diagnosis and treatment of complex diseases. We will utilize bioinformatics to explore new targets in the form of non-coding RNA in complex diseases such as cancer and autoimmune diseases through cooperation with front-line doctors and experts. While studying its immune regulation mechanism, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. Realize the application value in two aspects of **diagnosis** and **treatment**.
+> Therefore, we develop bioinformatics technology around non-coding RNA and explore its specific practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics to explore new targets in the form of non-coding RNA in complex diseases such as cancer and autoimmune diseases through cooperation with front-line doctors and experts. While studying its immune regulation mechanism, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
 
 
 
 对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
 
-Corresponding to diagnosis and treatment, we have two major research directions centered on **noncoding RNA (ncRNA)**:
+Corresponding to **diagnosis** and **treatment**, we have two major research directions centered on **noncoding RNA (ncRNA)**:
 
 * TOC
 {:toc}
