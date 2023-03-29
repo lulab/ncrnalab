@@ -6,7 +6,7 @@ description: Research @ Tsinghua
 
 > 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
 >
-> 因此，我们围绕非编码RNA发展生物信息学技术，并探索其在复杂疾病精准诊疗上的具体实践。我们将充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在癌症、自身免疫疾病等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标，在研究其免疫调控机理的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床**诊断**和**治疗**两个方面实现应用价值。
+> 因此，我们围绕非编码RNA发展生物信息学技术，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在癌症、自身免疫疾病等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标，在研究其免疫调控机理的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床**诊断**和**治疗**两个方面实现应用价值。
 >
 > About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet. 
 >
@@ -14,7 +14,7 @@ description: Research @ Tsinghua
 
 
 
-对应着“诊断”和“治疗”，我们将围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
+对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
 
 Corresponding to diagnosis and treatment, we have two major research directions centered on **noncoding RNA (ncRNA)**:
 
