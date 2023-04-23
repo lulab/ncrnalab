@@ -12,14 +12,18 @@ title: Publications
 
 ---
 
+## 2023
 
+* Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.** \* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA*, e1791 (<sup>1</sup>contributed equally, *co-corresponding authors) 
+
+    [View Detail](https:// doi.org/10.1002/wrna.1791)   \|  [PDF](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications%2F2023&mode=list)
 
 ## 2022
 
 * Shanwen Chen<sup>1</sup>, Yunfan Jin<sup>1</sup>, Siqi Wang<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Yingchao Wu, Yuhuan Tao, Yongchen Ma, Shuai Zuo, Xiaofan Liu, Yichen Hu, Hongyan Chen, Yuandeng Luo, Feng Xia, Chuanming Xie, Jianhua Yin, Xin Wang, Zhihua Liu, Ning Zhang, Zhenjiang Zech Xu\*, **Zhi John Lu**\*, Pengyuan Wang\* (2022) **Cancer Type Classification Using Plasma Cell Free RNAs Derived from Human and Microbes.** *eLife* 11:e75181 (<sup>1</sup>contributed equally, *co-corresponding authors) 
 
-    [View Detail](https://pubmed.ncbi.nlm.nih.gov/35816095/) 
-    <img src="./assets/2022_elife.webp" style="zoom:30%;" />
+    [View Detail](https://pubmed.ncbi.nlm.nih.gov/35816095/) <img src="./assets/2022_elife.webp" style="zoom:30%;" />
+
 
 * Haipeng Fu, Tingyu Wang, Xiaohui Kong, Kun Yan, Yang Yang, Jingyi Cao, Yafei Yuan, Nan Wang, Kehkooi Kee, **Zhi John Lu** & Qiaoran Xi (2022) **A Nodal enhanced micropeptide NEMEP regulates glucose uptake during mesendoderm differentiation of embryonic stem cells.** *Nature Communications* 13(1):3984
 
