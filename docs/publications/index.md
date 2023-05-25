@@ -14,9 +14,26 @@ title: Publications
 
 ## 2023
 
-* Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.** \* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA*, e1791 (<sup>1</sup>contributed equally, *co-corresponding authors) 
+* Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.** \* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA*, e1791 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https:// doi.org/10.1002/wrna.1791)   \|  [PDF](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications%2F2023&mode=list)
+
+
+* Chun Ning<sup>1</sup>, Peng Cai<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Guangtao Li<sup>1</sup>, Pengfei Bao, Lu Yan, Meng Ning, Kaichen Tang, Yi Luo, Hua Guo, Lu Chen\*, **Zhi John Lu** \*, Jianhua Yin\* (2023) **A Comprehensive Evaluation of Full-spectrum Cell-free RNAs highlights cell-free RNA fragments for Early-Stage Hepatocellular Carcinoma Detection** *eBioMedicine* in press (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Hongjie Guo<sup>1</sup>, Jiuliang Zhao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2023) **Depletion-assisted multiplexing cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicle** bioRxiv 10.1101/2023.01.31.526408  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526408) 
+
+* Yuhuan Tao<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Shuai Zuo<sup>1</sup>, Pengfei Bao, Yunfan Jin, Yu Li, Yingchao Wu, Shanwen Chen, Xiaojuan Wang, Yumin Zhu, Ying Feng, Xiaohua Zhang, Xianbo Wang, Qiaoran Xi, Qian Lu\*, Pengyuan Wang\*, **Zhi John Lu**\* (2023) **Cell-free multi-omics analysis reveals tumor status-informative signatures in gastrointestinal cancer ptients' plasma** bioRxiv 10.1101/2023.01.31.526431  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526431) 
+
+* Xiaofan Liu, Yuhuan Tao, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Yunping Zhu\*, **Zhi John Lu**\*  (2023) **Pathformer: biological pathway informed Transformer model integrating multi-modal data of cancer** bioRxiv 10.1101/2023.05.23.541554  (\*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
+
+
 
 ## 2022
 
