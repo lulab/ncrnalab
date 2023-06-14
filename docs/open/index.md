@@ -222,7 +222,11 @@ description: Collaborate with us !
 
 ## 项目简介
 
-我们在RNA-protein interaction (*Nuc. Acids. Res. 2017, 2019, 2022*), RNA secondary structure prediction (*Nucleic Acids Res. 2006，RNA 2009, Nucleic Acids Res. 2015，2016*）, siRNA(*Nucleic Acids Res. 2008a,b,c*）和shRNA(*PNAS 2012*)的设计，以及小分子靶标病毒（*Natture Biotech. 2012*) 上取得了很多科研成果。
+我们和该项目相关的前期科研基础有： 
+* **1）RNA二级结构预测算法** (Nucleic Acids Res. 2006<sup>1</sup>，RNA 2009<sup>1</sup>, Nucleic Acids Res. 2015\*，2016\* ）；
+* **2）RNA-oligo/siRNA预测** (Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>）**和shRNA 设计** (PNAS 2012)；
+* **3）RNA-蛋白结合预测** (Nuc. Acids. Res. 2017\*, 2019\*<sup>+</sup>, 2022\*；Genome Biology 2017\*; Cell 2019 )；
+* **4）靶标病毒的小分子药物筛选**（Nature Biotech. 2012）**和小分子表型筛选计算方法**（Brief. in Bioinformatics 2019\*<sup>+</sup>)（<sup>1</sup>第一作者，\*最后通讯，\*<sup>+</sup>：共同通讯）。
 
 
 
