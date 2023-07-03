@@ -19,7 +19,9 @@ title: Publications
     [View Detail](https:// doi.org/10.1002/wrna.1791)   \|  [PDF](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications%2F2023&mode=list)
 
 
-* Chun Ning<sup>1</sup>, Peng Cai<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Guangtao Li<sup>1</sup>, Pengfei Bao, Lu Yan, Meng Ning, Kaichen Tang, Yi Luo, Hua Guo, Lu Chen\*, **Zhi John Lu** \*, Jianhua Yin\* (2023) **A Comprehensive Evaluation of Full-spectrum Cell-free RNAs highlights cell-free RNA fragments for Early-Stage Hepatocellular Carcinoma Detection** *eBioMedicine* in press (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Chun Ning<sup>1</sup>, Peng Cai<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Guangtao Li<sup>1</sup>, Pengfei Bao, Lu Yan, Meng Ning, Kaichen Tang, Yi Luo, Hua Guo, Lu Chen\*, **Zhi John Lu** \*, Jianhua Yin\* (2023) **A Comprehensive Evaluation of Full-spectrum Cell-free RNAs highlights cell-free RNA fragments for Early-Stage Hepatocellular Carcinoma Detection** *eBioMedicine* 93:104645 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+   [View Detail](https://pubmed.ncbi.nlm.nih.gov/37315449/)   
 
 * Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Hongjie Guo<sup>1</sup>, Jiuliang Zhao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2023) **Depletion-assisted multiplexing cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicle** bioRxiv 10.1101/2023.01.31.526408  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
