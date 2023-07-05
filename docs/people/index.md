@@ -5,8 +5,9 @@ description: Welcome to Lu Lab @ Tsinghua University
 ---
 
 <div align="middle">
-<img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2022.webp" >
+<img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2023.webp" >
 </div>
+
 
 
 
