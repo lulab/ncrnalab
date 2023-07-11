@@ -102,7 +102,7 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo3}
+#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 
 
 ---
 
@@ -187,3 +187,18 @@ PTN学生上课要求
 
 * 《高中奥林匹克竞赛考察课》— 1 hr
 * 《高中教师培训课》—  1hr
+
+## Summer School  夏季小学期
+
+### Basic Courses 本科生课程
+
+#### 《生命信息的解读和重编程》 {#bioinfo3}
+
+致理书院基础学科交叉实践课程
+
+------
+
+- **课号**：44710062  （序号：12）
+- **周数：** 共3周，第1周 8课时； 第2周： 8课时；第三周：16课时
+- 主要教材：《[Bioinformatics Tutorial](http://book.ncrnalab.org)》
+- 教学日历和教案: [Syllabus](http://courses.ncRNAlab.org/bioinfo3)
