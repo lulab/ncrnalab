@@ -279,6 +279,8 @@ title: Publications
 
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051673)
 
+> —————————————————12————————————————————
+
 ## 2010 - 2011 (Postdoc)
 
 * **Lu ZJ**<sup>1</sup>, Yip KY<sup>1</sup>, Wang G, Shou C, Hillier LW, et al. (2011) **Prediction and characterization of noncoding RNAs in C. elegans by integrating conservation, secondary structure, and high-throughput sequencing and array data.** *Genome Research* 21: 276-285. (<sup>1</sup>contributed equally) [modENCODE special issue]
