@@ -36,6 +36,8 @@ title: Publications
     [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
 
 
+> —————————————————65————————————————————
+
 
 ## 2022
 
@@ -61,6 +63,8 @@ title: Publications
     [View Detail](https://doi.org/10.1093/nar/gkac756) 
 
 
+> —————————————————60————————————————————
+
 
 ## 2017 - 2021
 
@@ -77,6 +81,11 @@ title: Publications
 * Jia Li, Lei Sun, Xue-Liang Peng, Xiao-Ming Yu, Shao-Jun Qi, **Zhi John Lu**, Jing-Dong J Han, Qin Shen (2021) **Integrative genomic analysis of early neurogenesis reveals a temporal genetic program for differentiation and specification of preplate and Cajal-Retzius neurons**. *PLoS Genetics* 17(3):e1009355
   [View Detail](https://pubmed.ncbi.nlm.nih.gov/33760820/)
 
+* Shanwen Chen, Tao Liu, Dingfang Bu, Jing Zhu, Xin Wang, Yisheng Pan, Yucun Liu, **Zhi John Lu**, Pengyuan Wang (2021）**Methylome profiling identifies TCHH methylation in CfDNA as a noninvasive marker of liver metastasis in colorectal cancer**. *FASEB J.* 35(7):e21720
+
+  [View Detail](https://pubmed.ncbi.nlm.nih.gov/34110642/)
+
+> —————————————————56————————————————————
 
 
 **2020**
@@ -93,6 +102,8 @@ title: Publications
 
   [View Detail](https://doi.org/10.1093/jxb/eraa315)
 
+
+> —————————————————53————————————————————
 
 
 **2019**
@@ -116,6 +127,8 @@ title: Publications
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/30239819)
 
+
+
 **2018**
 
 - Zhiyu Xu<sup>1</sup>, Long Hu<sup>1</sup>, Binbin Shi, SiSi Geng, Longchen Xu, Dong Wang\* and **Zhi John Lu\*** (2018) **Ribosome elongating footprints denoised by wavelet transform comprehensively characterize dynamic cellular translation events.** *Nucleic Acids Research* 46 (18), e109-e109  (<sup>1</sup>contributed equally, \*co-corresponding authors)
@@ -137,6 +150,10 @@ title: Publications
 - J Gong, D Shao, K Xu, Z Lu, **ZJ Lu**, YT Yang, QC Zhang (2018) **RISE: a database of RNA interactome from sequencing experiments.** *Nucleic Acids Research* 46 (D1), D194-D201
 
   [View Detail](https://academic.oup.com/nar/article/46/D1/D194/4344571)
+
+
+> —————————————————43————————————————————
+
 
 **2017**
 
@@ -174,6 +191,10 @@ title: Publications
 
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28053162) [Web Site](http://rnatarget.ncrnalab.org/POSTAR)
 
+
+> —————————————————35————————————————————
+
+
 ## 2012 - 2016
 
 **2016**
@@ -210,6 +231,10 @@ title: Publications
 
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/26996597)
 
+
+> —————————————————27————————————————————
+
+
 **2015**
 
 - Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) **Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.** *Nucleic Acids Research* 43(15): 7247-59 (<sup>1</sup>contributed equally)
@@ -227,6 +252,10 @@ title: Publications
 - Yinghan Fu, Zhengjiang Zech Xu, **Zhi J. Lu**, Shan Zhao, and David H. Mathews(2015) **Discovery of Novel ncRNA Squences in Multiple Genome Alignments on the Basis of Conserved and Stable Secondary Structures.** *PloS one*10(6):e0130200
 
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130200)
+
+
+> —————————————————23————————————————————
+
 
 **2014**
 
@@ -250,6 +279,8 @@ title: Publications
 
   [View Details](http://scholar.qsensei.com/content/1zjdv6/)
 
+
+
 **2013**
 
 * Freeberg MA, Han T,Moresco JJ, Kong A, Yang YC, **Lu ZJ**, Yates JR, Kim JK. (2013) **Pervasive and dynamic protein binding sites of the mRNA transcriptome in Saccharomyces cerevisiae.** *Genome Biology* 14, R13.
@@ -259,6 +290,7 @@ title: Publications
 * Kudron M, Niu W, **Lu Z**, Wang G, Gerstein M, Snyder M, Reinke V. (2013) **Tissue-specific direct targets of Caenorhabditis elegans Rb/E2F dictate distinct somatic and germline programs.** *Genome Biology* 14:R5
 
   [View Details](http://genomebiology.com/2013/14/1/R5)
+
 
 **2012**
 
@@ -279,7 +311,10 @@ title: Publications
 
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051673)
 
+
 > —————————————————12————————————————————
+
+
 
 ## 2010 - 2011 (Postdoc)
 
@@ -312,6 +347,9 @@ title: Publications
 * Zhong M, Niu W, **Lu ZJ**, Sarov M, Murray JI, et al. (2010) **Genome-Wide Identification of Binding Sites Defines Distinct Functions for Caenorhabditis elegans PHA-4/FOXA in Development and Environmental Response.** *PLoS Genetics* 9.532) 6(2): e1000848.
 
   [View Details](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000848)
+
+> —————————————————5————————————————————
+
 
 ## 2006 - 2009 (Ph.D.)
 
