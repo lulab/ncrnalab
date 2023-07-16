@@ -14,7 +14,7 @@ title: Publications
 
 ## 2023
 
-* Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.**\* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA*, e1791 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.**\* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA* e1791 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https:// doi.org/10.1002/wrna.1791)   \|  [PDF](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2FLu%20Lab%20Publications%2F2023&mode=list)
 
@@ -36,7 +36,7 @@ title: Publications
     [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
 
 
-> —————————————————65————————————————————
+> —————————————————66————————————————————
 
 
 ## 2022
@@ -63,7 +63,7 @@ title: Publications
     [View Detail](https://doi.org/10.1093/nar/gkac756) 
 
 
-> —————————————————60————————————————————
+> —————————————————61————————————————————
 
 
 ## 2017 - 2021
@@ -85,8 +85,6 @@ title: Publications
 
   [View Detail](https://pubmed.ncbi.nlm.nih.gov/34110642/)
 
-> —————————————————56————————————————————
-
 
 **2020**
 
@@ -101,16 +99,15 @@ title: Publications
 * Yu Ma<sup>1</sup>, Shang Zhang<sup>1</sup>, Chao Bi<sup>1</sup>, Chao Mei, Shang-Chuan Jiang, Xiao-Fang Wang,  **Zhi John Lu**\* and Da-Peng Zhang\* (2020) **Arabidopsis exoribonuclease USB1 interacts with the PPR-domain protein SOAR1 to negatively regulate abscisic acid signaling.** *Journal of Experimental Botany* 71(19): 5837-5851 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
   [View Detail](https://doi.org/10.1093/jxb/eraa315)
+  
+* Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2020) **A comprehensive evaluation of connectivity methods for L1000 data** *Briefings in Bioinformatics* 21 (6), 2194-2205 (<sup>1</sup>contributed equally, \*co-corresponding authors)
+  
+  [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31774912)
 
 
 > —————————————————53————————————————————
 
-
 **2019**
-
-* Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) **A comprehensive evaluation of connectivity methods for L1000 data** *Briefings in Bioinformatics* bbz129 (<sup>1</sup>contributed equally, \*co-corresponding authors)
-
-  [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31774912)
 
 * Rui Xiao<sup>1,</sup>\*, Jia-Yu Chen<sup>1</sup>, Zhengyu Liang<sup>1</sup>, Daji Luo, Geng Chen, **Zhi John Lu**, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lecuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou and Xiang-Dong Fu\* (2019) **Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based Regulation of Transcription** *Cell* 178, 107–121 (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
@@ -119,6 +116,7 @@ title: Publications
 * Maoguo Luo, Jianbo Bai, Bofeng Liu, Peiqiang Yan, Feifei Zuo, Hongyao Sun, Ye Sun, Xuanhao Xu, Zhihong Song, Yang Yang, Joan Massagué, Xun Lan, **Zhi Lu**, Ye-Guang Chen, Haiteng Deng, Wei Xie, Qiaoran Xi (2019) **H3K18ac Primes Mesendodermal Differentiation upon Nodal Signaling** *Stem Cell Reports* 13(4):642-656
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/31564646)
+
 - Chang Tan<sup>1</sup>, Jingyi Cao<sup>1</sup>, Lu Chen<sup>1</sup>, Xiaochen Xi, Siqi Wang, Yumin Zhu, Liuqing Yang, Longteng Ma, Dong Wang, Jianhua Yin\*, Ti Zhang\* and **Zhi John Lu\*** (2019) **Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma** *Clinical Chemistry* 65(7):905-915  (<sup>1</sup>contributed equally, \*co-corresponding authors)
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/30996051)
@@ -127,7 +125,9 @@ title: Publications
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/30239819)
 
+- Shasha Li<sup>1</sup>, Shuaishuai Teng<sup>1</sup>, Junquan Xu, Guannan Su, Yu Zhang, Jianqing Zhao, Suwei Zhang, Haiyan Wang, Wenyan Qin, **Zhi John Lu**, Yong Guo, Qianyong Zhu and Dong Wang (2019) **Microarray is an efficient tool for circRNA profiling.** *Briefings in Bioinformatics* 20(4):1420-1433  (<sup>1</sup>contributed equally)
 
+  [View Detail](https://doi.org/10.1093/bib/bby006)
 
 **2018**
 
@@ -135,9 +135,6 @@ title: Publications
 
   [View Detail](https://www.ncbi.nlm.nih.gov/pubmed/29945224) [GitHub](https://lulab.github.io/Ribowave)
 
-- Shasha Li<sup>1</sup>, Shuaishuai Teng<sup>1</sup>, Junquan Xu, Guannan Su, Yu Zhang, Jianqing Zhao, Suwei Zhang, Haiyan Wang, Wenyan Qin, **Zhi John Lu**, Yong Guo, Qianyong Zhu and Dong Wang (2018) **Microarray is an efficient tool for circRNA profiling.** *Briefings in Bioinformatics* doi: 10.1093/bib/bby006  (<sup>1</sup>contributed equally)
-
-  [View Detail](https://doi.org/10.1093/bib/bby006)
 
 - \[spotlight\]: Binbin Shi and **Zhi John Lu**\* (2018) **Decoding Plant RNA Structurome.**  *Molecular Plant* 11:3
 
@@ -152,8 +149,7 @@ title: Publications
   [View Detail](https://academic.oup.com/nar/article/46/D1/D194/4344571)
 
 
-> —————————————————43————————————————————
-
+> —————————————————44————————————————————
 
 **2017**
 
@@ -192,7 +188,7 @@ title: Publications
   [View Details](https://www.ncbi.nlm.nih.gov/pubmed/28053162) [Web Site](http://rnatarget.ncrnalab.org/POSTAR)
 
 
-> —————————————————35————————————————————
+> —————————————————36————————————————————
 
 
 ## 2012 - 2016
@@ -232,9 +228,6 @@ title: Publications
   [View Details](http://www.ncbi.nlm.nih.gov/pubmed/26996597)
 
 
-> —————————————————27————————————————————
-
-
 **2015**
 
 - Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) **Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.** *Nucleic Acids Research* 43(15): 7247-59 (<sup>1</sup>contributed equally)
@@ -254,8 +247,7 @@ title: Publications
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130200)
 
 
-> —————————————————23————————————————————
-
+> —————————————————24————————————————————
 
 **2014**
 
@@ -312,7 +304,7 @@ title: Publications
   [View Details](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051673)
 
 
-> —————————————————12————————————————————
+> —————————————————13————————————————————
 
 
 
@@ -326,6 +318,10 @@ title: Publications
 * Niu W, **Lu ZJ**, Zhong M, Sarov M, Murray JI, et al. (2011) **Diverse transcription factor binding features revealed by genome-wide ChIP-seq in C. elegans.** *Genome Research* 21: 245-254.
 
   [View Details](http://genome.cshlp.org/content/21/2/245.short)
+
+* The ENCODE Project Consortium (2011) **A User's Guide to the Encyclopedia of DNA Elements (ENCODE).** *PLoS Biology* 9(4):e1001046 (**Zhi J. Lu** is a member of ENCODE)
+
+  [View Details](https://pubmed.ncbi.nlm.nih.gov/21526222/)
 
 * Mu XJ, **Lu ZJ**, Kong Y, Lam HYK, Gerstein MB. (2011) **Analysis of genomic variation in non-coding elements using population-scale sequencing data from the 1000 Genomes Project.** *Nucleic Acids Research* 39 (16):7058-7076.
 
@@ -344,9 +340,11 @@ title: Publications
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
   <img src="./assets/2010.modENCOE_Science.webp" style="zoom:25%;" />
 
-* Zhong M, Niu W, **Lu ZJ**, Sarov M, Murray JI, et al. (2010) **Genome-Wide Identification of Binding Sites Defines Distinct Functions for Caenorhabditis elegans PHA-4/FOXA in Development and Environmental Response.** *PLoS Genetics* 9.532) 6(2): e1000848.
+* Zhong M, Niu W, **Lu ZJ**, Sarov M, Murray JI, et al. (2010) **Genome-Wide Identification of Binding Sites Defines Distinct Functions for Caenorhabditis elegans PHA-4/FOXA in Development and Environmental Response.** *PLoS Genetics*  6(2): e1000848.
 
   [View Details](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000848)
+  
+  
 
 > —————————————————5————————————————————
 
