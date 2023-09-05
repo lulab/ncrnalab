@@ -14,7 +14,7 @@ description: Research @ Tsinghua
 
 
 
-对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的药物设计 (AI-driven Drug Design) （下图）： 
+对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的结构预测和药物设计 (AI-driven Structure Prediction & Drug Design) （下图）： 
 
 Corresponding to **diagnosis** and **treatment**, we have two major research directions centered on **noncoding RNA (ncRNA)**:
 
@@ -110,8 +110,7 @@ The application of these methods to precision medicine can be mainly divided int
 </div>
 
 
-
-## II. AI-driven Drug Design {#AI}
+## II. AI-driven Structure Prediction & Drug Design {#AI}
 
 The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as new methods in deep learning) into biological data. We use bioinformatics methods to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, it will bring us the new era of drug design.
 
