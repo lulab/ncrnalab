@@ -6,12 +6,14 @@ description: Welcome to Lu Lab @ Tsinghua University
 
 <div align="middle">
 <img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2023.webp" >
+  <br>
 “少年应有鸿鹄志，当骑骏马踏平川 ” 
 <br> -《史记·陈涉世》
 </div>
 
-*"What sculpture is to a block of marble, education is to a human soul."* - Joseph Addison
-*“The carving and chipping away to create a masterpiece take years of dedication. Teachers help students discover their interests, passions, and ultimately themselves.”*
+"What sculpture is to a block of marble, education is to a human soul." - Joseph Addison
+“The carving and chipping away to create a masterpiece **take years of dedication**. 
+Teachers help students **discover their interests, passions, and ultimately themselves**.”
 
 
 ---
