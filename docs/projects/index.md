@@ -22,8 +22,6 @@ Corresponding to **diagnosis** and **treatment**, we have two major research dir
 {:toc}
 <a href="https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/"><img src="projects.webp" style="zoom:85%;" /></a>
 
-[Detailed Introduction](https://cloud.tsinghua.edu.cn/f/b77381dca00844a4890c/)
-
 
 
 
