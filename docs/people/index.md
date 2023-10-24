@@ -15,7 +15,6 @@ Teachers help students **discover their interests, passions, and ultimately them
   <br>2023<br>
   <br>
 “少年应有鸿鹄志，当骑骏马踏平川 ” 
-<br> -《史记·陈涉世》
 
 <br><br><br>
 <img align="left" style="width:50%;  border: 10px solid #E0E0E0;" src="2022.webp" >
