@@ -14,7 +14,7 @@ Teachers help students **discover their interests, passions, and ultimately them
 <img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2023.webp" >
   <br>2023<br>
   <br>
-“少年应有鸿鹄志，当骑骏马踏平川 ” 
+“<big>少年应有鸿鹄志，当骑骏马踏平川</big>” 
 
 <br><br><br>
 <img align="left" style="width:50%;  border: 10px solid #E0E0E0;" src="2022.webp" >
