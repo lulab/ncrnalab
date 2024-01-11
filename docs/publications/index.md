@@ -12,15 +12,18 @@ title: Publications
 
 ---
 
+## 2024
+
+* Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2023) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+    [View Detail](https://doi.org/10.1093/nar/gkad777) 
+
 ## 2023
 
 * Yuhuan Tao<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Shuai Zuo<sup>1</sup>, Pengfei Bao, Yunfan Jin, Yu Li, Yingchao Wu, Shanwen Chen, Xiaojuan Wang, Yumin Zhu, Ying Feng, Xiaohua Zhang, Xianbo Wang, Qiaoran Xi, Qian Lu\*, Pengyuan Wang\*, **Zhi John Lu**\*  (2023) **Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood.** *Cell Reports Medicine* 4(11):101281 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00475-5) 
 
-* Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2023) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* gkad777 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
-
-    [View Detail](https://doi.org/10.1093/nar/gkad777) 
 
 * Xing, S.<sup>1</sup>, Zhu, Y.<sup>1</sup>, You, Y., Wang, S., Wang, H., Ning, M., Jin, H., Liu, Z., Zhang, X., Yu, C. \* & **Lu, Z. J.**\* (2023). **Cell-free RNA for the liquid biopsy of gastrointestinal cancer.** *WIREs RNA* 14(5):e1791 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
