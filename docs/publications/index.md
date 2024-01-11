@@ -14,7 +14,7 @@ title: Publications
 
 ## 2024
 
-* Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2023) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2024) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https://doi.org/10.1093/nar/gkad777) 
 
