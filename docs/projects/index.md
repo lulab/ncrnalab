@@ -14,7 +14,7 @@ description: Research @ Tsinghua
 
 
 
-对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的结构预测和药物设计 (AI-driven Structure Prediction & Drug Design) （下图）： 
+对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的结构、靶标预测和药物设计 (AI-driven Structure/Target Prediction & Drug Design) （下图）： 
 
 Corresponding to **diagnosis** and **treatment**, we have two major research directions centered on **noncoding RNA (ncRNA)**:
 
