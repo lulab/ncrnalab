@@ -14,9 +14,9 @@ description: Research @ Tsinghua
 
 
 
-对应着“诊断”和“治疗”，我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信辅助的精准医疗（Precision Medicine）；2）AI辅助的结构、靶标预测和药物设计 (AI-driven Structure/Target Prediction & Drug Design) （下图）： 
+我们围绕**非编码 RNA**（**ncRNA**）分两个主要的科研方向：1）生信驱动的精准医疗；2）AI驱动的核酸模型（下图）： 
 
-Corresponding to **diagnosis** and **treatment**, we have two major research directions centered on **noncoding RNA (ncRNA)**:
+We have two major research directions centered on **noncoding RNA (ncRNA)**, I. **Bioinfo-driven Precision Medicine**; II. **AI-driven RNA Model** :
 
 * TOC
 {:toc}
@@ -30,20 +30,20 @@ Corresponding to **diagnosis** and **treatment**, we have two major research dir
 
 
 
-## I. Precision Medicine {#med}
+## I. Bioinfo-driven Precision Medicine {#med}
 
-We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of coding and **noncoding RNAs** (**ncRNAs**). By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases (e.g., cancer, immune related diseases) based on an integrative, multi-dimensional level. For instance, we seqeunce and curate multi-omics data. Then, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. 
+We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of coding and **noncoding RNAs** (**ncRNAs**). By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases (e.g., cancer and immune-mediated diseases) based on an integrative, multi-dimensional level. For instance, we seqeunce and curate multi-omics data. Then, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. 
 
 The application of these methods to precision medicine can be mainly divided into two research directions: **Detection** and **Regulation**, including cancer screening and research on microenvironments such as immunity and cancer microbiome.
 
 我们探索新的高通量测序和生物信息学方法，研究和分析细胞内和细胞外的转录组 ，尤其是**非编码 RNA** (**ncRNA**)的转录组。通过结合转录组和其他多组学数据，我们将从一个系统性的多分子层面揭示复杂疾病（如癌症, 免疫相关疾病）的发生发展规律。例如，我们测序和收集体液多组学数据，基于这些多模态数据, 我们探索深度学习、迁移学习、相似网络融合等生物信息分析技术和方法。
 
-这些方法应用在精准医疗上可以主要分为**Detection**和**Regulation**两个研究方向，包括了癌症筛查、免疫调控、人体内的微生物调控等。
+这些方法应用在精准医疗上可以主要分为**Detection**和**Regulation**两个研究方向，包括了癌症筛查、免疫相关疾病中调控网络、人体内的微生物调控等。
 
 <div align="middle">
 <img src="research.webp" style="zoom:25%;" />
 <br>
-<small>We apply noncoding RNA (ncRNA) focused genomics and bioinformatics technologies to precision medicine, e.g., cancer microbiome, cancer screen and immunotherapy.</small>
+<small>We apply noncoding RNA (ncRNA) focused genomics and bioinformatics technologies to precision medicine, e.g., cancer microbiome, cancer screen and immunotherapy, and immune-mediated immune diseases.</small>
 </div>
 
 
@@ -54,11 +54,11 @@ The application of these methods to precision medicine can be mainly divided int
 
 ***Discoverying novel noncoding RNAs*** ：随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA。例如，我们可以从纷繁复杂的微生物群落的宏转录组中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
-***cfRNA-seq Development.*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
+***Profiling cell-free RNAs (cfRNAs)*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
 > In clinical studies like liquid biopsy, **exRNA** (extra-cellular RNA) is also called **cfRNA** (cell free RNA). Many exRNAs are **noncoding RNAs** (**ncRNAs**), like miRNA, lncRNA, srpRNA, circRN, etc. 
 
-***cfRNA-seq Development***: 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
+***Profiling cell-free RNAs (cfRNAs)***: 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
 
 > **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
 
@@ -108,25 +108,22 @@ The application of these methods to precision medicine can be mainly divided int
 </div>
 
 
-## II. AI-driven Structure Prediction & Drug Design {#AI}
+## II. AI-driven RNA Model {#AI}
 
-The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as new methods in deep learning) into biological data. We use bioinformatics methods to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, it will bring us the new era of drug design.
+The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as AI technology and large language model) into biological data. We develop novel RNA models to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, these novel models will bring us the new era of enzyme and drug design.
 
-不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如深度学习中的新方法）引入到生物数据的研究上，利用生物信息学和最新的 AI方法在RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等科学问题上进行探索。最终，这些将带领我们进入一个崭新思维的药物设计新时代。
+不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如最新的AI技术和大语言模型）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的酶设计和药物设计的新时代。
 
-We will study in two sub-directions, **Structure** and **Target**: RNA structure prediction, RNA vaccine design, functional RNA target prediction, drug design for target RNA, etc.
 
-我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合 多方面的信息，重点研究 **Structure** 和 **Target** 两个子方向：进行RNA结构预测、RNA疫苗设计、功能性 RNA 靶标预测、靶标RNA的药物设计等研究。
+Based on new AI technologies, we develop RNA models for RNA structure prediction, Ribozyme optimization and design, siRNA Design, RNA vaccine design, functional RNA target prediction, RNA-based drug design, etc.
+我们利用最新的人工智能技术开发各类核酸模型，进行RNA结构预测、核酶优化和设计、RNA疫苗设计、功能性 RNA 靶标预测、siRNA设计、靶标RNA的药物设计等研究。
 
-### 1. RNA Structure
+### 1. RNA Model for Enzyme and Vaccine Design
 
-***RNA Structure Prediction.***  We develop structure prediction algorithm for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving its drug design.
+**_RNA Structure and Target Prediction_**  We develop structure and target prediction models and algorithms for RNA. The accurate prediction of RNA structure and its target will help us better understand its regulation and function, thus improving RNA-based enzyme and vaccince design. For instance, mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
 
-***RNA Structure Prediction:*** 我们开发针对 RNA 的结构预测算法，对 RNA 结构的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于药物的设计。
+**_RNA Structure and Target Prediction_** 我们开发针对 RNA结构及其靶标的预测模型和算法，对 RNA 结构及其靶标的准确预测，将帮助我们更好地理解 RNA 的调控和功能，并应用于基于 RNA酶和RNA疫苗的设计。例如，mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
 
-***RNA Vaccine Design:*** mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
-
-***RNA Vaccine Design:*** mRNA，以及环装RNA（circular RNA）等，可以用来做为RNA疫苗。在 RNA 疫苗设计中，RNA 结构、密码子和修饰的设计都是非常重要的研究方向。不论是 RNA干扰还是RNA疫苗，提高RNA 在存储和运输中的稳定性，递送到细胞和人体内的有效性和靶向性，都是非常重要和前沿的研究方向。
 
 <div align="middle">
   <img src="rna-structure-prediction.webp" style="zoom:20%;" />
@@ -134,11 +131,15 @@ We will study in two sub-directions, **Structure** and **Target**: RNA structure
   <small>Prediction of 2D and 3D structure of RNA. (Waring & Davies. ,1984, Gene;  Cate et al. ,1996, Science)</small>
 </div>
 
-### 2. RNA Target
+### 2. RNA Model for Drug Design
 
-***RNA Target & Drug Design.*** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. In addition, using noncoding RNA for disease treatment is also a promising research direction, for example, siRNA-based RNA interference (RNAi) system has aleady been used to develop new gene therapy methods. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information,  and subsequently to design drugs targeting RNAs. 
+**_siRNA Design_** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
 
-***RNA Target & Drug Design:***可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
+**_siRNA Design_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
+
+**_Small Molecule Drug Design Targeting RNA_** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. In addition, using noncoding RNA for disease treatment is also a promising research direction, for example, siRNA-based RNA interference (RNAi) system has aleady been used to develop new gene therapy methods. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information,  and subsequently to design drugs targeting RNAs. 
+
+**_Small Molecule Drug Design Targeting RNA_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
 <div align="middle">
   <img src="drug_rna.webp" style="zoom:30%;" />
