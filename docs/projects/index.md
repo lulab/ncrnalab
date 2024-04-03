@@ -33,7 +33,7 @@ description: Research @ Tsinghua
 
 ## I. Bioinfo-driven Precision Medicine {#med}
 
-By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases (e.g., cancer and immune-mediated diseases) based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of coding and **noncoding RNAs** (**ncRNAs**). For instance, we seqeunce and curate multi-omics data. Then, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. Finnaly, we apply these methods to precision medicine.  We focus on two types of diseases: **1) Immune-medicated diseases；2) Cancer **.
+By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases (e.g., cancer and immune-mediated diseases) based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of coding and **noncoding RNAs** (**ncRNAs**). For instance, we seqeunce and curate multi-omics data. Then, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. Finnaly, we apply these methods to precision medicine.  We focus on two types of diseases:  **1) Immune-medicated diseases；2) Cancer**.
 
 我们通过结合转录组和其他多组学数据，从一个系统性的多分子层面揭示复杂疾病的发生发展规律。我们探索新的高通量测序和生物信息学方法，研究和分析细胞内和细胞外的转录组 ，尤其是**非编码 RNA** (**ncRNA**)的转录组。例如，我们测序和收集体液多组学数据，基于这些多模态数据, 我们探索深度学习、迁移学习、相似网络融合等生物信息分析技术和方法，最终应用在精准医疗的具体实践上。我们研究的两个重点疾病类型是：**1）自身免疫疾病；2）癌症**。
 
@@ -111,6 +111,7 @@ The introduction of new methods and new thinking in different fields can often l
 
 
 Based on new AI technologies, we develop RNA models for RNA structure prediction, Ribozyme optimization and design, siRNA Design, RNA vaccine design, functional RNA target prediction, RNA-based drug design, etc.
+
 我们利用最新的人工智能技术开发各类核酸模型，进行RNA结构预测、核酶优化和设计、RNA疫苗设计、功能性 RNA 靶标预测、siRNA设计、靶标RNA的药物设计等研究。
 
 ### 1. RNA Structure Model for Enzyme and Vaccine Design
