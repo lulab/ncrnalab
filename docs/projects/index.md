@@ -4,11 +4,11 @@ title: Projects
 description: Research @ Tsinghua
 ---
 
-> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。非编码RNA是生物学中蛋白质基因不可或缺的补充，但对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
+> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
 >
 > 我们围绕非编码RNA发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。我们还同时开发单细胞总RNA测序技术，结合ATAC-seq等多组学技术，构建细胞内和细胞外编码和非编码基因的多组学图谱。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
 >
-> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet although noncoding RNAs are indispensable complement to protein genes in biology.
+> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet.
 >
 > We develop **bioinformatics** technology on noncoding RNAs from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics to explore new targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases** through cooperation with front-line doctors and experts.  We also develop single-cell total RNA sequencing technology, combined with  other omics  data like ATAC-seq, to construct a multi-omics map of coding and noncoding genes in cells and extra-cells. While studying its immune regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
 
