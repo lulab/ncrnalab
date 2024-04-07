@@ -4,19 +4,19 @@ title: Projects
 description: Research @ Tsinghua
 ---
 
-> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
+> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。非编码RNA是生物学中蛋白质基因不可或缺的补充，但对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
 >
-> 因此，我们围绕非编码RNA发展**生物信息学**技术，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在癌症、自身免疫疾病等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标，在研究其免疫调控机理的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
+> 我们围绕非编码RNA发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，通过和协和、清华长庚等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。我们还同时开发单细胞总RNA测序技术，结合ATAC-seq等多组学技术，构建细胞内和细胞外编码和非编码基因的多组学图谱。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
 >
-> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet. 
+> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet although noncoding RNAs are indispensable complement to protein genes in biology.
 >
-> Therefore, we develop **bioinformatics** technology around non-coding RNA and explore its specific practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics to explore new targets in the form of non-coding RNA in complex diseases such as cancer and autoimmune diseases through cooperation with front-line doctors and experts. While studying its immune regulation mechanism, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
+> We develop **bioinformatics** technology on noncoding RNAs from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics to explore new targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases** through cooperation with front-line doctors and experts.  We also develop single-cell total RNA sequencing technology, combined with  other omics  data like ATAC-seq, to construct a multi-omics map of coding and noncoding genes in cells and extra-cells. While studying its immune regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
 
 
 
 **我们围绕非编码 RNA（ncRNA）分两个主要的科研方向：1）生信驱动的精准医疗；2）AI驱动的核酸模型：** 
 
-**We have two major research directions centered on noncoding RNA (ncRNA), I. Bioinfo-driven Precision Medicine; II. AI-driven RNA Model :**
+**We have two major research directions centered on noncoding RNA (ncRNA), I. Bioinfo-driven Precision Medicine; II. AI-driven RNA Modeling :**
 
 * TOC
 {:toc}
@@ -33,9 +33,21 @@ description: Research @ Tsinghua
 
 ## I. Bioinfo-driven Precision Medicine {#med}
 
-By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases (e.g., cancer and immune-mediated diseases) based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of coding and **noncoding RNAs** (**ncRNAs**). For instance, we seqeunce and curate multi-omics data. Then, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. Finnaly, we apply these methods to precision medicine.  We focus on two types of diseases:  **1) Immune-medicated diseases；2) Cancer**.
+By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of **coding and noncoding RNAs (ncRNAs)**. For instance, we study the regulatory map of coding and noncoding genes in various immune cells of patients from the single-cell level and multi-molecular level. 
 
-我们通过结合转录组和其他多组学数据，从一个系统性的多分子层面揭示复杂疾病的发生发展规律。我们探索新的高通量测序和生物信息学方法，研究和分析细胞内和细胞外的转录组 ，尤其是**非编码 RNA** (**ncRNA**)的转录组。例如，我们测序和收集体液多组学数据，基于这些多模态数据, 我们探索深度学习、迁移学习、相似网络融合等生物信息分析技术和方法，最终应用在精准医疗的具体实践上。我们研究的两个重点疾病类型是：**1）自身免疫疾病；2）癌症**。
+Accurately selecting the best diagnosis and treatment plan is important but difficult for complex diseases. For instance, some targeted drugs have been approved for many complex diseases, but the which benefit groups of different drugs are not yet clear, requiring accurate biomarkers. Therefore, by combining the immune cell data m with cfDNA/cfRNA in plasma and clinical data, we develop a drug-efficacy prediction model to provide a multi-modal biomarker for a precise drug instruction in the treatment of complex diseases. Meanwhile, we explore deep learning, transfer learning, similarity network fusion and other bioinformatics analysis techniques for these data. 
+
+We apply the above methods to precision medicine, focusing on two types of diseases:  **1) Immune-medicated diseases；2) Cancer**.
+
+通过将转录组学数据与其他多组学数据整合，我们的目标是在综合、多维的水平上解释复杂疾病的发展。 我们开发测序和生物信息学方法来研究**编码和非编码 RNA (ncRNA)** 的细胞和细胞外转录组。 例如，我们从单细胞水平和多分子水平研究患者各种免疫细胞中编码和非编码基因的调控图谱。
+
+对于复杂疾病来说，准确选择最佳的诊疗方案很重要，但也很困难。 例如，一些靶向药物已被批准用于许多复杂疾病，但不同药物的受益人群尚不清楚，需要准确的生物标志物。 因此，通过将免疫细胞数据与血浆中的cfDNA/cfRNA数据以及临床数据相结合，我们开发药效预测模型，为治疗复杂疾病的精确药物指导提供多模态标志物模型。同时，我们针对这些数据探索深度学习、迁移学习、相似性网络融合，以及其他生物信息学分析技术。
+
+我们将上述方法应用于精准医疗，重点关注两类疾病：**1）自身免疫疾病；2）癌症**。
+
+
+
+
 
 <div align="middle">
 <img src="research.webp" style="zoom:60%;" />
@@ -103,7 +115,7 @@ By integrating transcriptomics data with other multiomics data, we aim to explai
 
 
 
-## II. AI-driven RNA Model {#AI}
+## II. AI-driven RNA Modeling {#AI}
 
 The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as AI technology and large language model) into biological data. We develop novel RNA models to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, these novel models will bring us the new era of enzyme and drug design.
 
@@ -151,27 +163,21 @@ Based on new AI technologies, we develop RNA models for RNA structure prediction
 
 ## Funded Projects
 
-* **Funding:**
+* 国家自然科学基金 面上项目，8237061277，自身免疫性疾病精准诊疗中基于非编码RNA组学和生物信息学的新方法研究，2024-2027  主持
+* 国家自然科学基金 专项项目，82341101，基于AI技术的靶向RNA的药物设计，2024-2026  主持
+* 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025     主持
+* 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022-2025 共同主持
+* 清华大学国强研究院 人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022-2024   主持
+* 合肥综合性国家科学中心大健康研究院“全球遴选”项目，LX202401，cfRNA为核心的多组学在肺癌筛查上的应用研究，2024-2027 主持
+* Bayer科研转化基金，AI driven drug design targeting RNAs, 2023-2024  主持
 
-  * 2024-2027     Bioinformatics study of noncoding RNA omics in precision diagnosis and treatment of autoimmune diseases, PI, National Natural Science Foundation of China
-  * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
-  * 2020-2023     Novel extracellular RNA biomarkers for cancer diagnosis and prognosis, PI, National Natural Science Foundation of China
-  * 2021-2023     Development of bioinformatics technology for body fluid multi-omics data in cancer PI, National Center for Protein Sciences (Beijing)
-  * 2023-2024     AI-driven drug design targeting RNA, PI, Bayer Micro-funding
-  * 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
-  * 2022-2024     AI model informed by biological network for early cancer diagnosis, PI, Tsinghua Guoqiang AI Institute
-  * 2021-2023     Development of nucleic acid detection technology for microbial infection, PI, Tsinghua Chunfeng Foundation
   
-    
 
-
-* **代表性在研项目:**
-  * 国家自然科学基金 面上项目，8237061277，自身免疫性疾病精准诊疗中基于非编码RNA组学和生物信息学的新方法研究，2024-2027  主持
-  * 国家自然科学基金 面上项目，3217040246，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025     主持
-  * 国家自然科学基金 面上项目，81972798，针对癌症诊断和预后的新型体液exRNA标志物的研究， 2020-2023      主持
-  * 国家“凤凰工程”  技术创新开放共享课题，2021-NCPSB-005，多组学整合的生物信息学研究，   2021/07-2023/06   主持
-  * Bayer科研转化基金，AI driven drug design targeting RNAs, 2023-2024  主持
-  * 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022/08-2025/07 共同主持
-  * 清华大学国强研究院 人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022/04-2024/03   主持
-  * 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09   主持
+> * 2024-2027     Bioinformatics study of noncoding RNA omics in precision diagnosis and treatment of autoimmune diseases, PI, National Natural Science Foundation of China
+> * 2024-2026     AI-driven drug design targeting RNAs, PI, National Natural Science Foundation of China
+> * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
+> * 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
+> * 2022-2024     AI model informed by biological network for early cancer diagnosis, PI, Tsinghua Guoqiang AI Institute
+> * 2024-2027     cfRNA-based multi-omics application research in lung cancer screening, PI,  Hefei Comprehensive National Science Center General Health Research Institute "Global Selection" Project 
+> * 2023-2024     AI-driven drug design targeting RNA, PI, Bayer Micro-funding
 
