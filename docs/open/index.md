@@ -184,7 +184,7 @@ description: Collaborate with us !
 ## 技术成果相关报道
 
 
-2023.11. |[Cell子刊 | 鲁志/王鹏远/卢倩团队合作发表消化道癌症cfDNA+cfRNA多组学研究新成果](https://mp.weixin.qq.com/s/gJjIjBX-cSFR1-aWToKZ4g)
+2023.11. | [Cell子刊 - 鲁志/王鹏远/卢倩团队合作发表消化道癌症cfDNA+cfRNA多组学研究新成果](https://mp.weixin.qq.com/s/gJjIjBX-cSFR1-aWToKZ4g)
 2022.07. | [王鹏远/鲁志/徐振江团队合作发表泛癌早诊研究新成果](https://mp.weixin.qq.com/s/sbM2M_uZhuUXttdumdBCJQ)
 2020.11. | [清华大学鲁志、海军军医大学殷建华和国家肝癌科学中心陈磊课题组揭示针对肝癌AFP阴性诊断和早期诊断的血液非编码RNA标志物](https://www.seqchina.cn/13047.html)
 2019.12. | [“披着羊皮的狼”——癌症转移的新面纱 - 清华大学王栋、鲁志Cell Res发文揭示肿瘤转移新模型](https://www.seqchina.cn/11102.html)
