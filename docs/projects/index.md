@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Projects in Lu Lab
 description: Research @ Tsinghua
 ---
 
