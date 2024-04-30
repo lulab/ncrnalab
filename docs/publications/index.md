@@ -14,9 +14,15 @@ title: Publications
 
 ## 2024
 
+* Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
+
+
 * Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2024) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https://doi.org/10.1093/nar/gkad777) 
+
 
 * Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) **OligoFormer: an accurate and robust prediction method for siRNA design** bioRxiv 10.1101/2024.02.02.578533
 
@@ -37,10 +43,6 @@ title: Publications
 * Chun Ning<sup>1</sup>, Peng Cai<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Guangtao Li<sup>1</sup>, Pengfei Bao, Lu Yan, Meng Ning, Kaichen Tang, Yi Luo, Hua Guo, Lu Chen\*, **Zhi John Lu** \*, Jianhua Yin\* (2023) **A Comprehensive Evaluation of Full-spectrum Cell-free RNAs highlights cell-free RNA fragments for Early-Stage Hepatocellular Carcinoma Detection** *eBioMedicine* 93:104645 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
    [View Detail](https://pubmed.ncbi.nlm.nih.gov/37315449/)   
-
-* Xiaofan Liu, Yuhuan Tao, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2023) **Pathformer: a biological pathway informed Transformer integrating multi-omics data for disease diagnosis and prognosis** bioRxiv 10.1101/2023.05.23.541554  (\*co-corresponding authors) 
-
-    [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
 
 * Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\* (2023) **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** BIORXIV/2023/560326  (\*co-corresponding authors) 
 
