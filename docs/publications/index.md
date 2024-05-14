@@ -14,9 +14,9 @@ title: Publications
 
 ## 2024
 
-* Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* btae316 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
-    [Preprint](https://biorxiv.org/cgi/content/short/2023.05.23.541554) 
+    [View Detail](https://doi.org/10.1093/bioinformatics/btae316) 
 
 
 * Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2024) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
