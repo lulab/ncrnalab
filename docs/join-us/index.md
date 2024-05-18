@@ -77,4 +77,4 @@ Email主题请标注“**应聘计算分析博士后**”或者“**应聘湿实
 
 ## 产业化方向人才招募
 
-* [深翌科技](http://www.xingene.com)
+* [新维度科技](http://www.xingene.com)
