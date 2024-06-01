@@ -1,4 +1,5 @@
 .DS_Store
 _site/
 _config.yml
+docs/_config.yml
 
