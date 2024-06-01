@@ -10,10 +10,15 @@ Here, we develop bioinformatic software about biological system, and applying th
 
 **Table of Contents:**
 
+* [RNAmed](#RNAmed)
+
 * [01 RNAfinder](#01)
+
 * [02 RNAtarget](#02)
+
 * [03 RNAstructurome](#03)
-* [04 RNAmed](#04)
+
+  
 
 > [Lu Lab's **Github**](https://github.com/lulab)
 > 
@@ -21,6 +26,43 @@ Here, we develop bioinformatic software about biological system, and applying th
 
 
 ---
+
+
+## RNAmed
+
+**RNAdrug** (*coming soon*)
+
+AI platform to design drug targetting RNA.
+
+**OligoFormer** 
+>  Yilan Bai, Haochen Zhong, et al. *preprint* (2024)
+
+Github: https://github.com/lulab/oligoformer
+
+An accurate and robust prediction method for siRNA design 
+
+**PathFormer** 
+
+>  Xiaofan Liu, Yuhuan Tao, et al. *Bioinforamtics* (2024)
+
+Github: https://github.com/lulab/Pathformer
+
+A Transformer model integrating multiomics data for disease diagnoisis and prognosis.
+
+**cfOmics Database** 
+
+>  Mingyang Li, Tianxiu Zhou, Mingfei Han, et al. *Nucleic Acids Research* (2024)
+
+Github: https://cfOmics.ncRNAlab.org
+
+Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other diseases.
+
+**CCG Database** (*deprecated*)
+
+> Mengrong Liu, Yu-Cheng T. Yang, et al. *Discovery Medicine* (2016)
+
+CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and noncoding genes associated with cancer. In addition, drug-gene information in CCG provides a useful guide to the development of new anti-cancer drugs.
+
 
 # 01
 ## RNAfinder
@@ -98,23 +140,3 @@ Github: https://github.com/lulab/RME
 
 RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
 
-# 04
-## RNAmed
-
-**RNAdrug** (*coming soon*)
-
-AI platform to design drug targetting RNA.
-
-**exOmics** (*coming soon*)
-
-Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other diseases.
-
-**Multi-transformer** (*coming soon*)
-
-Transformer model integrating multimodal data.
-
-**CCG Database** (*deprecated*)
-
-> Mengrong Liu, Yu-Cheng T. Yang, et al. Discovery Medicine (2016)
-
-CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and noncoding genes associated with cancer. In addition, drug-gene information in CCG provides a useful guide to the development of new anti-cancer drugs.
