@@ -53,7 +53,7 @@ A Transformer model integrating multiomics data for disease diagnoisis and progn
 
 >  Mingyang Li, Tianxiu Zhou, Mingfei Han, et al. *Nucleic Acids Research* (2024)
 
-Github: [https://cfOmics.ncRNAlab.org](https://cfOmics.ncRNAlab.org)
+Website: [https://cfOmics.ncRNAlab.org](https://cfOmics.ncRNAlab.org)
 
 Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other diseases.
 
