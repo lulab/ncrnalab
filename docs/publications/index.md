@@ -14,7 +14,7 @@ title: Publications
 
 ## 2024
 
-* Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* btae316 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* 40(5), btae316 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https://doi.org/10.1093/bioinformatics/btae316) 
 

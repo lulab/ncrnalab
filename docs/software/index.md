@@ -6,7 +6,6 @@ title: Software
 We are interested in developing bioinformatics technologies and practicing evidence-based medicine.
 Here, we develop bioinformatic software about biological system, and applying them to RNA biology and Precision Medicine.
 
-![](rnafinder.webp)
 
 **Table of Contents:**
 
@@ -91,6 +90,9 @@ Github: [https://github.com/lulab/RNAfinder](https://github.com/lulab/RNAfinder)
 > Long Hu, et al. Nucleic Acids Research (2015)
 
 RNAfeature provides a common set of conserved features for ncRNAs across multiple species. The models in RNAfeature were trained on canonical ncRNAs (e.g.,tRNAs,rRNAs, miRNAs, snRNAs, snoRNAs, 7SK RNAs, Y RNAs).
+
+![](rnafinder.webp)
+
 
 # 02
 
