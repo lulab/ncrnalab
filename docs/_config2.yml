@@ -1,0 +1,16 @@
+markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
+
+theme: jekyll-theme-cayman
+
+##################
+# ---- parameters for deploy prodcution
+####must  run this option: JEKYLL_ENV=production bundle exec jekyll build --config _config2.yml 
+##################
+repository: lulab/ncrnalab
+baseurl: "/labhome" # the subpath of your site, e.g. /blog
+url: "http://lulab.life.tsinghua.edu.cn"
+#url: "http://166.111.156.11"
+
