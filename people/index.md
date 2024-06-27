@@ -11,12 +11,15 @@ Teachers help students **discover their interests, passions, and ultimately them
 
 
 <div align="middle">
-<img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2023.webp" >
-  <br>2023<br>
+<img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2024.webp" >
+  <br>2024<br>
   <br>
 “<big>少年应有鸿鹄志，当骑骏马踏平川</big>” 
 
 <br><br><br>
+<img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2023.webp" >
+  <br>2023<br>
+  <br>
 <img align="left" style="width:50%;  border: 10px solid #E0E0E0;" src="2022.webp" >
 <br>2021<br>
 <img align="right" style="width:50%; border: 10px solid #E0E0E0;" src="2021.webp" >
