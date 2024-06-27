@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects in Lu Lab
-description: Research @ Tsinghua
+title: 清华大学・鲁志实验室 科研课题 
+description: Projects @ Lu Lab
 ---
 
 > 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们还知之甚少。
