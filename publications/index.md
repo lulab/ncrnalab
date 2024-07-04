@@ -14,10 +14,16 @@ title: Publications
 
 ## 2024
 
+
+
+
+* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine*  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526408) 
+    
 * Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* 40(5), btae316 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](https://doi.org/10.1093/bioinformatics/btae316) 
-
 
 * Mingyang Li<sup>1</sup>, Tianxiu Zhou<sup>1</sup>, Mingfei Han<sup>1</sup>, Hongke Wang, Pengfei Bao, Yuhuan Tao, Xiaoqing Chen, Guansheng Wu, Tianyou Liu, Xiaojuan Wang, Qian Lu\*, Yunping Zhu\*, **Zhi John Lu**\* (2024) **cfOmics: a cell-free multi-Omics database for diseases.**  *Nucleic Acids Research* 52(D1):D607-D621 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
@@ -31,7 +37,6 @@ title: Publications
 * Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*, **Zhi John Lu**\*  (2024)  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors) 
 
     [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
-
 
 
 
@@ -56,12 +61,8 @@ title: Publications
 
     [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
 
-* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Hongjie Guo<sup>1</sup>, Jiuliang Zhao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2023) **Depletion-assisted multiplexing cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicle** bioRxiv 10.1101/2023.01.31.526408  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
-
-    [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526408) 
 
 > —————————————————66————————————————————
-
 
 ## 2022
 
