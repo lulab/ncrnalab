@@ -28,6 +28,14 @@ title: Publications
 
     [Preprint](https://www.biorxiv.org/content/10.1101/2024.02.02.578533) 
 
+* Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*, **Zhi John Lu**\*  (2024)  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors) 
+
+    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
+
+
+
+
+
 ## 2023
 
 * Yuhuan Tao<sup>1</sup>, Shaozhen Xing<sup>1</sup>, Shuai Zuo<sup>1</sup>, Pengfei Bao, Yunfan Jin, Yu Li, Yingchao Wu, Shanwen Chen, Xiaojuan Wang, Yumin Zhu, Ying Feng, Xiaohua Zhang, Xianbo Wang, Qiaoran Xi, Qian Lu\*, Pengyuan Wang\*, **Zhi John Lu**\*  (2023) **Cell-free multi-omics analysis reveals potential biomarkers in gastrointestinal cancer patients’ blood.** *Cell Reports Medicine* 4(11):101281 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
