@@ -12,14 +12,23 @@ title: Publications
 
 ---
 
+> **Preprint:**
+>
+> * Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*, **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
+> * Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu**.  **OligoFormer: an accurate and robust prediction method for siRNA design** bioRxiv 10.1101/2024.02.02.578533     [Preprint](https://www.biorxiv.org/content/10.1101/2024.02.02.578533) 
+> * Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\*.  **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** bioRxiv 10.1101/2023.10.02.560326  (\*co-corresponding authors)    [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
+
+
+
 ## 2024
 
-
-
-
-* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine*  (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine* (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526408) 
+    
+* Genpeng Li<sup>1</sup> , Wang Hongke<sup>1</sup> , Jinjing Zhong , Yilan Bai , Chen Wenjie , Ke Jiang , Jing Huang , Yuting Shao , Jiaye Liu , Gong Yanping, Zhang Junhui , Sun Ronghao , Tao Wei , Rixiang Gong , Zhu Jingqiang , **Zhi Lu** , Zhihui Li , Jianyong Lei (2024)  **Circulating small extracellular vesicle-based miRNA classifier for follicular thyroid carcinoma: a diagnostic study** *BRITISH JOURNAL OF CANCER* 130(6):925-933 (<sup>1</sup>contributed equally) 
+
+    [View Detail](https://pubmed.ncbi.nlm.nih.gov/38238428/) 
     
 * Xiaofan Liu<sup>1</sup>, Yuhuan Tao<sup>1</sup>, Zilin Cai, Pengfei Bao, Hongli Ma, Kexing Li, Mengtao Li\*, Yunping Zhu\*, **Zhi John Lu**\*  (2024) **Pathformer: a biological pathway informed Transformer for disease diagnosis and prognosis using multi-omics data** *Bioinformatics* 40(5), btae316 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
@@ -30,16 +39,8 @@ title: Publications
     [View Detail](https://doi.org/10.1093/nar/gkad777) 
 
 
-* Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) **OligoFormer: an accurate and robust prediction method for siRNA design** bioRxiv 10.1101/2024.02.02.578533
 
-    [Preprint](https://www.biorxiv.org/content/10.1101/2024.02.02.578533) 
-
-* Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*, **Zhi John Lu**\*  (2024)  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors) 
-
-    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
-
-
-
+> —————————————————69————————————————————
 
 ## 2023
 
@@ -57,12 +58,9 @@ title: Publications
 
    [View Detail](https://pubmed.ncbi.nlm.nih.gov/37315449/)   
 
-* Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\* (2023) **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** BIORXIV/2023/560326  (\*co-corresponding authors) 
-
-    [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
-
 
 > —————————————————66————————————————————
+
 
 ## 2022
 
@@ -90,8 +88,7 @@ title: Publications
 
 > —————————————————61————————————————————
 
-
-## 2017 - 2021
+## 2017 - 2021 (Tenured - Phase I)
 
 **2021**
 
@@ -215,8 +212,7 @@ title: Publications
 
 > —————————————————36————————————————————
 
-
-## 2012 - 2016
+## 2012 - 2016 (Tenure Track)
 
 **2016**
 
