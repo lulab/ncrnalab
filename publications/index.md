@@ -22,9 +22,9 @@ title: Publications
 
 ## 2024
 
-* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine* (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine* 14:e1760 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
-    [Preprint](https://biorxiv.org/cgi/content/short/2023.01.31.526408) 
+    [View Detail](http://dx.doi.org/10.1002/ctm2.1760) 
     
 * Genpeng Li<sup>1</sup> , Wang Hongke<sup>1</sup> , Jinjing Zhong , Yilan Bai , Chen Wenjie , Ke Jiang , Jing Huang , Yuting Shao , Jiaye Liu , Gong Yanping, Zhang Junhui , Sun Ronghao , Tao Wei , Rixiang Gong , Zhu Jingqiang , **Zhi Lu** , Zhihui Li , Jianyong Lei (2024)  **Circulating small extracellular vesicle-based miRNA classifier for follicular thyroid carcinoma: a diagnostic study** *BRITISH JOURNAL OF CANCER* 130(6):925-933 (<sup>1</sup>contributed equally) 
 
