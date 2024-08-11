@@ -145,7 +145,7 @@ PTN学生上课要求
 - 对象：本科生 容量30-50人
 - 主要教材：《[Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/tutorial)》
 - 教学大纲: [Syllabus](https://book.ncrnalab.org/teaching/courses/syllabus)
-- 教学日历: [Calendar](http://courses.ncRNAlab.org/bioinfo2-cal)
+- 教学日历: [Calendar](http://courses.ncRNAlab.org/bioinfo1-cal)
 
 **【Teaching Philosophy】**
 
