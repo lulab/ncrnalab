@@ -28,7 +28,7 @@ description: Teaching @ Tsinghua
 - 学分：2
 - 主讲老师：鲁志    
 - 对象：博士生 容量\~30人; 本科生 容量\~10人
-- 主要教材：《[Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/tutorial)》
+- 主要教材：《[Bioinformatics Tutorial](https://book.ncrnalab.org)》
 - 教学大纲: [Syllabus](https://book.ncrnalab.org/teaching/courses/syllabus)
 - 教学日历: [Calendar](http://courses.ncRNAlab.org/bioinfo2-cal)
 
@@ -143,7 +143,7 @@ PTN学生上课要求
 - 学分：2
 - 主讲老师：鲁志            
 - 对象：本科生 容量30-50人
-- 主要教材：《[Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/tutorial)》
+- 主要教材：《[Bioinformatics Tutorial](https://book.ncrnalab.org)》
 - 教学大纲: [Syllabus](https://book.ncrnalab.org/teaching/courses/syllabus)
 - 教学日历: [Calendar](http://courses.ncRNAlab.org/bioinfo1-cal)
 
