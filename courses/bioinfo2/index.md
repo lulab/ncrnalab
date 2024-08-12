@@ -4,7 +4,7 @@ title: Bioinformatics in Action
 description: 【生物信息学实践】
 ---
 
-# 【生物信息学实践】秋季学期 课程介绍
+# 【生物信息学实践】- 秋季学期课程
 
 ## 【课程信息】
 

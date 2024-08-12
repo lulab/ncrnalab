@@ -4,7 +4,7 @@ title: Bioinformatics
 description:  【生物信息学】
 ---
 
-# Introduction 【生物信息学】春季学期 课程介绍
+# 【生物信息学】- 春季学期课程
 
 
 
