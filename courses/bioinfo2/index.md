@@ -1,40 +1,40 @@
 ---
 layout: course
-title: Course - Bioinformatics in Action
+title: Bioinformatics in Action
 description: 【生物信息学实践】
----
-
-**Table of Contents:**
-
-* TOC
-{:toc}
-
 ---
 
 # 【生物信息学实践】秋季学期 课程介绍
 
-> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
-
 ## 【课程信息】
 
-* 时间：秋季学期
+* **上课时间**：秋季学期 周五第四大节（15：20-16：55）
+* **上课地点**：清华大学 生物技术馆二层2-201
+* **教学日历**：[Calendar](cal.md)
+* **教学大纲**：[Syllabus](../bioinfo-syllabus.md)
+* **教材**：
+  * 实践教程：[Bioinformatics Tutorial](https://book.ncrnalab.org)
+  * 相关书籍和文章电子版：[Books & Education Papers](https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FBooks and Education Papers&mode=list) 
+
 * 学时：32
 * 学分：2
 * 主讲老师：鲁志
 * 对象：博士生 容量\~30人; 本科生 容量\~10人
 
-* 教学日历：[Calendar](cal.md)
-* 教学大纲：[Syllabus](syllabus.md)
-* 实践教材：[Bioinformatics Tutorial](https://book.ncrnalab.org)
+> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
+
+
 
 
 ##  【教学理念】
 
 **Teaching Philosophy**
 
-“Study and Practice” 格物致知 | 知行合一
+“Study and Practice”  格物致知 \| 知行合一
 
 > We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
+
+
 
 
 ## 【课程简介】
@@ -49,10 +49,10 @@ description: 【生物信息学实践】
 
 
 
-## 【预修课程准备】
+## 【预修课程】
 
 1. 基本生物课程： 如《普通生物学》
-2. 基本统计课程： 如《概率论》和/或《生物统计》
+2. 基本统计课程： 如《概率论》或《生物统计》
 3. 基本数学课程： 如《线性代数》
-4. 基本计算机技能：如 Linux基础 + C或Python语言
+4. 基本计算机技能：如 Linux基础；  Python or C
 
