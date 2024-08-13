@@ -4,7 +4,16 @@ title: Courses
 description: Teaching @ Tsinghua
 ---
 
-**Table of Contents:**
+**<big>Major Courses 主讲课程:</big>**
+
+- 春季学期：[Bioinformatics《生物信息学》](bioinfo1/) 
+  - 对象：本科生 容量30-50人 	
+- 秋季学期：[Bioinformatics in Action《生物信息学实践》](bioinfo2/)
+  - 对象：博士生 容量\~30人; 本科生 容量\~10人 	
+
+
+
+**<big>Other Courses 其他课程:</big>**
 
 * TOC
 {:toc}
@@ -15,30 +24,7 @@ description: Teaching @ Tsinghua
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo2}
-
-> 本课程也设有少量的本科生容量，同时也和春季学期的本科生课《生物信息学》的很多内容相同，本学期没有选上的本科同学也可以下学期选修这门本科生课。
-
----
-
-主讲课程
-
-- 时间：秋季学期
-- 学时：32
-- 学分：2
-- 主讲老师：鲁志    
-- 对象：博士生 容量\~30人; 本科生 容量\~10人
-- 课程主页：**[Course - Bioinfomatics in Action](bioinfo2/)**
-
-
-
-**【课程简介】**
-
-该课程的教学目的是为了让学生对生物信息的基础知识有所了解和掌握，同时让学生能够掌握实用的生物信息学实用技能和编程技术。课程设计是让学生逐步学习生物信息基础知识和练习基础计算机技能，能够对常用的生物信息学技术有所掌握。课程将让学生从了解和练习基本的Linux操作开始，通过生物信息必备的计算语言（如Bash, R等）的编程训练，掌握生物信息学在新一代高通量测序数据上的基本分析方法。
-
-该课程除了理论教学，加强补充了实践练习的训练环节，更强调学生对生物信息学实际应用的实践学习和上机练习，在往年基础上加大了课程的挑战性和实用性。
-
-#### II. Introduction to Genomics - PTN 《基因组学导论-PTN》 {#genomics}
+#### Introduction to Genomics - PTN 《基因组学导论-PTN》 {#genomics}
 
 ---
 
@@ -66,7 +52,7 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### I. Frontier of Life Sciences 《生命科学前沿》
+#### Frontier of Life Sciences 《生命科学前沿》
 
 ---
 
@@ -86,7 +72,7 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 
+#### Bioinformatics and Systems Biology《生物信息学和系统生物学》 
 
 ---
 
@@ -98,7 +84,7 @@ PTN学生上课要求
 - 主讲老师：杨雪瑞 \| 合讲老师：鲁志  等
 - 对象：清华博士生
 
-#### II. RNA Biology《RNA生物学》 {#RNA}
+#### RNA Biology《RNA生物学》 {#RNA}
 
 ---
 
@@ -113,30 +99,8 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### I. Bioinformatics《生物信息学》 {#bioinfo}
 
-> 本课程课堂容量有限，但和秋季学期的研究生课《生物信息学实践》的很多内容相同，此研究生课也设有一定的本科生容量，本学期没有选上的同学可以下学期选修这门研究生课。
-
----
-
-主讲课程
-
-- 时间：春季学期
-- 学时：32
-- 学分：2
-- 主讲老师：鲁志
-- 对象：本科生 容量30-50人
-- 课程主页：**[Course - Bioinfomatics](bioinfo1/)**
-
-
-
-**【课程简介】**
-
-该课程的教学目的是为了让学生对生物信息的基础知识有所了解和掌握，同时让学生能够掌握实用的生物信息学实用技能和编程技术。课程设计是让学生逐步学习生物信息基础知识和练习基础计算机技能，能够对基本的生物信息学技术有所掌握。课程将让学生从了解和练习基本的Linux操作开始，通过生物信息必备的计算语言（如Bash, R等）的编程训练，掌握生物信息学在新一代高通量测序数据上的基本分析方法。
-
-
-
-#### II. Biophysics 《生物物理学》 {#biophysics}
+#### Biophysics 《生物物理学》 {#biophysics}
 
 ---
 
