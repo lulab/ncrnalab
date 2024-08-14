@@ -14,7 +14,7 @@ description:  【生物信息学】
 
 * **上课时间**：春季学期 周五第四大节（15：20-16：55）
 * **上课地点**：清华大学 法律图书馆B105
-* **教学大纲**：[Syllabus](https://docs.qq.com/doc/DWWVDblBHWFJBSlVZ)
+* **教学大纲**：[Syllabus](https://courses.ncRNAlab.org/bioinfo1-syllabus)
 * **实践教程**：[Bioinformatics Tutorial](https://book.ncrnalab.org)
   
 * 学时：32
