@@ -10,8 +10,10 @@ description: Teaching @ Tsinghua
   - 对象：本科生 容量30-50人 	
 - 秋季学期：[Bioinformatics in Action《生物信息学实践》](bioinfo2/)
   - 对象：博士生 容量\~30人; 本科生 容量\~10人 	
+- coming in 2025：[AI Models for Biomedicine《生物医学中的AI模型》](ai/)
+  - 对象：博士生 容量5-10人; 本科生 容量5-10人 
 
-
+  
 
 **<big>Other Courses 其他课程:</big>**
 
