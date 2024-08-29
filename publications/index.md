@@ -22,6 +22,11 @@ title: Publications
 
 ## 2024
 
+* 刘晓帆, 鲁志. **复杂疾病中多组学多模态数据的生物信息学研究进展**. *科学通报*, 2024, 69: 1–15
+     Liu X F, Lu Z. **Progress of bioinformatics studies for multi-omics and multi-modal data in complex diseases** (in Chinese). *Chinese Science Bulletin*, 2024, 69: 1–15, doi: 10.1360/TB-2024-0416
+     
+    [View Detail](https://doi.org/10.1360/TB-2024-0416) 
+    
 * Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine* 14:e1760 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](http://dx.doi.org/10.1002/ctm2.1760) 
