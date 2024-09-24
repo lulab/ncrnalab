@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://cloud.tsinghua.edu.cn/d/97e8ead7974a461499d3/?p=%2F&mode=grid"
+redirect_to: "https://cloud.tsinghua.edu.cn/d/361e7712a3634dbcbcee/?p=%2F&mode=grid"
 ---
