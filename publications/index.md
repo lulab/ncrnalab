@@ -14,19 +14,18 @@ title: Publications
 
 > **Preprint:**
 >
-> * Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*, **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
-> * Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu**.  **OligoFormer: an accurate and robust prediction method for siRNA design** bioRxiv 10.1101/2024.02.02.578533     [Preprint](https://www.biorxiv.org/content/10.1101/2024.02.02.578533) 
+> * Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*and **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
+> 
 > * Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\*.  **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** bioRxiv 10.1101/2023.10.02.560326  (\*co-corresponding authors)    [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
 
 
 
 ## 2024
 
-* 刘晓帆, 鲁志. **复杂疾病中多组学多模态数据的生物信息学研究进展**. *科学通报*, 2024, 69: 1–15
-     Liu X F, Lu Z. **Progress of bioinformatics studies for multi-omics and multi-modal data in complex diseases** (in Chinese). *Chinese Science Bulletin*, 2024, 69: 1–15, doi: 10.1360/TB-2024-0416
-     
-    [View Detail](https://doi.org/10.1360/TB-2024-0416) 
-    
+* Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) **OligoFormer: An accurate and robust prediction method for siRNA design.** *Bioinformatics* btae577
+
+    [View Detail](https://doi.org/10.1093/bioinformatics/btae577) 
+
 * Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) **Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles** *Clinical and Translational Medicine* 14:e1760 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
     [View Detail](http://dx.doi.org/10.1002/ctm2.1760) 
@@ -43,6 +42,10 @@ title: Publications
 
     [View Detail](https://doi.org/10.1093/nar/gkad777) 
 
+* 刘晓帆, 鲁志. **复杂疾病中多组学多模态数据的生物信息学研究进展**. *科学通报*, 2024, 69: 1–15
+     Xiaofan Liu and  **Zhi Lu** (2024) **Progress of bioinformatics studies for multi-omics and multi-modal data in complex diseases** (in Chinese). *Chinese Science Bulletin*, 69: 1–15, doi: 10.1360/TB-2024-0416
+     
+    [View Detail](https://doi.org/10.1360/TB-2024-0416) 
 
 
 > —————————————————69————————————————————
