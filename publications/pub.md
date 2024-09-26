@@ -50,6 +50,7 @@ title:  Representative Publications
 
 ### II. 3 Small molecule targeting RNA
 
+- Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*and **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
 - Kequan Lin1, Lu Li1, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu\*** and Dong Wang* (2019) A comprehensive evaluation of connectivity methods for L1000 data. **Briefings in Bioinformatics** bbz129 (1contributed equally) (IF: 11.62)
 - Tan X, Hu L<sup>2</sup>, Luquette LJ, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**<sup>2</sup>, Park PJ & Elledge SJ. (2012) Systematic Identification of Synergistic Drug Pairs Targeting HIV. **Nature Biotech.** 30:1125-1130 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 54.36)
 

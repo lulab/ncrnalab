@@ -232,9 +232,9 @@ description: Collaborate with us !
 
 我们和该项目相关的前期科研基础有： 
 * **1）RNA二级结构预测算法** (Nucleic Acids Res. 2006<sup>1</sup>，RNA 2009<sup>1</sup>, Nucleic Acids Res. 2015\*，2016\* ）；
-* **2）RNA-oligo/siRNA预测** (OligoWalk: Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>; OligoFormer: preprint 2024）**和shRNA 设计** (PNAS 2012)；
+* **2）RNA-oligo/siRNA预测** (OligoWalk: Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>; OligoFormer: *Bioinformatics*  2024b）**和shRNA 设计** (PNAS 2012)；
 * **3）RNA-蛋白结合预测** (Nuc. Acids. Res. 2017\*, 2019\*<sup>+</sup>, 2022\*；Genome Biology 2017\*; Cell 2019 )；
-* **4）靶标病毒的小分子药物筛选**（Nature Biotech. 2012）**和小分子表型筛选计算方法**（Brief. in Bioinformatics 2019\*<sup>+</sup>)（<sup>1</sup>第一作者，\*最后通讯，\*<sup>+</sup>：共同通讯）。
+* **4）靶标病毒的小分子药物筛选**（Nature Biotech. 2012），**小分子表型筛选计算方法**（Brief. in Bioinformatics 2019\*<sup>+</sup>)，**靶标RNA的小分子药物AI设计**（preprint 2024)（<sup>1</sup>第一作者，\*最后通讯，\*<sup>+</sup>：共同通讯）。
 
 
 
@@ -252,8 +252,8 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 1. 基于机器学习的生物信息方法 **RNAfinder**（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
 2. RNA-protein 结合及调控**数据库** **POSTAR**（**软件著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b; 2019; 2022)
-3. 多组学 AI整合方法 **PathFormer** (**软件注册权号：2023SR0985659**) (*Bioinformatics* 2024)
-4. siRNA AI 设计软件 **OligoFormer** (**软件注册权号：2024SR0808920**) (preprint 2024)
+3. 多组学 AI整合方法 **PathFormer** (**软件注册权号：2023SR0985659**) (*Bioinformatics* 2024a)
+4. siRNA AI 设计软件 **OligoFormer** (**软件注册权号：2024SR0808920**) (*Bioinformatics* 2024b)
 
 <br/><br/><br/><br/><br/>
 
