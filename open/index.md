@@ -58,7 +58,7 @@ description: Collaborate with us !
 
 ## 基本信息
 
-- **合作课题：针对癌症等复杂疾病的cfRNA检测技术** 
+- **合作课题：针对癌症等复杂疾病的AI驱动的cfRNA检测技术** 
 - **招募机构：**
   - **1. 医院、临检机构等**
   - **2. 基因检测公司等**
@@ -82,7 +82,7 @@ description: Collaborate with us !
 
 本项目将基于基因组学和生物信息学，通过开发体液RNA微量测序技术和机器学习方法，在体液中发现和鉴定与癌症发生发展相关的新型exRNA标志物，应用于国内高致死癌症的早期诊断和预后辅助治疗。exRNA指的是胞外RNA，又称cfRNA，包括多种类型：miRNA,Y RNA,circRNA,lncRNA等。RNA标志物与DNA和蛋白标志物相比，具有更好的敏感性、组织特异性和多样性，为更好的临床检验带来了新的期望。我们在新型非编码RNA和生物信息学研究方面积累了丰富经验，基于此，我们将在癌症病人体液（如血液）中发现和分析标志癌症发生发展的新型exRNA/cfRNA，并整合现有标志物构建多重标志物的智能模型，在大样本上进行验证，建立具有更高精准度和可重复性的无创检验方法。
 
-我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2015年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利号:2018110094643；专利号：202010927225.7) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2021*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*；*Nucleic Acids Res.* 2022)，为癌症无创检测试剂的开发提供了有力的支持。
+我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了近20年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（*Science 2010; Nature 2012; Nature 2014; Genome Biology 2017; Cell 2019; Cell Research 2020; PNAS 2020*), 其中有不少具有很好的标志物特性。从2015年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利号：201810607652X）、DETECTOR-seq (专利申请号：202210579444.X) (*elife* 2022, *Cell Rep. Med.* 2023, *Clinic. & Tranl. Med.* 2024)，以及基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(*Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a*)，发现了一些新的exRNA标志物（专利号:2018110094643；专利号：202010927225.7) (*Nature Communications 2017; Clinical Chemistry 2019; Theranositics 2021*)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(*Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019*；*Nucleic Acids Res.* 2022)，为癌症无创检测试剂的开发提供了有力的支持。
 
 ## 合作方式
 
@@ -176,6 +176,7 @@ description: Collaborate with us !
 * **已有合作单位:**
   - **北京** 北京协和医院
   - **北京** 北京大学第一医院
+  - **北京** 清华长庚医院
   - **天津** 天津肿瘤医院
   - **上海** 海军军医大学
   - **成都** 华西医院
@@ -191,12 +192,11 @@ description: Collaborate with us !
 2. 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
 3. 一种用于肝细胞癌早期筛查和复发监测的3-ncRNA系统 (**专利号：202010927225.7**)（*Theranostics* 2021)
 4. 体液样本中鉴定新型exRNA生物标志物的试剂盒及配套机器学习算法 (**专利申请号：202010618721.4**)（*Nuc. Acid Res.* 2024)
-5. 痕量RNA捕获和测序技术DETECTOR (**专利申请号：202210579444.X**) (*elife* 2022, *Cell Rep. Med.* 2023)
+5. 痕量RNA捕获和测序技术DETECTOR-seq (**专利申请号：202210579444.X**) (*elife* 2022, *Cell Rep. Med.* 2023, *Clinic. & Tranl. Med.* 2024)
 
 <div align="middle">
 <img src="image/patent.jpg" alt="主要专利" style="zoom:30%;" />
 </div>
-
 <br/>
 
 <div style="page-break-after: always;"></div>
@@ -224,19 +224,20 @@ description: Collaborate with us !
 
 ## 基本信息
 
-- **合作课题：RNA制药和疗法在疾病治疗上的应用** 
+- **合作课题：AI驱动的RNA药物设计在疾病治疗上的应用** 
 - **招募机构：**
-  - **1. CRO公司、医药公司等**
+  - **1. 制药公司、新药研发公司等**
   - **2. 人工智能相关的实验室**
   - **3. 药学和结构研究相关的实验室**
+  - **4. CRO公司等**
 - **药物设计类型：**
-  - 通过 AI 技术 (OligoFormer) 筛选和设计针对**RNA序列**的小RNA (siRNA) 药物
-  - 通过 AI 技术 (RNAsmol) 筛选和设计针对**RNA结构**的小分子药物
-  - 通过 AI 技术 (RBPgroup, POSTAR) 筛选和设计针对**RNA结构**的蛋白药物
+  - 利用和优化我们的 AI 方法 (***OligoFormer***) 筛选和设计针对**RNA序列**的小RNA (siRNA) 药物
+  - 利用和优化我们的 AI 方法 (***RNAsmol***) 筛选和设计针对**RNA结构**的小分子药物
+  - 利用和优化我们的计算方法 (***RBPgroup***)和数据库 (***POSTAR***) 筛选和设计针对**RNA结构**的蛋白药物
 - **合作方式**：
   - 科研课题：合作方提供人工智能技术，共同应用在RNA药物设计优化上
   - 科研课题：合作方提供药学设计技术，共同应用在RNA药物设计优化上
-  - 科研课题：合作方针对我们预测出来的小分子或者小 RNA药物进行早期实验验证
+  - 科研课题：合作方针对我们预测出来的小分子或者小 RNA药物进行早期实验验证和优化
   - 科研和产业化课题：合作方提供药筛平台进行药物筛选
   - 产业化课题：合作方提供应用场景（例如针对特定疾病和组织提供递送siRNA的方法和手段） 
 - **发起组织：清华大学生命学院鲁志实验室**（Lab of *RNA Bioinformatics*）
@@ -244,18 +245,18 @@ description: Collaborate with us !
 
 ## 研究目标
 
-我们在RNA-蛋白结合，RNA-siRNA/shRNA结合的计算设计上积累了大量科研经验，并应用在了HIV、HCV等病毒的靶标筛选上。希望能应用在癌症治疗、病毒感染治疗等疾病治疗上。
+我们在RNA-siRNA/shRNA结合，RNA-小分子结合，RNA-蛋白结合的计算设计上积累了大量科研经验，并应用在了HIV、HCV等病毒的靶标筛选上。希望能应用在癌症治疗、病毒感染治疗等疾病治疗上。
 
 ## 项目简介
 
 我们和该项目相关的前期科研基础有（<sup>1</sup>第一作者，\*最后通讯，\*<sup>+</sup>：共同通讯）： 
-* **1）RNA二级结构预测算法** (Nucleic Acids Res. 2006<sup>1</sup>，RNA 2009<sup>1</sup>, Nucleic Acids Res. 2015\*，2016\* ）；
-* **2）RNA-oligo/siRNA预测** (OligoWalk: Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>; OligoFormer: *Bioinformatics*  2024b\*）**和shRNA 设计** (PNAS 2012)；
-* **3）RNA-蛋白结合预测** (Nuc. Acids. Res. 2017\*, 2019\*<sup>+</sup>, 2022\*；Genome Biology 2017\*; Cell 2019 )；
+* **1）RNA二级结构预测算法** (***RNAstructure***: Nucleic Acids Res. 2006<sup>1</sup>，RNA 2009<sup>1</sup>, Nucleic Acids Res. 2015\*，2016\* ）；
+* **2）RNA-oligo/siRNA预测** (***OligoWalk***: Nucleic Acids Res. 2008a<sup>1</sup>,2008b<sup>1</sup>,2008c<sup>1</sup>; ***OligoFormer***: *Bioinformatics*  2024b\*）**和shRNA 设计** (PNAS 2012)；
+* **3）RNA-蛋白结合预测** (***POSTAR***: Nuc. Acids. Res. 2017\*, 2019\*<sup>+</sup>, 2022\*；***RBPgroup***: Genome Biology 2017\*, Cell 2019 )；
 * **4）RNA-小分子结合预测**
   * 靶标病毒的小分子药物筛选（Nature Biotech. 2012）;
   * 小分子表型筛选计算方法（Brief. in Bioinformatics 2019\*<sup>+</sup>);
-  * 靶标RNA的小分子药物AI设计（[preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 2024\*)。
+  * 靶标RNA的小分子药物AI设计（***RNAsmol***: [preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 2024\*)。
 
 
 
