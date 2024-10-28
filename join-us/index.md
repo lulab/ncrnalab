@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join Us<br>Welcome to Lu Lab @ Tsinghua
+title: Join Us!<br> Welcome to Lu Lab @ Tsinghua
 description:  Bioinformatics Lab for noncoding RNA
 ---
 
