@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Lu Lab @ Tsinghua
+title: Welcome to Join Lu Lab @ Tsinghua
 description:  Join Us !
 ---
 
