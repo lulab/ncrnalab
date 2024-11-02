@@ -1,3 +1,3 @@
 ---
-redirect_to: "./googlemap.html"
+redirect_to: "map/googlemap.html"
 ---
