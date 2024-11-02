@@ -291,6 +291,6 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 | **地址：**       | **清华大学 生命科学学院，生物信息学“教育部重点实验室”， 北京，100084** |
 | :--------------- | :----------------------------------------------------------- |
 | **办公电话：**   | **+86-10-62789217**                                          |
-| **E-mail：**     | **lulab1 AT tsinghua.edu.cn**                                |
+| **E-mail：**     | **lulab1@tsinghua.edu.cn** \| **bio.lulab@gmail.com**        |
 | **实验室主页：** | **[http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)** \| **[http://www.ncRNAlab.org](http://www.ncrnalab.org)** |
 

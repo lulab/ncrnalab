@@ -71,18 +71,18 @@ description:  Bioinformatics Lab for noncoding RNA
 
 待遇丰厚，科研平台基础高。可通过协助申请以下一个或多个**人才支持计划**以及**产业化方向支持计划**进行聘用，提供具有国际竞争力的待遇和科研资助：
 
-1. [清华大学水木学者支持计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)
-2. [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/info/1272/4758.htm)
-3. [博士后创新人才支持计划](https://postdoctor.tsinghua.edu.cn/info/zxtz/2171)
-4. 产学研结合，产业化方向资助
-5. 。。。
+* 清华大学水木学者支持计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)
+* [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/info/1272/4758.htm)
+* [博士后创新人才支持计划](https://postdoctor.tsinghua.edu.cn/info/zxtz/2171)
+* 产学研结合，产业化方向资助
+* more 。。。
+
 
 ### 申请和联系方法
 
-应聘者请将一份详尽的CV和一封阐述研究和/或产业化兴趣的简信， 发送给 lulab1 AT tsinghua.edu.cn。博士后应聘者稍后还需要联系包含自己导师在内的2-3位推荐人发送推荐信至上述邮箱。
+应聘者请将一份详尽的CV和一封阐述研究和/或产业化兴趣的简信， 发送给 lulab1@tsinghua.edu.cn ( 抄送: bio.lulab@gmail.com )。博士后应聘者稍后还需要联系包含自己导师在内的2-3位推荐人发送推荐信至上述邮箱。
 
 Email主题请标注“**应聘计算分析博士后**”或者“**应聘湿实验博士后**”，并注明招聘信息来源，谢谢。
-
 
 ## 产业化方向人才招募
 
