@@ -1,3 +1,3 @@
 ---
-redirect_to: "home/index.html#contact"
+redirect_to: "./googlemap.html"
 ---

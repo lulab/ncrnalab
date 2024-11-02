@@ -94,10 +94,10 @@ function myMap() {
   };
   var map = new google.maps.Map(mapCanvas, mapOptions);
   var marker = new google.maps.Marker({position:myCenter});
-  /*var infowindow = new google.maps.InfoWindow({
-    content: "Welcome to Lulab!<br>Rm 2-111 Biotech. Building, School of Life Sciences, Tsinghua University, Beijing 100084, China<br>Email: lulab AT biomed.tsinghua.edu.cn<br>Tel/FAX: +86-10-62789217"
+  var infowindow = new google.maps.InfoWindow({
+    content: "<a href=/><h3>Lu Lab @ Tsinghua University</h3></a> RM 2-108, 2-110, 2-111, 3-106, 3-109 <br> Biotech. Building, Tsinghua University <br> Beijing 100084, China<p><a href=../home/index.html#contact>Contact Us</a></p>"
   });
-  infowindow.open(map,marker);*/
+  infowindow.open(map,marker);
   marker.setMap(map);
 }
 </script>
