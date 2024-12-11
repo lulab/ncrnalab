@@ -5,7 +5,8 @@ description: Welcome to Lu Lab @ Tsinghua University
 ---
 
 <div align="middle">
-<br>
+<a href="https://365.kdocs.cn/l/crmAWAhGmoRE"><font color="#d32905"><big><b>《光荣榜》</b></big> <br>Honored Students @ Lu Lab</font></a>
+<br><br>
 “<big>少年应有鸿鹄志，当骑骏马踏平川</big>” 
 <br>
 <br>
