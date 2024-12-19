@@ -7,7 +7,7 @@ description: Teaching @ Tsinghua
 **<big>Major Courses 主讲课程:</big>**
 
 - 春季学期：[Bioinformatics《生物信息学》](bioinfo1/) 
-  - 对象：本科生 30-50人 	
+  - 对象：本科生 30-80人 	
 - 秋季学期：[Bioinformatics in Action《生物信息学实践》](bioinfo2/)
   - 对象：博士生 \~30人; 本科生 \~10人 	
 - coming in 2025：[AI Models for Biomedicine《生物医学中的AI模型》](ai/)
