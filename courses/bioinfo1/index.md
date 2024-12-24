@@ -55,3 +55,10 @@ description:  【生物信息学】
 3. 基本数学课程： 如《线性代数》
 4. 基本计算机技能：如 Linux、Python 等
 
+
+## 【提前练习Linux】
+
+该课程的作业中会涉及大量 Linux 操作和编程，课程目的是让大家 “实践” 编程解决生物问题，而不是“学习编程”，因此，需要已经有一定的Linux接触和编程基础的同学才适合选修。否则，建议先修一些计算机基础课或者自学一些计算机的网课，加强计算机使用技能后再修。
+
+比如，建议大家在寒假通过网络视频等资源学习Linux中命令行的基本操作，提醒学计算机时一定要注意操作和练习，可以在自己的Windows或者MacOS上装一个docker来虚拟Linux系统进行练习，我们为此写了一个docker安装和使用的简单指南见 [Run Jobs in a Docker](https://book.ncrnalab.org/teaching/getting-started/docker) 。
+
