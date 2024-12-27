@@ -22,7 +22,7 @@ title: Publications
 
 ## 2024
 
-* Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) **OligoFormer: An accurate and robust prediction method for siRNA design.** *Bioinformatics* btae577
+* Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) **OligoFormer: An accurate and robust prediction method for siRNA design.** *Bioinformatics* 40 (10), btae577
 
     [View Detail](https://doi.org/10.1093/bioinformatics/btae577) 
 

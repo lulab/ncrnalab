@@ -42,7 +42,7 @@ title:  Representative Publications
 
 ### II. 2 siRNA/shRNA targeting RNA
 
-- [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** btae577 software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
+- [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
 - Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
 - \[**Server**\] **Lu ZJ** and Mathews DH (2008)  OligoWalk: an online siRNA design tool utilizing hybridization thermodynamics.   **Nucleic Acids Research**  36:W104-W108. (IF: 19.16) website: [*OligoWalk*](https://rna.urmc.rochester.edu/cgi-bin/server_exe/oligowalk/oligowalk_form.cgi)
 - **\[Algorithm\] Lu ZJ** and Mathews DH (2008) Efficient siRNA selection using hybridization thermodynamics. **Nucleic Acids Research** 36:640-647. (IF: 19.16) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
