@@ -109,6 +109,16 @@ RME is a tool for RNA secondary structure prediction with multiple types of expe
 
 **RNAsmol**
 
+> Pengfei Bao et al. *Under Review* (2024)
+
+cfRNA-seq data processing in peak calling way to find protected cfRNA fragments 
+
+Github: [https://github.com/lulab/cfPeak](https://github.com/lulab/cfPeak)
+
+
+
+**RNAsmol**
+
 > Hongli Ma et al. *preprint* (2024)
 
 AI platform to design drug targetting RNA.
