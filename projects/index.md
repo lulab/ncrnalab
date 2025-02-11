@@ -104,6 +104,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 我们将上述方法应用于精准医疗，重点关注两类疾病：**1）自身免疫疾病；2）癌症**。
 
+> “**癌症和自身免疫疾病，这两者就像硬币的两面**：若癌细胞通过某种机制逃脱了免疫系统监视、无法被清除，恶性肿瘤便开始滋长；而当正常细胞因某种原因打破了身体原本的免疫耐受机制，就可能引发自身免疫疾病。” -- 《环球科学》(Scientific American) 2024年12月号
 
 
 
