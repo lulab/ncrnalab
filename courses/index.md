@@ -7,10 +7,9 @@ description: Teaching @ Tsinghua
 **<big>Major Courses 主讲课程:</big>**
 
 - 春季学期：[Bioinformatics《生物信息学》](bioinfo1/) 
-  - 对象：本科生 30-80人 	
-- 秋季学期：[Bioinformatics in Action《生物信息学实践》](bioinfo2/)
-  - 对象：博士生 \~30人; 本科生 \~10人 	
-- coming in 2025：[AI Models for Biomedicine《生物医学中的AI模型》](ai/)
+  - 对象：本科生 50-80人 	
+  
+- 秋季学期：[AI Models for Biomedicine《生物医学中的AI模型》](ai/)
   - 对象：博士生 10-15人; 本科生 5-10人 
 
   
@@ -51,6 +50,13 @@ PTN学生上课要求
 > Pick one of the papers (NOT the *Reviews* papers) and write a brief summary, including your discussion and perspectives (1-2 pages). **Note: Please list the key points of your thoughts in the last paragraph.**
 >
 > *   **[Recommended Papers](https://cloud.tsinghua.edu.cn/d/07d2b19d6b284ebea5ea/?p=%2F0.%20Startup)**
+
+
+#### Bioinformatics in Action《生物信息学实践》 {#bioinfo2}
+
+[Bioinformatics in Action《生物信息学实践》](bioinfo2/)
+
+- 对象：博士生 \~30人; 本科生 \~10人 	
 
 ### Basic Courses 本科生课程
 

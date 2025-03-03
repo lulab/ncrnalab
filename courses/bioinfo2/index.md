@@ -11,7 +11,7 @@ description: 【生物信息学实践】
 
 * **上课时间**：秋季学期 周五第四大节（15：20-16：55）
 * **上课地点**：清华大学 生物技术馆二层2-201
-* **教学大纲**：[Syllabus](https://courses.ncRNAlab.org/bioinfo2-syllabus)
+* **教学大纲**：[Syllabus](https://365.kdocs.cn/l/cuNerhTdXckY)
 * **实践教程**：[Bioinformatics Tutorial](https://book.ncrnalab.org)
 
 * 学时：32
