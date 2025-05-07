@@ -185,9 +185,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 * 国家自然科学基金 专项项目，82341101，基于AI技术的靶向RNA的药物设计，2024-2026  主持
 * 国家自然科学基金 面上项目，32170671，体液多组学数据整合的生物信息学研究及其在癌症无创检测上的应用，2022-2025     主持
 * 清华大学精准医学研究院 精准医疗战略项目， 基于多组学数据的智能化中晚期肝癌转化治疗决策研究，2022-2025 共同主持
-* 清华大学国强研究院 人工智能与机器人项目，2021GQG1020，生物调控网络知识启发下的新型AI模型的构建及其在癌症早诊上的应用，2022-2024   主持
 * 合肥综合性国家科学中心大健康研究院“全球遴选”项目，LX202401，cfRNA为核心的多组学在肺癌筛查上的应用研究，2024-2027 主持
-* Bayer科研转化基金，AI driven drug design targeting RNAs, 2023-2024  主持
 
   
 
@@ -197,7 +195,5 @@ We apply the above methods to precision medicine, focusing on two types of disea
 > * 2024-2026     AI-driven drug design targeting RNAs, PI, National Natural Science Foundation of China
 > * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
 > * 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
-> * 2022-2024     AI model informed by biological network for early cancer diagnosis, PI, Tsinghua Guoqiang AI Institute
 > * 2024-2027     cfRNA-based multi-omics application research in lung cancer screening, PI,  Hefei Comprehensive National Science Center General Health Research Institute "Global Selection" Project 
-> * 2023-2024     AI-driven drug design targeting RNA, PI, Bayer Micro-funding
 
