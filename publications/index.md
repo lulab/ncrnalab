@@ -16,7 +16,7 @@ title: Publications
 
 ## 2025
 
-* Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\*(2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+* Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
    [View Detail](https://doi.org/10.1186/s13059-025-03590-x) 
 
