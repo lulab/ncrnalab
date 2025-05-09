@@ -12,11 +12,13 @@ title: Publications
 
 ---
 
-> **Preprint:**
->
-> * Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*and **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
-> 
-> * Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\*.  **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** bioRxiv 10.1101/2023.10.02.560326  (\*co-corresponding authors)    [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
+
+
+## 2025
+
+* Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\*(2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
+
+   [View Detail](https://doi.org/10.1186/s13059-025-03590-x) 
 
 
 
@@ -48,6 +50,9 @@ title: Publications
     [View Detail](https://doi.org/10.1360/TB-2024-0416) 
 
 
+> Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*and **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
+
+
 > —————————————————69————————————————————
 
 ## 2023
@@ -65,6 +70,9 @@ title: Publications
 * Chun Ning<sup>1</sup>, Peng Cai<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Guangtao Li<sup>1</sup>, Pengfei Bao, Lu Yan, Meng Ning, Kaichen Tang, Yi Luo, Hua Guo, Lu Chen\*, **Zhi John Lu** \*, Jianhua Yin\* (2023) **A Comprehensive Evaluation of Full-spectrum Cell-free RNAs highlights cell-free RNA fragments for Early-Stage Hepatocellular Carcinoma Detection** *eBioMedicine* 93:104645 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
    [View Detail](https://pubmed.ncbi.nlm.nih.gov/37315449/)   
+
+
+> Yunfan Jin, Hongli Ma, Zhenjiang Zech Xu\* and **Zhi John Lu**\*.  **BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes** bioRxiv 10.1101/2023.10.02.560326  (\*co-corresponding authors)    [Preprint](https://doi.org/10.1101/2023.10.02.560326) 
 
 
 > —————————————————66————————————————————
