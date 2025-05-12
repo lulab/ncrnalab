@@ -372,7 +372,7 @@ title: Publications
 
   [View Details](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002190)
 
-* Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
+* Gerstein MB<sup>†,</sup>\*, **Lu ZJ<sup>†</sup>**, Van Nostrand EL<sup>†</sup>, Cheng C<sup>†</sup>, Arshinoff BI<sup>†</sup>, et al. (2010) **Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project**  *Science* 330 (6012): 1775-1787  (<sup>†</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
   [View Details](http://www.sciencemag.org/content/330/6012.cover-expansion)
   <img src="./assets/2010.modENCOE_Science.webp" style="zoom:25%;" />

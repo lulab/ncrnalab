@@ -63,7 +63,7 @@ title:  Representative Publications
 - Gerstein MB, Joel Rozowsky, Koon-Kiu Yan, …, **Lu Z,** …, Robert Waterston (2014) Comparative Analysis of the Transcriptome across Distant Species. **Nature** 512(7515):445-448.
 - ENCODE Project Consortium**#**. (2012) An Integrated Encyclopedia of DNA Elements in the Human Genome. **Nature** 489, 57–74. (**#Lu Z** was a member of ENCODE Consortium) [Cover Story]
 - **[AlgorithmV0]** **Lu ZJ**<sup>1</sup>, Yip KY<sup>1</sup>, Wang G, Shou C, Hillier LW, et al. (2011) Prediction and characterization of noncoding RNA in *C. elegans* by integrating conservation, secondary structure and high-throughput sequencing and array data. **Genome Research** 21: 276-2857 (<sup>1</sup>contributed equally) (IF: 10.98)
-- **[Algorithm V0]** Gerstein MB<sup>1,</sup>\*, **Lu ZJ<sup>1</sup>**, Van Nostrand EL<sup>1</sup>, Cheng C<sup>1</sup>, Arshinoff BI<sup>1</sup>, et al. (2010) Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project.  **Science** 330 (6012): 1775-1787  (<sup>1</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
+- **[Algorithm V0]** Gerstein MB<sup>†,</sup>\*, **Lu ZJ<sup>†</sup>**, Van Nostrand EL<sup>†</sup>, Cheng C<sup>†</sup>, Arshinoff BI<sup>†</sup>, et al. (2010) Integrative Analysis of the Caenorhabditis elegans Genome by the modENCODE Project.  **Science** 330 (6012): 1775-1787  (<sup>†</sup>20 co-first authors, \*15 co-corresponding authors, ~150 authors in total) [Cover Story]
 
 
 
