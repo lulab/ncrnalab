@@ -6,8 +6,14 @@ description: Lu Lab @ Tsinghua
 ---
 
 * **2025.5.** Pengfei Bao, Taiwei Wang et al. published cfPeak paper in Genome Biology. *Congratulations* !
+
+<img src="2025_cfPeak.webp" style="zoom:30%;" />
+
 * **2024.8.** Hongke Wang, Qing Zhan et al. published DETECTOR-seq paper in Clinical and Translational Medicine. *Congratulations* !
 * **2023.11.** Yuhuan Tao, Shaozhen Xing et al. published a cell-free Multi-Omics paper in Cell Reports Medicine. *Congratulations* !
+* **2022.07.**  Shanwen Chen, Yunfan Jin et al. published a cell-free RNA paper in eLife. *Congratulations* ！
+
+<img src="2022_cfRNA.webp" style="zoom:25%;" />
 
 
 ---
