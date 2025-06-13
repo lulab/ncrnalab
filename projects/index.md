@@ -4,54 +4,59 @@ title: 清华大学・鲁志实验室 科研课题
 description: Projects @ Lu Lab
 ---
 
-> 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们仍然知之甚少。
->
-> ”截止2020 年，ENCODE 项目已鉴定出约 37,600 个非编码RNA的基因，这几乎是蛋白质编码基因的两倍。其他统计数据相差很大，从约 18,000 个到接近 96,000 个。... 在 2024 年《科学》杂志的一篇评论中，将这些发现描述为 <u>RNA 革命</u> 的一部分。... 这些非编码RNA动摇了我们对生物学运作方式的理解。自从关于 DNA 双螺旋结构及其如何编码信息的划时代发现以来，分子生物学的基本思想一直是，生物体存在精确编码的指令，这些指令可以对特定分子进行特定任务编程。但**非编码RNA 似乎指向了一种更模糊、更集体的生命逻辑**。这种逻辑更难辨别，更难理解。但如果科学家能够学会适应这种模糊性，这种关于生命的观点可能会更加完整。“ （ [RNA: 掌控生命后台 \| 《环球科学》](https://mp.weixin.qq.com/s/ai_8lNXsluNz4Pu_piGA-g) 2024年7月刊封面文章）
->
-> 我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
->
-> About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet.
->
-> “By 2020 the ENCODE project said it had identified around 37,600 noncoding genes—that is, DNA stretches with instructions for RNA molecules that do not code for proteins. That is almost twice as many as there are protein-coding genes. Other tallies vary widely, from around 18,000 to close to 96,000. … In a 2024 commentary for the journal *Science*, the duo described these findings as part of an <u>RNA revolution</u>. … they undercut the way we think our biology works. Ever since the epochal discovery about DNA’s double helix and how it encodes information, the bedrock idea of molecular biology has been that there are precisely encoded instructions that program specific molecules for particular tasks. But **ncRNAs seem to point to a fuzzier, more collective, logic to life**. It is a logic that is harder to discern and harder to understand. But if scientists can learn to live with the fuzziness, this view of life may turn out to be more complete.” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story)
->
-> We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
 
+**我们围绕非编码 RNA（ncRNA）在三个主要的科研课题上进行探索和研究：I. RNA调控网络 (RNA-Talk)；II. RNA分子诊断 (RNA-Finder)；III. RNA药物设计 (RNA-Drug)。** 
 
-
-**我们围绕非编码 RNA（ncRNA）分两个主要的科研方向：I）AI驱动的核酸模型；II）生信驱动的精准医疗。** 
-
-**We have two major research directions centered on noncoding RNA (ncRNA), I. AI-driven RNA Modeling, II. Bioinfo-driven Precision Medicine.**
+**We have three major research projects centered on noncoding RNA (ncRNA), I. RNA-Talk, II. RNA-Finder，III. RNA-Drug.**
 
 * TOC
 {:toc}
 <div align="middle">
-<img src="projects.webp" style="zoom:50%;" />
+<img src="projects.webp" style="zoom:30%;" />
 </div>
 
+
+## Background Introduction
+
+人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们仍然知之甚少。
+
+”截止2020 年，ENCODE 项目已鉴定出约 37,600 个非编码RNA的基因，这几乎是蛋白质编码基因的两倍。其他统计数据相差很大，从约 18,000 个到接近 96,000 个。... 在 2024 年《科学》杂志的一篇评论中，将这些发现描述为 <u>RNA 革命</u> 的一部分。... 这些非编码RNA动摇了我们对生物学运作方式的理解。自从关于 DNA 双螺旋结构及其如何编码信息的划时代发现以来，分子生物学的基本思想一直是，生物体存在精确编码的指令，这些指令可以对特定分子进行特定任务编程。但**非编码RNA 似乎指向了一种更模糊、更集体的生命逻辑**。这种逻辑更难辨别，更难理解。但如果科学家能够学会适应这种模糊性，这种关于生命的观点可能会更加完整。“ （ [RNA: 掌控生命后台 \| 《环球科学》](https://mp.weixin.qq.com/s/ai_8lNXsluNz4Pu_piGA-g) 2024年7月刊封面文章）
+
+我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
+
+About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet.
+
+“By 2020 the ENCODE project said it had identified around 37,600 noncoding genes—that is, DNA stretches with instructions for RNA molecules that do not code for proteins. That is almost twice as many as there are protein-coding genes. Other tallies vary widely, from around 18,000 to close to 96,000. … In a 2024 commentary for the journal *Science*, the duo described these findings as part of an <u>RNA revolution</u>. … they undercut the way we think our biology works. Ever since the epochal discovery about DNA’s double helix and how it encodes information, the bedrock idea of molecular biology has been that there are precisely encoded instructions that program specific molecules for particular tasks. But **ncRNAs seem to point to a fuzzier, more collective, logic to life**. It is a logic that is harder to discern and harder to understand. But if scientists can learn to live with the fuzziness, this view of life may turn out to be more complete.” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story)
+
+We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
 
 
 ---
 
 
+## Research Projects
+
+
+### I. RNA-Talk
 
 
 
-## I. AI-driven RNA Modeling {#AI}
+
+“**RNA**, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story) Based on new AI technologies and RNA modeling (RNA-Talk models), we start to discover and understand the biological regulation network based on RNAs. It can be applied  to many areas, such as biomarker discovery, RNA structure prediction, ribozyme optimization and design, siRNA Design, RNA vaccine design, functional RNA target prediction, RNA-based drug design, etc.
+
+“RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）我们利用最新的人工智能技术开发各类核酸 模型（尤其是语言模型 RNA-Talk），去理解RNA在复杂的生物调控网络中的作用和机制。对RNA调控网络的发现、认识和理解，可以帮助我们进行疾病标志物发现、RNA结构预测、核酶优化和设计、RNA疫苗设计、功能性 RNA 靶标预测、靶标RNA的药物设计等等研究。
+
+
 
 The introduction of new methods and new thinking in different fields can often lead to breakthrough progress in this discipline, so we pay special attention to introducing new technologies and new thinking in the latest computing field (such as **new AI technologies** based on large language models) into biological data. We develop novel RNA models to explore basic scientific questions such as the structure, regulation and target of RNA, especially **noncoding RNA** (**ncRNA**). Finally, these novel models will bring us a new era of precision medicine, enzyme and drug design.
 
 不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的精准医疗、酶设计和药物设计的新时代。
 
-
-
-
-“The proliferation of ncRNA varieties lends strength to Mattick’s claim that RNA, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story) Based on new AI technologies, we develop RNA models for biomarker discovery, RNA structure prediction, ribozyme optimization and design, siRNA Design, RNA vaccine design, functional RNA target prediction, RNA-based drug design, etc.
-
-“非编码RNA 种类的激增进一步证实了 Mattick 的说法：RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）我们利用最新的人工智能技术开发各类核酸 (RNA) 模型，进行疾病标志物发现、RNA结构预测、核酶优化和设计、RNA疫苗设计、功能性 RNA 靶标预测、siRNA设计、靶标RNA的药物设计等研究。
-
-
-
-### 1. RNA-RNA Model for Target Prediction
+<div align="middle">
+  <img src="RNA-Talk.webp" style="zoom:20%;" />
+  <br>
+  <small>RNAs Talk: Language of RNA</small>
+</div>
 
 ***RNA-RNA interaction*** (RNA targeting RNA) plays a crucial role in various biological processes, including gene regulation, RNA processing, and viral replication. Predicting RNA-RNA interactions involves identifying and characterizing the binding sites between two RNA molecules, which can provide insights into their functional relationships and regulatory mechanisms. It's important to note that predicting RNA-RNA interactions remains a challenging problem due to the complexity of RNA structures, the vast sequence space, and the limited availability of experimentally validated interaction data. Therefore, the accuracy of predictions can vary depending on the specific method used and the quality of input data. We develop and refine computational approaches for predicting RNA-RNA interactions, aiming to improve the understanding of RNA biology and facilitate the discovery of new therapeutic targets and RNA-based regulatory mechanisms.
 
@@ -60,21 +65,6 @@ The introduction of new methods and new thinking in different fields can often l
 **_siRNA design._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
 
 **_siRNA design:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
-
-### 2. RNA-Ligand Model for Drug Design
-
-**_Small molecule drug design targeting RNA._** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. In addition, using noncoding RNA for disease treatment is also a promising research direction, for example, siRNA-based RNA interference (RNAi) system has aleady been used to develop new gene therapy methods. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information,  and subsequently to design drugs targeting RNAs. 
-
-**_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
-
-<div align="middle">
-  <img src="drug_rna.webp" style="zoom:30%;" />
-  <br>
-  <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
-</div>
-
-
-### 3. RNA Structure Model for Enzyme and Vaccine Design
 
 **_RNA structure prediction._**  We develop structure prediction models and algorithms for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving RNA-based enzyme and vaccince design. For instance, mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
 
@@ -90,7 +80,9 @@ The introduction of new methods and new thinking in different fields can often l
 
 
 
-## II. Bioinfo-driven Precision Medicine {#med}
+
+
+### II. RNA-Finder
 
 By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of **coding and noncoding RNAs (ncRNAs)** for varous immune cells of patients at the single-cell level and multi-molecular level. 
 
@@ -112,14 +104,47 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-
 <div align="middle">
-<img src="research.webp" style="zoom:60%;" />
+<img src="research.webp" style="zoom:30%;" />
 </div>
 
 
 
-### 1. Noncoding RNA Study in Immune System
+
+#### (1) Cell-free RNA (cfRNA) Study in Cancer {#cfRNA}
+
+***cell-free RNAs (cfRNAs).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
+
+> In clinical studies like liquid biopsy, **exRNA** (extra-cellular RNA) is also called **cfRNA** (cell free RNA). Many exRNAs are **noncoding RNAs** (**ncRNAs**), like miRNA, lncRNA, srpRNA, circRN, etc. 
+
+***cell-free RNAs (cfRNAs):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
+
+> **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
+
+<div align="middle">
+<img src="../open/image/exRNA-seq.jpg" style="zoom:33%;" />
+<br>
+<small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
+</div>
+
+
+
+***Multi-modal data integration.*** Multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from NGS data like cfRNA-seq.  For the multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)). For instance, we integrate these multi-modal data using new AI technologies like large language and deep learning models. 
+
+***Multi-modal data integration:***  我们可以由cfRNA-seq等高通量测序方法通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如 cfRNA-seq分析得到的多模态数据，以及multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)），例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
+
+***Clinical application for cancer screen.*** Subsequently,  by applying these methods to liquid biopsy, we help many clinical studies like cancer screen.
+
+***Clinical application for cancer screen:*** 最后，我们将这些方法应用在液体活检上，助力解决临床问题，例如癌症早筛。
+
+<div align="middle">
+<img src="multiomics.webp" style="zoom:50%;" />
+<br>
+<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
+</div>
+
+
+#### (2) Noncoding RNA Study in Immune System {#ncRNA}
 
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from the metatranscriptome of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
@@ -141,36 +166,22 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-### 2. Cell-free RNA (cfRNA) Study in Cancer
 
-***cell-free RNAs (cfRNAs).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
+### III. RNA-Drug
 
-> In clinical studies like liquid biopsy, **exRNA** (extra-cellular RNA) is also called **cfRNA** (cell free RNA). Many exRNAs are **noncoding RNAs** (**ncRNAs**), like miRNA, lncRNA, srpRNA, circRN, etc. 
+**_Small molecule drug design targeting RNA._** The number of human proteins that can be used as small-molecule drug targets is very limited：Of the ~20 thousand protein-coding genes in human (~1.5% of human genome sequence),  about 10%-15% are directly related to diseases; among these genes, it is estimated that less than 700 protein products are druggable (only ~0.05% of human genome sequence). On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Most of them are **noncoding RNAs** (**ncRNAs**). In recent years, more and more researchers have tried to use RNA as a drug target, and initially proved the feasibility of this strategy. In particular, it is worth noting that Coronavirus (COVID-19) is an RNA virus, and its genome itself is also promising as a drug target. In addition, using noncoding RNA for disease treatment is also a promising research direction, for example, siRNA-based RNA interference (RNAi) system has aleady been used to develop new gene therapy methods. Due to the high complexity and variability of RNA structure and the limitations of experimental methods, our current understanding of the three-dimensional structure of RNA is still very limited, and the development of RNA-targeting drugs is still in its infancy. We will use the latest artificial intelligence technologies such as deep learning to integrate various information,  and subsequently to design drugs targeting RNAs. 
 
-***cell-free RNAs (cfRNAs):*** 临床血浆样本中的 cfRNA 含量很低且碎片化，需要解决测序数据信噪比低、成本昂贵等问题。我们应用模板转换、早期标记、分子标签和CRISPR-Cas9等技术，开发新型 cfRNA-seq 技术，降低构建高通量测序文库的经济成本并提高了测序数据的信噪比。
-
-> **exRNA** (extra-cellular RNA) 在很多临床研究尤其是液体活检研究中又称为 **cfRNA** (cell free RNA) ，包括了很多**非编码 RNA** (**ncRNA**)，如 miRNA，lncRNA，srpRNA，circRNA等。
+**_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
 <div align="middle">
-<img src="../open/image/exRNA-seq.jpg" style="zoom:33%;" />
-<br>
-<small>Different NGS (next-generation sequencing) libraries of cfRNAs</small>
+  <img src="drug_rna.webp" style="zoom:30%;" />
+  <br>
+  <small>The potential RNA-targeted druggable genome (Warner, et al., <i>Nature Reviews | Drug Discovery</i>  2018)</small>
 </div>
 
 
-***Multi-modal data integration.*** Multiple regulation events (e.g., expression, splicing, editing, fusion) can be quantified by bioinformatic analysis from NGS data like cfRNA-seq.  For the multi-modal data, such as cfRNA-seq derived multi-view data and/or multi-omics data, we need 4 steps for machine learning analysis, including 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier. We develop corresponding bioinformatics method, software, database and other tools for these four steps (see more in [Software](https://www.ncrnalab.org/software/)). For instance, we integrate these multi-modal data using new AI technologies like large language and deep learning models. 
 
-***Multi-modal data integration:***  我们可以由cfRNA-seq等高通量测序方法通过生物信息分析计算得到多模态数据（例如表达、剪接、编辑、融合等）。对于这些多维度、多模态的高通量数据（例如 cfRNA-seq分析得到的多模态数据，以及multi-omics数据），我们需要进行4个步骤来进行机器学习等分析，包括 1) Data Cleaning, 2) Feature extraction and engineering, 3) Model Fitting, 4) Classifier。我们针对这4个步骤开发相应的生物信息学方法、软件、数据库等工具（详见： [Software](https://www.ncrnalab.org/software/)），例如，我们探索和利用大语言模型和深度学习模型等新型AI 技术，进行多模态数据整合。
 
-***Clinical application for cancer screen.*** Subsequently,  by applying these methods to liquid biopsy, we help many clinical studies like cancer screen.
-
-***Clinical application for cancer screen:*** 最后，我们将这些方法应用在液体活检上，助力解决临床问题，例如癌症早筛。
-
-<div align="middle">
-<img src="multiomics.webp" style="zoom:50%;" />
-<br>
-<small>Multi-dimensional data for liquid biopsy of cancer (Heitzer et al., Nature Reviews 2019) </small>
-</div>
 
 
 
