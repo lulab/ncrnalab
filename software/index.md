@@ -9,21 +9,80 @@ Here, we develop bioinformatic software about biological system, and applying th
 
 **Table of Contents:**
 
-* [01 RNAfinder](#01)
-* [02 RNAtarget](#02)
-* [03 RNAstructurome](#03)
-* [04 RNAmed](#04)
-  
+* TOC
+{:toc}
+<div align="middle">
+<img src="../projects/projects321.webp" style="zoom:20%;" />
+</div>
+
+
 
 > [Lu Lab's **Github**](https://github.com/lulab)
 > 
 > [Related Publications](../publications/pub.md)
 
 
+
 ---
 
-# 01
-## RNAfinder
+
+## III. RNA-Drug
+
+**RNAsmol**
+
+> Hongli Ma et al. *Natuer Computational Science* (2025)
+
+AI model designing **small molecule drug** targetting RNA.
+
+Github: [https://github.com/lulab/rnasmol](https://github.com/lulab/rnasmol)
+
+
+
+**OligoFormer** 
+
+>  Yilan Bai  et al. *Bioinformatics* (2024)
+
+AI model designing **small RNA drug** targeting RNA. 
+
+Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
+
+
+
+
+
+## II. RNA-Finder
+
+### II.1 cfRNA-Finder
+
+**cfPeak** 
+
+>  Pengfei Bao, Taiwei Wang, et al. *Genome Biology* (2025)
+
+A CNN model finding fragmented cell-free RNAs for disease diagnoisis and prognosis.
+
+Github: [https://github.com/lulab/cfPeak](https://github.com/lulab/cfPeak)
+
+
+**PathFormer** 
+
+>  Xiaofan Liu, Yuhuan Tao, et al. *Bioinforamtics* (2024)
+
+A Transformer model integrating multiomics data for disease diagnoisis and prognosis.
+
+Github: [https://github.com/lulab/Pathformer](https://github.com/lulab/Pathformer)
+
+
+**cfOmics Database** 
+
+>  Mingyang Li, Tianxiu Zhou, Mingfei Han, et al. *Nucleic Acids Research* (2024)
+
+Website: [https://cfOmics.ncRNAlab.org](https://cfOmics.ncRNAlab.org)
+
+Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other diseases.
+
+
+
+### II.2 ncRNA-Finder
 
 [**V3. Ribowave**](https://lulab.github.io/Ribowave)
 
@@ -50,12 +109,20 @@ Github: [https://github.com/lulab/RNAfinder](https://github.com/lulab/RNAfinder)
 
 RNAfeature provides a common set of conserved features for ncRNAs across multiple species. The models in RNAfeature were trained on canonical ncRNAs (e.g.,tRNAs,rRNAs, miRNAs, snRNAs, snoRNAs, 7SK RNAs, Y RNAs).
 
-![](rnafinder.webp)
 
 
-# 02
+**CCG Database** (*deprecated*)
 
-## RNAtarget
+> Mengrong Liu, Yu-Cheng T. Yang, et al. *Discovery Medicine* (2016)
+
+CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and noncoding genes associated with cancer. In addition, drug-gene information in CCG provides a useful guide to the development of new anti-cancer drugs.
+
+
+
+
+## I. RNA-Talk
+
+### I.1 RNA Regulation Network (trans-pair)
 
 [**RBPgroup**](http://RNAtarget.ncrnalab.org/RBPgroup)
 
@@ -85,8 +152,7 @@ Website: http://CLIPdb.ncRNAlab.org (moved into POSTAR)
 
 CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize the regulatory networks between RNA binding proteins (RBPs) and various RNA transcript classes by integrating large amounts of CLIP-seq (including HITS-CLIP, PAR-CLIP and iCLIP as variantions) data sets.
 
-# 03
-## RNAstructurome
+### I.2 RNA Structure (cis-pair)
 
 **RNAex Server** (*deprecated*)
 
@@ -103,48 +169,6 @@ Github: [https://github.com/lulab/RME](https://github.com/lulab/RME)
 RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
 
 
-# 04
-
-## RNAmed {#RNAmed}
-
-**RNAsmol**
-
-> Hongli Ma et al. *preprint* (2024)
-
-AI platform to design drug targetting RNA.
-
-Github: [https://github.com/lulab/rnasmol](https://github.com/lulab/rnasmol)
 
 
 
-**OligoFormer** 
-
->  Yilan Bai  et al. *preprint* (2024)
-
-An accurate and robust prediction method for siRNA design 
-
-Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
-
-
-**PathFormer** 
-
->  Xiaofan Liu, Yuhuan Tao, et al. *Bioinforamtics* (2024)
-
-A Transformer model integrating multiomics data for disease diagnoisis and prognosis.
-
-Github: [https://github.com/lulab/Pathformer](https://github.com/lulab/Pathformer)
-
-
-**cfOmics Database** 
-
->  Mingyang Li, Tianxiu Zhou, Mingfei Han, et al. *Nucleic Acids Research* (2024)
-
-Website: [https://cfOmics.ncRNAlab.org](https://cfOmics.ncRNAlab.org)
-
-Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other diseases.
-
-**CCG Database** (*deprecated*)
-
-> Mengrong Liu, Yu-Cheng T. Yang, et al. *Discovery Medicine* (2016)
-
-CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and noncoding genes associated with cancer. In addition, drug-gene information in CCG provides a useful guide to the development of new anti-cancer drugs.

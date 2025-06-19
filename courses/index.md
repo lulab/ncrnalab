@@ -9,8 +9,8 @@ description: Teaching @ Tsinghua
 - 春季学期：[Bioinformatics《生物信息学》](bioinfo1/) 
   - 对象：本科生 50-80人 	
   
-- 秋季学期：[AI Models for Biomedicine《生物医学中的AI模型》](ai/)
-  - 对象：博士生 10-15人; 本科生 5-10人 
+- 秋季学期：[AI for Biomedicine《生物医学中的AI实践》](ai/)
+  - 对象：博士生 10-15人; 本科生 3-5人 
 
   
 

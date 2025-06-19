@@ -16,11 +16,16 @@ title: Publications
 
 ## 2025
 
+* Hongli Ma, Letian Gao, Yunfan Jin, Jianwei Ma, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\* and **Zhi John Lu**\*  (2025)  **RNA–ligand interaction scoring via data perturbation and augmentation modeling**. *Nature Computational Science* 10.1038/s43588-025-00820-x (\*co-corresponding authors) 
+
+   [View Detail](https://www.nature.com/articles/s43588-025-00820-x) 
+
+
 * Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
 
    [View Detail](https://doi.org/10.1186/s13059-025-03590-x) 
 
-
+> —————————————————75————————————————————
 
 ## 2024
 
@@ -48,9 +53,6 @@ title: Publications
      Xiaofan Liu and  **Zhi Lu** (2024) **Progress of bioinformatics studies for multi-omics and multi-modal data in complex diseases** (in Chinese). *Chinese Science Bulletin*, 69: 1–15, doi: 10.1360/TB-2024-0416
      
     [View Detail](https://doi.org/10.1360/TB-2024-0416) 
-
-
-> Hongli Ma, Letian Gao, Yunfan Jin, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\*and **Zhi John Lu**\*.  **RNA-ligand interaction scoring via data perturbation and augmentation modeling** bioRxiv 10.1101/2024.06.26.600802 (\*co-corresponding authors)    [Preprint](https://biorxiv.org/cgi/content/short/2024.06.26.600802) 
 
 
 > —————————————————69————————————————————
