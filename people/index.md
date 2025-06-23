@@ -12,7 +12,7 @@ description: Welcome to Lu Lab @ Tsinghua University
 <br>
 <img align="middle" style="width:100%; border: 10px solid #E0E0E0;" src="2025.webp" >
 <br>2025<br>
-<br><br>
+<br>
 "What sculpture is to a block of marble, education is to a human soul."  --  Joseph Addison
 <br>
 “The carving and chipping away to create a masterpiece <b>take years of dedication</b>.  Teachers help students <b>discover their interests, passions, and ultimately themselves</b>.”
