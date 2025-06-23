@@ -12,8 +12,9 @@ Here, we develop bioinformatic software about biological system, and applying th
 * TOC
 {:toc}
 <div align="middle">
-<img src="../projects/projects321.webp" style="zoom:20%;" />
+<img src="../projects/projects.webp" style="zoom:20%;" />
 </div>
+
 
 
 
@@ -26,33 +27,13 @@ Here, we develop bioinformatic software about biological system, and applying th
 ---
 
 
-## III. RNA-Drug
-
-**RNAsmol**
-
-> Hongli Ma et al. *Natuer Computational Science* (2025)
-
-AI model designing **small molecule drug** targetting RNA.
-
-Github: [https://github.com/lulab/rnasmol](https://github.com/lulab/rnasmol)
 
 
 
-**OligoFormer** 
-
->  Yilan Bai  et al. *Bioinformatics* (2024)
-
-AI model designing **small RNA drug** targeting RNA. 
-
-Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
+## A. RNA-Finder
 
 
-
-
-
-## II. RNA-Finder
-
-### II.1 cfRNA-Finder
+### A1. cfRNA-Finder
 
 **cfPeak** 
 
@@ -82,7 +63,9 @@ Multi-Omics data and diagnosis panels for liquid biopsy of cancer and other dise
 
 
 
-### II.2 ncRNA-Finder
+
+
+### A2. ncRNA-Finder
 
 [**V3. Ribowave**](https://lulab.github.io/Ribowave)
 
@@ -120,9 +103,27 @@ CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and no
 
 
 
-## I. RNA-Talk
 
-### I.1 RNA Regulation Network (trans-pair)
+## B. RNA-Talk
+
+### B0. RNA Structure (cis-pair)
+
+**RNAex Server** (*deprecated*)
+
+>  Yang Wu, Rihao Qu, Yiming Huang, et al. Nucleic Acids Research (2016)
+
+RNAex is an RNA secondary structure prediction server enhanced by high-throughput experimental data. We have re-mapped raw data of the published probing experiments to the whole genome, thus users can predict secondary structures for novel RNA transcripts.
+
+[**RME**](https://github.com/lulab/RME)
+
+>  Yang Wu, Binbin Shi, et al. Nucleic Acids Research (2015)
+
+Github: [https://github.com/lulab/RME](https://github.com/lulab/RME)
+
+RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
+
+
+### B1. RNA Regulation Network (trans-pair)
 
 [**RBPgroup**](http://RNAtarget.ncrnalab.org/RBPgroup)
 
@@ -152,21 +153,28 @@ Website: http://CLIPdb.ncRNAlab.org (moved into POSTAR)
 
 CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize the regulatory networks between RNA binding proteins (RBPs) and various RNA transcript classes by integrating large amounts of CLIP-seq (including HITS-CLIP, PAR-CLIP and iCLIP as variantions) data sets.
 
-### I.2 RNA Structure (cis-pair)
 
-**RNAex Server** (*deprecated*)
+### B2. RNA Drug Design
 
->  Yang Wu, Rihao Qu, Yiming Huang, et al. Nucleic Acids Research (2016)
+**RNAsmol**
 
-RNAex is an RNA secondary structure prediction server enhanced by high-throughput experimental data. We have re-mapped raw data of the published probing experiments to the whole genome, thus users can predict secondary structures for novel RNA transcripts.
+> Hongli Ma et al. *Natuer Computational Science* (2025)
 
-[**RME**](https://github.com/lulab/RME)
+AI model designing **small molecule drug** targetting RNA.
 
->  Yang Wu, Binbin Shi, et al. Nucleic Acids Research (2015)
+Github: [https://github.com/lulab/rnasmol](https://github.com/lulab/rnasmol)
 
-Github: [https://github.com/lulab/RME](https://github.com/lulab/RME)
 
-RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
+
+**OligoFormer** 
+
+>  Yilan Bai  et al. *Bioinformatics* (2024)
+
+AI model designing **small RNA drug** targeting RNA. 
+
+Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
+
+
 
 
 
