@@ -28,16 +28,16 @@ We develop **bioinformatics** technology on **noncoding RNAs** from multiple per
 
 ## Research Projects
 
-**We work on two major research projects centered on noncoding RNA (ncRNA): I. RNA-Finder, II. RNA-Talk.**
+**We work on two major research projects centered on noncoding RNA (ncRNA): I. RNA-Finder (Bioinfo-Driven Precision Medicine), II. RNA-Talk (AI-Driven RNA Modeling & Drug Design).**
 
-**我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. RNA分子诊断 (RNA-Finder)；II. RNA互作调控 (RNA-Talk)。** 
+**我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. RNA-Finder（生信驱动的精准医疗）；II. RNA-Talk（AI驱动的核酸模型和药物设计）。** 
 
 <div align="middle">
 <img src="projects.webp" style="zoom:30%;" />
 </div>
 
 
-### A. RNA-Finder
+### A. RNA-Finder (Bioinfo-Driven Precision Medicine)
 
 By integrating transcriptomics data with other multiomics data, we aim to explain development of complex diseases based on an integrative, multi-dimensional level.  We develop sequencing and bioinformatics methods to study cellular and extracellular transcriptome of **coding and noncoding RNAs (ncRNAs)** for varous immune cells of patients at the single-cell level and multi-molecular level. 
 
@@ -119,7 +119,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-### B. RNA-Talk
+### B. RNA-Talk (AI-Driven RNA Modeling & Drug Design)
 
 “**RNA**, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story) Based on new AI technologies and RNA modeling (RNA-Talk models), we start to discover and understand various molecular interactions and biological regulation network based on RNAs.
 
