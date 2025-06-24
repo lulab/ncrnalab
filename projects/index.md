@@ -66,7 +66,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-#### A1. [cfRNA] Cell-free RNA (cfRNA) Study for Disease Diagnosis {#cfRNA}
+#### A1. [cfRNA] Cell-free RNA (cfRNA) as Disease Biomarker {#cfRNA}
 
 ***cell-free RNAs (cfRNAs).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
@@ -99,7 +99,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 </div>
 
 
-#### A2. [ncRNA] Noncoding RNA Study in Immune System {#ncRNA}
+#### A2. [ncRNA] Noncoding RNA as Immune Regulator {#ncRNA}
 
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from the metatranscriptome of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
