@@ -66,7 +66,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-#### A1. Cell-free RNA (cfRNA) Study in Cancer {#cfRNA}
+#### A1. [cfRNA] Cell-free RNA (cfRNA) Study for Disease Diagnosis {#cfRNA}
 
 ***cell-free RNAs (cfRNAs).*** The cfRNA content in clinical plasma samples is very low and fragmented. Therefore, it is necessary to solve the problems of low signal-to-noise ratio and high cost of sequencing data. We apply technologies such as TSO, early barcoding, UMI, and CRISPR-Cas9 to develop novel cfRNA-seq technologies that reduce the cost of high-throughput sequencing, and improve the signal-to-noise ratio of sequencing data.
 
@@ -99,7 +99,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 </div>
 
 
-#### A2. Noncoding RNA Study in Immune System {#ncRNA}
+#### A2. [ncRNA] Noncoding RNA Study in Immune System {#ncRNA}
 
 ***Discoverying novel noncoding RNAs.*** With the advancement of sequencing technology, especially the development and maturity of sequencing technology at the single-cell and single-molecule level, we have the ability to discover new noncoding RNAs from more species, more tissues, and more cell types. For example, we can discover and study new noncoding RNAs under different environments and conditions from the metatranscriptome of diverse microbial communities. These studies will not only expand our understanding of the diversity of life, but may also reveal new biological mechanisms cross-species.
 
@@ -132,7 +132,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 </div>
 
 
-#### B1. RNA Regulation Network (trans-pair)
+#### B1. [RNA-Target] RNA Interaction & Regulation Network (trans-pair)
 
 ***RNA-RNA interaction (trans-pair)*** (RNA targeting RNA) plays a crucial role in various biological processes, including gene regulation, RNA processing, and viral replication. Predicting RNA-RNA interactions involves identifying and characterizing the binding sites between two RNA molecules, which can provide insights into their functional relationships and regulatory mechanisms. It's important to note that predicting RNA-RNA interactions remains a challenging problem due to the complexity of RNA structures, the vast sequence space, and the limited availability of experimentally validated interaction data. Therefore, the accuracy of predictions can vary depending on the specific method used and the quality of input data. We develop and refine computational approaches for predicting RNA-RNA interactions, aiming to improve the understanding of RNA biology and facilitate the discovery of new therapeutic targets and RNA-based regulatory mechanisms.
 
@@ -140,7 +140,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-#### B2. RNA Structure Prediction & Design (cis-pair)
+#### B2. [RNA-Structure] RNA Structure Prediction & Enzyme Design (cis-pair)
 
 **_RNA structure prediction (cis-pair)._**  We develop structure prediction models and algorithms for RNA. The accurate prediction of RNA structure will help us better understand its regulation and function, thus improving RNA-based enzyme and vaccince design. For instance, mRNA, as well as other RNAs like circular RNA, can be used as RNA vaccines. In the design of RNA vaccines, the design of RNA structure, codons and modifications are very important research directions. Improving the stability of RNA in storage and transportation, and the effectiveness and targeting of delivery to cells and the human body are very important and cutting-edge research directions.
 
@@ -157,7 +157,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 **_RNA Design:_**  不同领域的新方法和新思维的引入，往往能带来本学科的突破性进展，所以我们尤其注意将最新的计算领域的新技术和新思维（例如基于大语言模型的**新型 AI 技术**）引入到生物数据的研究上。我们针对RNA，尤其是 **非编码 RNA** (**ncRNA**），的结构、调控和靶标等问题，开发新型的核酸模型。最终，这些新型的模型将会带领我们进入一个崭新思维的**酶设计和药物设计**的新时代。
 
-#### B3. RNA Drug Design
+#### B3. [RNA-Drug] Drug Design Targeting RNA
 
 **_siRNA design._** Small interfering RNA (siRNA) has become a widely used experimental approach for post-transcriptional regulation and is increasingly showing its potential as future targeted drugs. However, the prediction of highly efficient siRNAs is still hindered by dataset biases, the inadequacy of prediction methods, and the presence of off-target effects. To overcome these limitations, we develop novel AI approaches for the prediction and design of efficient siRNA.
 

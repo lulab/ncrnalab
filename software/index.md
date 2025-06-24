@@ -107,7 +107,7 @@ CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and no
 ## B. RNA-Talk
 
 
-### B1. RNA Regulation Network (trans-pair)
+### B1. RNA-Target (trans-pair)
 
 [**RBPgroup**](http://RNAtarget.ncrnalab.org/RBPgroup)
 
@@ -138,7 +138,7 @@ Website: http://CLIPdb.ncRNAlab.org (moved into POSTAR)
 CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize the regulatory networks between RNA binding proteins (RBPs) and various RNA transcript classes by integrating large amounts of CLIP-seq (including HITS-CLIP, PAR-CLIP and iCLIP as variantions) data sets.
 
 
-### B2. RNA Structure Prediction and Design (cis-pair)
+### B2. RNA-Structure (cis-pair)
 
 **RNAex Server** (*deprecated*)
 
@@ -155,7 +155,7 @@ Github: [https://github.com/lulab/RME](https://github.com/lulab/RME)
 RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
 
 
-### B3. RNA Drug Design
+### B3. RNA-Drug
 
 **RNAsmol**
 
