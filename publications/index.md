@@ -18,7 +18,7 @@ title: Publications
 
 * Hongli Ma, Letian Gao, Yunfan Jin, Jianwei Ma, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\* and **Zhi John Lu**\*  (2025)  **RNA–ligand interaction scoring via data perturbation and augmentation modeling**. *Nature Computational Science* 10.1038/s43588-025-00820-x (\*co-corresponding authors) 
 
-   [View Detail](https://www.nature.com/articles/s43588-025-00820-x) 
+   [View Detail](https://www.nature.com/articles/s43588-025-00820-x)  \|  [Free Full-text PDF](https://rdcu.be/etaiM)  (view-only)
 
 
 * Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) **Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential.** *Genome Biology* 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
