@@ -9,10 +9,10 @@ title:  Representative Publications
 {:toc}
 
 
-
 <div align="middle">
-<img src="../projects/projects321.webp" style="zoom:20%;" />
+<img src="../projects/projects.webp" style="zoom:20%;" />
 </div>
+
 
 > [Full list of publications](./index.md)
 > 
@@ -21,31 +21,12 @@ title:  Representative Publications
 ---
 
 
-## III. RNA-Drug
-
-### III.1 Small molecule drug targeting RNA
-
-- Hongli Ma, Letian Gao, Yunfan Jin, Jianwei Ma, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\* and **Zhi John Lu**\*. (2025) RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** 10.1038/s43588-025-00820-x (\*co-corresponding authors)  Github: https://github.com/lulab/RNAsmol
-- Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) A comprehensive evaluation of connectivity methods for L1000 data. **Briefings in Bioinformatics** bbz129 (<sup>1</sup>contributed equally) (IF: 11.62)
-- Tan X, Hu L<sup>2</sup>, Luquette LJ, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**<sup>2</sup>, Park PJ & Elledge SJ. (2012) Systematic Identification of Synergistic Drug Pairs Targeting HIV. **Nature Biotech.** 30:1125-1130 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 54.36)
 
 
-### III.2 Small RNA drug targeting RNA
-
-- [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
-- Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
-- \[**Server**\] **Lu ZJ** and Mathews DH (2008)  OligoWalk: an online siRNA design tool utilizing hybridization thermodynamics.   **Nucleic Acids Research**  36:W104-W108. (IF: 19.16) website: [*OligoWalk*](https://rna.urmc.rochester.edu/cgi-bin/server_exe/oligowalk/oligowalk_form.cgi)
-- **\[Algorithm\] Lu ZJ** and Mathews DH (2008) Efficient siRNA selection using hybridization thermodynamics. **Nucleic Acids Research** 36:640-647. (IF: 19.16) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
-- **[Biophysical Model]** **Lu ZJ** and Mathews DH (2008) Fundamental differences in the equilibrium considerations for siRNA and antisense oligodeoxynucleotide design. **Nucleic Acids Research** 36:3738-3745. (IF: 19.16)
+## A. [RNA-Finder] Bioinfo-Driven Precision Medicine
 
 
-
-
-
-## II. RNA-Finder
-
-
-### II.1. (Cell-free) RNA Biomarker
+### A1. (Cell-free) RNA Biomarker
 
 - Pengfei Bao<sup>1</sup>, Taiwei Wang<sup>1</sup>, Xiaofan Liu<sup>1</sup>, Shaozhen Xing, Hanjin Ruan, Hongli Ma, Yuhuan Tao, Qing Zhan, Efres Belmonte-Reche, Lizheng Qin, Zhengxue Han, Minghui Mao\*, Mengtao Li\* & **Zhi John Lu**\* (2025) Peak analysis of cell-free RNA finds recurrently protected narrow regions with clinical potential. **Genome Biology** 26, 119 (<sup>1</sup>contributed equally, \*co-corresponding authors)  Github: https://github.com/lulab/cfPeak
 - Hongke Wang<sup>1</sup>, Qing Zhan<sup>1</sup>, Meng Ning<sup>1</sup>, Hongjie Guo<sup>1</sup>, Qian Wang, Jiuliang Zhao, Pengfei Bao, Shaozhen Xing, Shanwen Chen, Shuai Zuo, Xuefeng Xia, Mengtao Li\*, Pengyuan Wang\*, **Zhi John Lu**\* (2024) Depletion-assisted multiplexed cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicles **Clinical and Translational Medicine** 14:e1760 (<sup>1</sup>contributed equally, \*co-corresponding authors) 
@@ -61,7 +42,7 @@ title:  Representative Publications
 - Yang Yang<sup>1</sup>, Lei Chen<sup>1</sup>, Jin Gu<sup>1</sup>, Hanshuo Zhang<sup>1</sup>, …, Hongyang Wang\*, Michael Q. Zhang\* and **Zhi John Lu\*** (2017) Recurrently deregulated lncRNAs in hepatocellular carcinoma.**Nature Communications** 8, 14421 (<sup>1</sup>contributed equally, \*co-corresponding authors) (IF: 17.69)
 
 
-### II.2. Method
+### A2. ncRNA Method
 
 - Yu-Xiang Chen1, Zhi-yu Xu1, Xueliang Ge, Suparna Sanyal, **Zhi John Lu\*** and Babak Javid* (2020) Selective translation by alternative bacterial ribosomes. **PNAS** 117(32):19487-19496 (1contributed equally, *co-corresponding authors) (IF: 12.78)
 - \[**Algorithm V3**\] Zhiyu Xu1, Long Hu1, Binbin Shi, SiSi Geng, Longchen Xu, Dong Wang* & **Zhi John Lu\*** (2018) Ribosome elongating footprints denoised by wavelet transform comprehensively characterize dynamic cellular translation events. **Nucleic Acids Research** 46 (18), e109-e109 (IF: 19.16) Github: https://github.com/lulab/Ribowave
@@ -76,11 +57,11 @@ title:  Representative Publications
 
 
 
-## I. RNA-Talk
+## B. [RNA-Talk] AI-Driven RNA Modeling & Drug Design
 
-### I.1. RNA Regulation Network 
+### B1. RNA Interaction (trans-pair) and Regulation Network 
 
-#### RNA-RNA (Trans-pair)
+#### RNA-RNA (trans-pair)
 
 - [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
 - Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
@@ -98,7 +79,7 @@ title:  Representative Publications
 - **[Database V1]** Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu\*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **Nucleic Acids Research** 45 (D1): D104-D114 (1contributed equally) (IF: 19.16) Website: http://POSTAR.ncRNAlab.org
 
 
-### I.2. RNA Structure (Cis-pair)
+### B2. RNA Structure (cis-pair) Prediction & Enzyme Design
 
 - **[Server]** Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research** 44 (W1): W294-W301 (<sup>1</sup>contributed equally) (IF: 19.16)
 - **[Algorithm]** Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **Nucleic Acids Research** 43(15): 7247-59. (<sup>1</sup>contributed equally) (IF: 19.16) Github: https://github.com/lulab/RME
@@ -106,8 +87,21 @@ title:  Representative Publications
 - **[Biophysical Model]** **Lu ZJ**, Turner DH and Mathews DH (2006) A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation. **Nucleic Acids Research** 34:4912-4924. (IF: 19.16)
 
 
+### B3. Drug Design Targeting RNA
+
+#### Small RNA drug targeting RNA
+
+- [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
+- Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
+- \[**Server**\] **Lu ZJ** and Mathews DH (2008)  OligoWalk: an online siRNA design tool utilizing hybridization thermodynamics.   **Nucleic Acids Research**  36:W104-W108. (IF: 19.16) website: [*OligoWalk*](https://rna.urmc.rochester.edu/cgi-bin/server_exe/oligowalk/oligowalk_form.cgi)
+- **\[Algorithm\] Lu ZJ** and Mathews DH (2008) Efficient siRNA selection using hybridization thermodynamics. **Nucleic Acids Research** 36:640-647. (IF: 19.16) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
+- **[Biophysical Model]** **Lu ZJ** and Mathews DH (2008) Fundamental differences in the equilibrium considerations for siRNA and antisense oligodeoxynucleotide design. **Nucleic Acids Research** 36:3738-3745. (IF: 19.16)
 
 
 
+#### Small molecule drug targeting RNA
 
+- Hongli Ma, Letian Gao, Yunfan Jin, Jianwei Ma, Yilan Bai, Xiaofan Liu, Pengfei Bao, Ke Liu, Zhenjiang Zech Xu\* and **Zhi John Lu**\*. (2025) RNA–ligand interaction scoring via data perturbation and augmentation modeling. **Nature Computational Science** 10.1038/s43588-025-00820-x (\*co-corresponding authors) 
+- Kequan Lin<sup>1</sup>, Lu Li<sup>1</sup>, Yifei Dai, Huili Wang, Shuaishuai Teng, Xilinqiqige Bao, **Zhi John Lu**\* and Dong Wang\* (2019) A comprehensive evaluation of connectivity methods for L1000 data. **Briefings in Bioinformatics** bbz129 (<sup>1</sup>contributed equally) (IF: 11.62)
+- Tan X, Hu L<sup>2</sup>, Luquette LJ, Gao G, Liu YF2, Qu HJ, Xi RB, **Lu ZJ**<sup>2</sup>, Park PJ & Elledge SJ. (2012) Systematic Identification of Synergistic Drug Pairs Targeting HIV. **Nature Biotech.** 30:1125-1130 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 54.36)
 
