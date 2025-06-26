@@ -9,6 +9,8 @@ title: Publications
 {:toc}
 
 > [Representative Publications](./pub.md)
+>
+> [代表性文章中文解读](../news/#news)
 
 ---
 

@@ -15,8 +15,10 @@ title:  Representative Publications
 
 
 > [Full list of publications](./index.md)
-> 
+>
 > [Software](../software/index.md)
+>
+> [代表性文章中文解读](../news/#news)
 
 ---
 
