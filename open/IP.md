@@ -30,5 +30,5 @@ description: 清华大学・鲁志实验室
 
 1. RNA-protein 结合及调控**数据库** **POSTAR**（**软件著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b; 2019; 2022)
 2. 小RNA药物 AI 设计软件 **OligoFormer** (**软件著作权号：2024SR0808920**) (*Bioinformatics* 2024b)
-3. 小分子药物 AI 设计软件 **RNAsmol** (**软件著作权号：2025R11S1067114**) (*Nature Comput. Sci.* 2025)
+3. 小分子药物 AI 设计软件 **RNAsmol** (**软件著作权号：2025SR1112526**) (*Nature Comput. Sci.* 2025)
 
