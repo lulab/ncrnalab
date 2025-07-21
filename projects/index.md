@@ -121,9 +121,13 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 ### B. RNA-Talk (AI-Driven RNA Modeling & Drug Design)
 
-“**RNA**, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story) Based on new AI technologies and RNA modeling (RNA-Talk models), we start to discover and understand various molecular interactions and biological regulation network based on RNAs.
+“**RNA**, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story).  
 
-“RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）我们利用最新的人工智能技术开发各类核酸模型（尤其是语言模型 RNA-Talk），去理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
+Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tokenize information at sequence and/or structural levels, we discover and decipher the various molecular interactions and biological regulatory networks mediated by RNA.
+
+“RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）
+
+我们利用最新的人工智能技术从“序列”和“结构”两个不同的表征层面开发各类核酸模型（ RNA-Talk），去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
 
 
 
