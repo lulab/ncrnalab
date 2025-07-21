@@ -149,7 +149,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-#### B2-1. [RNA-Structure] RNA Structure & Enzyme Design
+#### B2-1. [RNA-Structure] Ribozyme Design
 
 **RNA modeling based on STRUCTURE**
 
@@ -178,7 +178,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-#### B2-2. [RNA-Structure] Drug Design Targeting RNA
+#### B2-2. [RNA-Structure] Drug Design
 
 **RNA modeling based on STRUCTURE**
 
