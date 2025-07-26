@@ -106,8 +106,17 @@ CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and no
 
 ## B. RNA-Talk
 
+### B1. [RNA-Seq] RNA Interaction & Regulation
 
-### B1. RNA-Target (trans-pair)
+**OligoFormer** 
+
+>  Yilan Bai  et al. *Bioinformatics* (2024)
+
+AI model designing **small RNA drug** targeting RNA. 
+
+Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
+
+
 
 [**RBPgroup**](http://RNAtarget.ncrnalab.org/RBPgroup)
 
@@ -116,6 +125,8 @@ CCG, Catalogue of Cancer Genes/lncRNAs, is an assembly resource of coding and no
 Github: [https://github.com/lulab/RBPgroup](https://github.com/lulab/RBPgroup)
 
 RBPgroup is a soft-clustering method on various CLIP-seq datasets, in order to group together RBPs that specifically bind the same RNA sites. Our approach links proteins and RNA motifs known to possess similar biochemical and cellular properties and can, when used in conjunction with additional experimental data, identify high- confidence RBP groups and their associated RNA regulatory elements.
+
+
 
 [**V1-3. POSTAR Database**](https://POSTAR.ncRNAlab.org)
 
@@ -138,7 +149,7 @@ Website: http://CLIPdb.ncRNAlab.org (moved into POSTAR)
 CLIPdb is an integrative resource of CLIP-seq studies. It aims to characterize the regulatory networks between RNA binding proteins (RBPs) and various RNA transcript classes by integrating large amounts of CLIP-seq (including HITS-CLIP, PAR-CLIP and iCLIP as variantions) data sets.
 
 
-### B2. RNA-Structure (cis-pair)
+### B2-1. [RNA-Structure] Structure Prediction
 
 **RNAex Server** (*deprecated*)
 
@@ -155,7 +166,7 @@ Github: [https://github.com/lulab/RME](https://github.com/lulab/RME)
 RME is a tool for RNA secondary structure prediction with multiple types of experimental probing data. It is based on the [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) package. It also provides preprocessing scripts for transforming the SHAPE, PARS and DMS-seq data into pairing probability according a posterior probabilistic model. Moreover, it also contains a utility for optimizing the parameters of RME by RME-Optimize.
 
 
-### B3. RNA-Drug
+### B2-2. [RNA-Structure] Drug Design
 
 **RNAsmol**
 
@@ -167,13 +178,7 @@ Github: [https://github.com/lulab/rnasmol](https://github.com/lulab/rnasmol)
 
 
 
-**OligoFormer** 
 
->  Yilan Bai  et al. *Bioinformatics* (2024)
-
-AI model designing **small RNA drug** targeting RNA. 
-
-Github: [https://github.com/lulab/oligoformer](https://github.com/lulab/oligoformer)
 
 
 

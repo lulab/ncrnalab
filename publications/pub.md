@@ -61,15 +61,17 @@ title:  Representative Publications
 
 ## B. [RNA-Talk] AI-Driven RNA Modeling & Drug Design
 
-### B1. RNA Interaction (trans-pair) and Regulation Network 
+### B1. [RNA-Seq] RNA Interaction & Regulation
 
-#### RNA-RNA (trans-pair)
+#### RNA-siRNA
 
 - [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
 - Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
 - \[**Server**\] **Lu ZJ** and Mathews DH (2008)  OligoWalk: an online siRNA design tool utilizing hybridization thermodynamics.   **Nucleic Acids Research**  36:W104-W108. (IF: 19.16) website: [*OligoWalk*](https://rna.urmc.rochester.edu/cgi-bin/server_exe/oligowalk/oligowalk_form.cgi)
 - **\[Algorithm\] Lu ZJ** and Mathews DH (2008) Efficient siRNA selection using hybridization thermodynamics. **Nucleic Acids Research** 36:640-647. (IF: 19.16) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
 - **[Biophysical Model]** **Lu ZJ** and Mathews DH (2008) Fundamental differences in the equilibrium considerations for siRNA and antisense oligodeoxynucleotide design. **Nucleic Acids Research** 36:3738-3745. (IF: 19.16)
+
+
 
 
 #### RNA-Protein (POSTAR/CLIPdb)
@@ -81,7 +83,7 @@ title:  Representative Publications
 - **[Database V1]** Boqin Hu<sup>1</sup>, Yu-Cheng T. Yang<sup>1</sup>, Yiming Huang, Yumin Zhu and **Zhi John Lu\*** (2017) POSTAR: a platform of post-transcriptional regulation coordinated by RNA binding proteins. **Nucleic Acids Research** 45 (D1): D104-D114 (1contributed equally) (IF: 19.16) Website: http://POSTAR.ncRNAlab.org
 
 
-### B2. RNA Structure (cis-pair) Prediction & Enzyme Design
+### B2-1. [RNA-Structure] Ribozyme Design
 
 - **[Server]** Yang Wu<sup>1</sup>, Rihao Qu<sup>1</sup>, Yiming Huang<sup>1</sup>, Binbin Shi, Mengrong Liu, Yang Li and **Zhi John Lu\*** (2016) RNAex: an RNA secondary structure prediction server enhanced by high-throughput structure probing data. **Nucleic Acids Research** 44 (W1): W294-W301 (<sup>1</sup>contributed equally) (IF: 19.16)
 - **[Algorithm]** Yang Wu<sup>1</sup>, Binbin Shi<sup>1</sup>, Xinqiang Ding, Tong Liu, Xihao Hu, Kevin Y. Yip, Zheng Rong Yang, David H. Mathews and **Zhi John Lu\*** (2015) Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data. **Nucleic Acids Research** 43(15): 7247-59. (<sup>1</sup>contributed equally) (IF: 19.16) Github: https://github.com/lulab/RME
@@ -89,16 +91,7 @@ title:  Representative Publications
 - **[Biophysical Model]** **Lu ZJ**, Turner DH and Mathews DH (2006) A set of nearest neighbor parameters for predicting the enthalpy change of RNA secondary structure formation. **Nucleic Acids Research** 34:4912-4924. (IF: 19.16)
 
 
-### B3. Drug Design Targeting RNA
-
-#### Small RNA drug targeting RNA
-
-- [**Language Model**] Yilan Bai, Haochen Zhong, Taiwei Wang, **Zhi John Lu** (2024) OligoFormer: An accurate and robust prediction method for siRNA design. **Bioinformatics** 40 (10), btae577. software: [*OligoFormer*](https://github.com/lulab/OligoFormer)
-- Tan X, **Lu ZJ <sup>2</sup>**, Gao G, Xu QK, Hu L2, Fellmann C, Li MZ, Qu HJ, Lowe SW, Hannon GJ & Elledge SJ. (2012) Tiling genomes of pathogenic viruses identifies potent antiviral shRNAs and reveals a role for secondary structure in shRNA efficacy. **PNAS**, 109(3): 869-74 (<sup>2</sup>Lu Lab, School of Life Sciences, Tsinghua University) (IF: 12.78)
-- \[**Server**\] **Lu ZJ** and Mathews DH (2008)  OligoWalk: an online siRNA design tool utilizing hybridization thermodynamics.   **Nucleic Acids Research**  36:W104-W108. (IF: 19.16) website: [*OligoWalk*](https://rna.urmc.rochester.edu/cgi-bin/server_exe/oligowalk/oligowalk_form.cgi)
-- **\[Algorithm\] Lu ZJ** and Mathews DH (2008) Efficient siRNA selection using hybridization thermodynamics. **Nucleic Acids Research** 36:640-647. (IF: 19.16) software: [*RNAstructure*](https://rna.urmc.rochester.edu/RNAstructure.html)
-- **[Biophysical Model]** **Lu ZJ** and Mathews DH (2008) Fundamental differences in the equilibrium considerations for siRNA and antisense oligodeoxynucleotide design. **Nucleic Acids Research** 36:3738-3745. (IF: 19.16)
-
+### B2-2. [RNA-Structure] Drug Design
 
 
 #### Small molecule drug targeting RNA
