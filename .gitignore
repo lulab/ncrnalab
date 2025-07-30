@@ -1,4 +1,3 @@
-_site
 
 # Windows image file caches
 Thumbs.db
@@ -35,3 +34,16 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+
+# Build output (if applicable, adjust for your specific build tool)
+_site/
+dist/
+build/
+
+# Sensitive or temporary files
+*.env
+*.key
+temp/
+
+
