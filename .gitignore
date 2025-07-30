@@ -37,7 +37,7 @@ Icon
 
 
 # Build output (if applicable, adjust for your specific build tool)
-#_site/
+_site/
 dist/
 build/
 
