@@ -85,10 +85,12 @@ We apply the above methods to precision medicine, focusing on two types of disea
 ***RNA regulation in immune system:*** RNA不仅在转录时被动态调控，而且在被转录后也会有着非常复杂而精细的调控工程，例如剪接，修饰，细胞定位，编辑，加尾，降解等等。而这些又和RNA自身的结构以及识别RNA序列和结构的蛋白息息相关。同时，RNA，尤其是非编码 RNA (ncRNA)，还会调控其他大分子，从而在人体对病毒的免疫应答以及癌症免疫等重要生命过程中发挥作用。我们在**癌症、自身免疫**等复杂性疾病中探索这些复杂的调控过程，并应用于免疫治疗。
 
 <div align="middle">
-<img src="dsRNA.webp" style="zoom:30%;" />
+<img src="dsRNA.webp" style="zoom:50%;" />
 <br>
-<small>dsRNA sensors and their signalling (Chen & Hur, Nature Reviews 2022).</small>
+<small>Different types of dsRNAs in immune response</small>
 </div>
+
+
 
 
 
