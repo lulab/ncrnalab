@@ -185,36 +185,6 @@ description: Collaborate with us !
 
 <div style="page-break-after: always;"></div>
 
-## 相关专利
-
-**相关专利**
-
-1. 痕量RNA捕获和测序技术i-SMART (**专利号：201810607652X**）(*Briefings in Bioinformatics* 2018; *Cell Research* 2020)
-2. 针对肝癌早期检测和复发监测的一个新型非编码exRNA标志物（**专利号:201811009464.3**）(*Nature Comminications* 2017; *Clinical Chemistry* 2019)
-3. 一种用于肝细胞癌早期筛查和复发监测的3-ncRNA系统 (**专利号：202010927225.7**)（*Theranostics* 2021)
-4. 体液样本中鉴定新型exRNA生物标志物的试剂盒及配套机器学习算法 (**专利申请号：202010618721.4**)（*Nuc. Acid Res.* 2024)
-5. 痕量RNA捕获和测序技术DETECTOR-seq (**专利申请号：202210579444.X**) (*elife* 2022, *Cell Rep. Med.* 2023, *Clinic. & Tranl. Med.* 2024)
-
-<div align="middle">
-<img src="image/patent.jpg" alt="主要专利" style="zoom:30%;" />
-</div>
-<br/>
-
-<div style="page-break-after: always;"></div>
-
-
-
-## 技术成果相关报道
-
-2024.08. | [鲁志/王鹏远/李梦涛团队开发cfRNA测序新技术并解析血浆和EV转录组特征](https://mp.weixin.qq.com/s/apxn13alrgxFkf4VQpgQaw)
-2023.11. | [Cell子刊 - 鲁志/王鹏远/卢倩团队合作发表消化道癌症cfDNA+cfRNA多组学研究新成果](https://mp.weixin.qq.com/s/gJjIjBX-cSFR1-aWToKZ4g)
-2022.07. | [王鹏远/鲁志/徐振江团队合作发表泛癌早诊研究新成果](https://mp.weixin.qq.com/s/sbM2M_uZhuUXttdumdBCJQ)
-2020.11. | [清华大学鲁志、海军军医大学殷建华和国家肝癌科学中心陈磊课题组揭示针对肝癌AFP阴性诊断和早期诊断的血液非编码RNA标志物](https://www.seqchina.cn/13047.html)
-2019.12. | [“披着羊皮的狼”——癌症转移的新面纱 - 清华大学王栋、鲁志Cell Res发文揭示肿瘤转移新模型](https://www.seqchina.cn/11102.html)
-2019.5. | [清华大学鲁志研究团队与天津、上海研究团队联合发布液体活检新成果！多种非编码RNA结构域或可作为稳定的肝癌无创诊断标志物](https://www.seqchina.cn/9578.html)
-2017.3. | [清华大学，东方肝胆医院发表Nature子刊解析与癌症有关的lncRNA](https://www.ebiotrade.com/newsf/2017-2/2017228174413583.htm)
-2016.11. | [利用生物信息学发现基因组暗物质– 清华大学鲁志实验室非编码RNA软件系列介绍](https://m.sohu.com/n/472285488/)
-
 
 
 
@@ -276,16 +246,20 @@ Small interfering RNA (siRNA) are widely used to infer gene function. Here, insi
 
 
 
-## 相关专利和软件著作权
-
-1. 基于机器学习的生物信息方法 **RNAfinder**（**专利号：201610806928.8**）(*Science* 2010; *Genome Res.* 2011; *Nucleic Acids Res.* 2015;2017a;2018)
-2. RNA-protein 结合及调控**数据库** **POSTAR**（**软件著作权号：2016R11S367236**）(*Genome Biology* 2017; *Nucleic Acids Res.* 2017b; 2019; 2022)
-3. 多组学 AI整合方法 **PathFormer** (**软件著作权号：2023SR0985659**) (*Bioinformatics* 2024a)
-4. siRNA AI 设计软件 **OligoFormer** (**软件著作权号：2024SR0808920**) (*Bioinformatics* 2024b)
-
 <br/><br/><br/><br/><br/>
 
 ---
+
+# 相关专利
+
+* [IP & Copyright](./IP.md)
+
+
+# 技术成果相关报道
+
+* [News](../news/#news)
+
+
 
 # 联系方式
 

@@ -22,8 +22,9 @@ description: Lu Lab @ Tsinghua
 
 ---
 
-## News 相关报道
+## News 相关报道 {#news}
 
+* **2025.06.**  [Nat Comput Sci \| 鲁志/徐振江团队发表人工智能模型RNAsmol预测靶向RNA的小分子药物](https://mp.weixin.qq.com/s/FfyHudlrZtfMI8gK-j120Q)
 * **2025.05.**  [Genome Biol  \| 鲁志/李梦涛等团队合作发表针对cfRNA片段组学分析新方法，助力多种疾病的无创诊断](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650281509&idx=1&sn=e68ae6920b2212f4e3abfe44ceedaa66&chksm=8995e49554171554614789f28990bb77de15dfe4915316a2cc1b10109c80dab01d7e91fe1166&scene=126&sessionid=0#rd)
 * **2024.08.**  [Clinical & Trans. Med. \| 鲁志/王鹏远/李梦涛团队开发cfRNA测序新技术并解析血浆和EV转录组特征](https://mp.weixin.qq.com/s/apxn13alrgxFkf4VQpgQaw)
 * **2023.11.**  [Cell Rep Med \| 鲁志/王鹏远/卢倩团队合作发表消化道癌症cfDNA+cfRNA多组学研究新成果](https://mp.weixin.qq.com/s/gJjIjBX-cSFR1-aWToKZ4g)
