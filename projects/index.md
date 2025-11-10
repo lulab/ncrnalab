@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://lulab.life.tsinghua.edu.cn/docs/proj/proj"
+redirect_to: "http://lulab.github.io/mkdocs/proj/proj"
 ---
