@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://lulab.life.tsinghua.edu.cn/docs/courses"
+redirect_to: "https://www.ncrnalab.org/docs/courses"
 ---
