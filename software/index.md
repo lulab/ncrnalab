@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://mkdocs.ncrnalab.org/pub/software/"
+redirect_to: "http://lulab.github.io/mkdocs/pub/software"
 ---
