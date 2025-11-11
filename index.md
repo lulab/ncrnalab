@@ -1,3 +1,3 @@
 ---
-redirect_to: "home/"
+redirect_to: "/ncrnalab/home/"
 ---
