@@ -1,45 +1,180 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>Welcome to Lu Lab @ Tsinghua</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Lu Lab Homepage</title>
     <style>
-        .container {
-            width: 60%;
-            margin: 10% auto 0;
-            background-color: #f0f0f0;
-            padding: 2% 5%;
-            border-radius: 10px
+        /* --- Basic Reset & Body Styling --- */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
         }
 
-        ul {
-            padding-left: 20px;
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #121212; /* Dark background */
+            color: #e0e0e0; /* Light text */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
         }
 
-            ul li {
-                line-height: 2.3
+        /* --- Main Container --- */
+        .redirect-container {
+            text-align: center;
+            padding: 40px;
+            background-color: #1e1e1e;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            max-width: 450px; /* Slightly wider for links */
+            width: 90%;
+            /* Fade-in animation */
+            animation: fadeIn 0.8s ease-in-out;
+        }
+
+        /* --- Animated Spinner --- */
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #333; /* Dark ring */
+            border-top: 4px solid #00aaff; /* Bright blue accent */
+            border-radius: 50%;
+            margin: 0 auto 20px auto;
+            animation: spin 1s linear infinite;
+        }
+
+        /* --- Text Styling --- */
+        h3 {
+            font-size: 1.5em;
+            font-weight: 300;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+
+        p {
+            font-size: 1em;
+            color: #b0b0b0;
+            line-height: 1.6;
+        }
+
+        /* --- Manual Link Styling --- */
+        .manual-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #00aaff;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 500;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .manual-link:hover {
+            background-color: #0088cc;
+            transform: translateY(-2px);
+        }
+
+        /* --- NEW: Additional Links Section --- */
+        .additional-links {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #333; /* Separator line */
+        }
+
+        .additional-links h2 {
+            font-size: 1.1em;
+            font-weight: 400;
+            color: #cccccc;
+            margin-bottom: 15px;
+        }
+
+        .link-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .link-list li {
+            margin-bottom: 10px;
+        }
+
+        .link-list a {
+            color: #00aaff;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease, text-decoration 0.3s ease;
+        }
+
+        .link-list a:hover {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+
+        /* --- Animations --- */
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
             }
-
-        a {
-            color: #20a53a
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
     </style>
-
-    <meta http-equiv="refresh" content="30; URL=http://www.ncRNAlab.org/home" />
 </head>
 <body>
- <div class="container">
-        <h1>Welcome to Lu Lab @ Tsinghua</h1>
-        <h2>International site:</h2> 
-        <a href="http://www.ncRNAlab.org/home">http://www.ncRNAlab.org/home</a> <br>
+        
+    <div class="redirect-container">
+      <h1>Welcome to Lu Lab Homepage.</h1>  
+        <h3>Redirecting you...</h3>
+        <div class="spinner"></div>
+        <p>Please wait half minute while we take you to our <b><u>international site</u></b> hosted by github page.</p>
+        <a href="https://www.ncRNAlab.org" class="manual-link">Go Now</a>
 
-        <hr>
+        <!-- NEW: Additional Links Section -->
+        <div class="additional-links">
+            <h2>Or, click this link if you are inside Tsinghua campus:</h2>
+            <ul class="link-list">
+                <li><a href="http://lulab.life.tsinghua.edu.cn" target="_blank">Go to the Mirror site</a></li>hosted at <b></u>Tsinghua, China</u></b>
+            </ul>
+        </div>
+    </div>
 
-        <h2>Mirror site @ Tsinghua, China:</h2> 
-        <a href="http://lulab.life.tsinghua.edu.cn">http://lulab.life.tsinghua.edu.cn</a> <br>
- 
- </div>
+    <script>
+        // --- REDIRECT LOGIC ---
+        // Set the URL you want to redirect to here.
+        const destinationUrl = 'https://www.ncRNAlab.org';
+
+        // Set the delay in milliseconds (e.g., 30000ms = 30 seconds).
+        const redirectDelay = 30000;
+
+        // Function to perform the redirect
+        function performRedirect() {
+            window.location.href = destinationUrl;
+        }
+
+        // Set a timer to call the redirect function after the delay
+        setTimeout(performRedirect, redirectDelay);
+
+        // --- OPTIONAL: Update the manual link's href dynamically ---
+        // This ensures the link always points to the correct destination URL.
+        document.addEventListener('DOMContentLoaded', () => {
+            const manualLink = document.querySelector('.manual-link');
+            if (manualLink) {
+                manualLink.setAttribute('href', destinationUrl);
+            }
+        });
+    </script>
 
 </body>
 </html>
-
