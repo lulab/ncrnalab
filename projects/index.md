@@ -7,20 +7,16 @@ description: Projects @ Lu Lab
 * TOC
 {:toc}
 
-## Background Introduction
+## Background/Introduction
 
 About 20 thousand protein-coding genes in human were transcribed and tranlsated from only ~1.5% of human genome sequence. On the other hand, ~70% or more of the human genome  are transcribed into RNAs. Many of them are **noncoding RNAs** (**ncRNAs**), which are not well studied yet.
 
 “By 2020 the ENCODE project said it had identified around 37,600 noncoding genes—that is, DNA stretches with instructions for RNA molecules that do not code for proteins. That is almost twice as many as there are protein-coding genes. Other tallies vary widely, from around 18,000 to close to 96,000. … In a 2024 commentary for the journal *Science*, the duo described these findings as part of an <u>RNA revolution</u>. … they undercut the way we think our biology works. Ever since the epochal discovery about DNA’s double helix and how it encodes information, the bedrock idea of molecular biology has been that there are precisely encoded instructions that program specific molecules for particular tasks. But **ncRNAs seem to point to a fuzzier, more collective, logic to life**. It is a logic that is harder to discern and harder to understand. But if scientists can learn to live with the fuzziness, this view of life may turn out to be more complete.” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story)
 
-We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
-
 
 人类有大约2万个蛋白编码基因，但其序列的总长度仅占人类基因组总长度的1.5%左右。另一方面，人类基因组序列的~70%甚至更多都会被转录成RNA，它们很多都是非编码的RNA（**noncoding RNA**，**ncRNA**)。但对于为数众多的**非编码RNA** (**ncRNA**)，我们仍然知之甚少。
 
 ”截止2020 年，ENCODE 项目已鉴定出约 37,600 个非编码RNA的基因，这几乎是蛋白质编码基因的两倍。其他统计数据相差很大，从约 18,000 个到接近 96,000 个。... 在 2024 年《科学》杂志的一篇评论中，将这些发现描述为 <u>RNA 革命</u> 的一部分。... 这些非编码RNA动摇了我们对生物学运作方式的理解。自从关于 DNA 双螺旋结构及其如何编码信息的划时代发现以来，分子生物学的基本思想一直是，生物体存在精确编码的指令，这些指令可以对特定分子进行特定任务编程。但**非编码RNA 似乎指向了一种更模糊、更集体的生命逻辑**。这种逻辑更难辨别，更难理解。但如果科学家能够学会适应这种模糊性，这种关于生命的观点可能会更加完整。“ （ [RNA: 掌控生命后台 \| 《环球科学》](https://mp.weixin.qq.com/s/ai_8lNXsluNz4Pu_piGA-g) 2024年7月刊封面文章）
-
-我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
 
 
 ---
@@ -28,14 +24,27 @@ We develop **bioinformatics** technology on **noncoding RNAs** from multiple per
 
 ## Research Projects
 
-**We work on two major research projects centered on noncoding RNA (ncRNA): I. RNA Finder (Bioinfo-Driven Precision Medicine), II. RNA Modeling (AI-Driven RNA Modeling & Drug Design).**
 
-**我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. RNA Finder（生信驱动的精准医疗）；II. RNA Modeling（AI驱动的核酸模型和药物设计）。** 
+“**RNA**, not DNA, is **the computational engine of the cell.**” ( [Revolutionary Genetics Research Shows RNA May Rule Our Genome \| *Scientific American*](https://www.scientificamerican.com/article/revolutionary-genetics-research-shows-rna-may-rule-our-genome/) 2024.7. Cover Story).  
+
+Leveraging new **AI technologies** for **RNA modeling** (i.e., RNA-Talk models) that tokenize information at **sequence** and/or **structure** levels, we discover and decipher the various molecular interactions and biological regulatory networks mediated by RNA.
+
+We develop **bioinformatics** technology on **noncoding RNAs** from multiple perspectives/models of RNA structure and post-transcriptional regulation (e.g., splicing and editing); and explore its practice in the precise diagnosis and treatment of complex diseases. We utilize bioinformatics based on **new AI technologies** and **multi-omics data** to explore novel targets in the form of noncoding RNA in complex diseases such as **cancer and autoimmune diseases**, through cooperation with front-line doctors and experts.  While studying RNA regulation network, some targets can be used as biomarkers for personalized and precise diagnosis and treatment, and some targets can be used as drug targets for drug design through AI. 
+
+“RNA 而不是 DNA 才是**细胞的计算引擎**。” （ [RNA: 掌控生命后台 \| 《环球科学》](https://www.huanqiukexue.com/?p=1121) 2024年7月刊封面文章）
+
+我们利用最新的**人工智能技术**从“**序列**”和“**结构**”两个不同的表征层面开发各类核酸模型，去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
+
+我们围绕**非编码RNA**发展**生物信息学**技术，从结构和转录后调控（例如剪接和编辑）等多个角度、多个模型探讨非编码RNA的调控作用，并探索其在复杂疾病精准诊疗上的具体实践。我们充分发挥生物信息学这一交叉学科优势，利用**最新的AI技术**和**多组学数据**，通过和【北京协和】、【北大一院】、【清华长庚】等一线医生专家的合作，在**癌症、自身免疫疾病**等复杂疾病上探索新的以非编码 RNA 为表现形式的靶标。在研究其免疫调控网络的同时，部分靶标可以应用为个性化精准诊疗时的生物标志物，部分靶标可以做为药物靶点通过AI进行药物设计，在复杂疾病（如癌症和自身免疫疾病）的临床诊断和治疗两个方面实现应用价值。
+
 
 <div align="middle">
 <img src="projects.webp" style="zoom:50%;" />
 </div>
 
+**We work on two major research projects centered on noncoding RNA (ncRNA): I. RNA Finder (Bioinfo-Driven Precision Medicine), II. RNA Modeling (AI-Driven RNA Modeling & Drug Design).**
+
+**我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. RNA Finder（生信驱动的精准医疗）；II. RNA Modeling（AI驱动的核酸模型和药物设计）。** 
 
 
 ### A. RNA Finder (Bioinfo-Driven Precision Medicine)
@@ -92,7 +101,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-
+---
 
 
 #### A2. [**cfRNA**] Cell-free RNA (cfRNA) as Disease Biomarker {#cfRNA}
@@ -128,6 +137,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 </div>
 
 
+---
 
 
 ### B. RNA Modeling (AI-Driven RNA Modeling & Drug Design)
@@ -147,7 +157,7 @@ Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tok
 </div>
 
 
-#### B1. [**RNA-Talk**] RNA Interaction & Regulation
+#### B1. [**RNA-SEQ**] RNA Interaction & Regulation
 
 **RNA modeling based on SEQUENCE**
 
@@ -167,6 +177,8 @@ Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tok
 
 **_siRNA design:_** siRNA已成为一种广泛使用的转录后调控实验方法，并且越来越显示出其作为未来靶向药物的潜力。 然而，高效siRNA的预测仍然受到数据集偏差、预测方法的不足以及脱靶效应的存在的阻碍。为了克服这些限制，我们开发新的人工智能方法来预测和设计高效的siRNA。
 
+
+---
 
 
 #### B2-1. [**RNA-Structure**] Ribozyme Design
@@ -194,7 +206,7 @@ Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tok
 
 
 
-
+---
 
 
 
@@ -215,15 +227,19 @@ Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tok
 **_Small molecule drug design targeting RNA:_** 可作为小分子药物靶标的人类蛋白数量非常有限：在人类的2万个左右的蛋白编码基因（占人类基因组总长度的1.5%左右）中，大约有 10%-15%与疾病直接相关；而在这些基因中，据估计仅有不到 700 个的蛋白产物是可以成药的 （仅占人类基因组总长度的 0.05%左右）。另一方面，人类基因组的~70%甚至更多都会被转录成 RNA，其中大多是**非编码 RNA** (**ncRNA**)。因此，近年开始有越来越多的研究者试图将 RNA 作为药物靶标，并初步证明了这一策略的可行性。尤其值得我们注意的是，新冠病毒就是 RNA 病毒，其基因组本身也有希望被作为药物靶标。此外，利用非编码RNA进行疾病治疗也是一个有前景的研究方向，例如，基于 siRNA 的RNA干扰（RNA interference, RNAi）系统等已经被用于开发新的基因治疗方法。由于 RNA 结构的高度复杂性和可变性，以及实验方法的限制，目前我们对于 RNA 的三维结构的了解仍非常有限，靶向 RNA 的药物研发也处在起步阶段。 我们将充分发挥人工智能的优势，利用深度学习等最新的计算技术整合多方面的信息，设计新药物靶标RNA。
 
 
+---
 
 
+## Funding
 
+* 2024-2027     Precision diagnosis and treatment and innovative therapy research for refractory autoimmune diseases (AIDs), co-PI, National Key Research and Development Program of China
+* 2024-2027     Development of high-throughput analysis  technology of non-coding RNA and its  clinical applicationd, key member, National Key Research and Development Program of China
+* 2024-2027     Bioinformatics study of noncoding RNA omics in precision diagnosis and treatment of autoimmune diseases, PI, National Natural Science Foundation of China
+* 2024-2026     AI-driven drug design targeting RNAs, PI, National Natural Science Foundation of China
+* 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
+* 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
+* 2024-2027     cfRNA-based multi-omics application research in lung cancer screening, PI,  Hefei Comprehensive National Science Center General Health Research Institute "Global Selection" Project 
 
-
-
-
-
-## Funded Projects
 
 * 国家重点研发计划 重点专项，难治性自身免疫病精准诊治与创新疗法研究，2024.12-2027.11 课题组长
 * 国家重点研发计划 重点专项，非编码RNA高通量解析技术与临床应用研发，2024.12-2027.11 课题骨干
@@ -235,12 +251,3 @@ Leveraging new AI technologies for RNA modeling (i.e., RNA-Talk models) that tok
 * 合肥综合性国家科学中心大健康研究院“全球遴选”项目，LX202401，cfRNA为核心的多组学在肺癌筛查上的应用研究，2024-2027 主持
 
   
-
-> * 2024-2027     Precision diagnosis and treatment and innovative therapy research for refractory autoimmune diseases (AIDs), co-PI, National Key Research and Development Program of China
-> * 2024-2027     Development of high-throughput analysis  technology of non-coding RNA and its  clinical applicationd, key member, National Key Research and Development Program of China
-> * 2024-2027     Bioinformatics study of noncoding RNA omics in precision diagnosis and treatment of autoimmune diseases, PI, National Natural Science Foundation of China
-> * 2024-2026     AI-driven drug design targeting RNAs, PI, National Natural Science Foundation of China
-> * 2022-2025     Bioinformatics study of body fluid multi-omics data integration for cancer diagnosis Novel, PI, National Natural Science Foundation of China
-> * 2022-2025     Multi-Omics study for personalized neoadjuvant therapy of HCC, co-PI, Tsinghua Precision Medicine Institute
-> * 2024-2027     cfRNA-based multi-omics application research in lung cancer screening, PI,  Hefei Comprehensive National Science Center General Health Research Institute "Global Selection" Project 
-
