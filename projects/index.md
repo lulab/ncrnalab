@@ -83,13 +83,14 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 
 ***double-stranded RNA (dsRNA):*** 著名的非编码RNA有miRNA/siRNA/piRNA这三类small RNA，他们是通过双链RNA（dsRNA）加工生成的不同RNA类型。双链RNA（double stranded RNA, dsRNA）是一种由两条互补RNA链组成的分子，RNA干扰的启动通常需要双链RNA（dsRNA），这些双链RNA可以是外源（如病毒）引入的，也可以是内源（如人类基因组里的重复序列）产生的。随着科研的进展，人们发现双链RNA（dsRNA）远不止上述3种。这些不同的dsRNAs在免疫系统中具有重要作用，尤其是在抗病毒和抗肿瘤免疫反应中。比如，srpRNA就通过癌症微环境的外泌体运输发挥细胞间的调控功能。
 
+
 <div align="middle">
 <img src="dsRNA.webp" style="zoom:50%;" />
 <br>
 <small>Different types of dsRNAs in immune response</small>
 </div>
 
-
+More Reading: [dsRNA code](https://book.ncrnalab.org/teaching/part-v.-assignments/3.rna-regulation-dsrna)
 
 
 
