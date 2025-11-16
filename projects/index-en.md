@@ -1,15 +1,16 @@
 ---
 layout: default
-title: 清华大学・鲁志实验室 科研课题 
+title: Research Projects @ Lu Lab
 description: Projects @ Lu Lab
 ---
 
-【[中文版](./index.md)】
-
----
 
 * TOC
 {:toc}
+
+---
+
+\[ **English**  \|[中文](./index.md) \]
 
 
 ## Goals 
