@@ -4,7 +4,9 @@ title: 清华大学・鲁志实验室 科研课题
 description: Projects @ Lu Lab
 ---
 
-[English Version](./index-en.md)
+\[ [English Version](./index-en.md) \]
+
+---
 
 * TOC
 {:toc}
