@@ -141,7 +141,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-### B1. RNAtarget
+### B1. RNAtalk
 
 
 <div align="middle">
@@ -158,7 +158,7 @@ We apply the above methods to precision medicine, focusing on two types of disea
 
 
 
-### B2. RNAtarget - Applications
+### B2. RNAtalk - Applications
 
 #### B2.1 **siRNA** Drug Design
 

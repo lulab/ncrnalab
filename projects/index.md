@@ -131,7 +131,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 
 
-### B1. RNAtarget
+### B1. RNAtalk
 
 
 <div align="middle">
@@ -149,7 +149,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 
 
-### B2. RNAtarget - Applications
+### B2. RNAtalk - Applications
 
 #### B2.1 **siRNA** Drug Design
 
