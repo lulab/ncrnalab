@@ -15,6 +15,7 @@ description: 清华大学・鲁志实验室
 5. 体液样本中鉴定新型exRNA生物标志物的试剂盒及配套机器学习算法 (**专利申请号：202010618721.4**)（*Nuc. Acid Res.* 2024)
 6. 痕量RNA捕获和测序技术DETECTOR-seq (**专利申请号：202210579444.X**) (*elife* 2022, *Cell Rep. Med.* 2023, *Clinic. & Tranl. Med.* 2024)
 7. 多组学 AI整合方法 **PathFormer** (**软件著作权号：2023SR0985659**) (*Bioinformatics* 2024a)
+8. 一种细胞游离RNA（cfRNA）峰区识别的AI软件 **cfPeak** （**软件著作权号：2025SR1268709**）（*Genome Biology* 2025）
 
 
 <div align="middle">
