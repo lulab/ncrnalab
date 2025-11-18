@@ -48,7 +48,7 @@ description: Projects @ Lu Lab
 
 ## Projects & Subgroups
 
-### A1. RNAfinder
+### A1. **RNAfinder**
 
 ***Discoverying novel noncoding RNAs:*** 随着测序技术的进步，尤其是单细胞、单分子水平的测序技术的发展和成熟，我们有能力从更多物种、更多组织、更多细胞类型中发现新的非编码RNA。例如，我们可以从人类基因组的各类重复区域（**Transposable Elements**）、纷繁复杂的微生物群落的宏转录组（**Meta-transcriptome of Microbes**）中发现和研究不同环境和条件下的新非编码 RNA。这些研究不仅将扩大我们对生命多样性的理解，还可能揭示新的、跨物种的生物学机制。
 
@@ -131,7 +131,7 @@ More Reading: [**dsRNA code**](https://book.ncrnalab.org/teaching/part-v.-assign
 
 
 
-### B1. RNAtalk
+### B1. **RNAtalk**
 
 
 <div align="middle">
