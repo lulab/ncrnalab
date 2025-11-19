@@ -39,7 +39,7 @@ About 20 thousand protein-coding genes in human were transcribed and tranlsated 
 
 ## Methods
 
-We work on two major research projects centered on noncoding RNA (ncRNA): I. Bioinfo-Driven **Precision Medicine**, II. AI-Driven **RNA Modeling & Drug Design**. Leveraging new **AI technologies** for **RNA modeling** (i.e., RNA-Talk models) that tokenize information at **sequence** and/or **structure** levels, we discover and decipher the various molecular interactions and biological regulatory networks mediated by RNA. 
+Leveraging new **AI technologies** for **RNA modeling** (i.e., RNA-Talk models) that tokenize information at **sequence** and/or **structure** levels, we discover and decipher the various molecular interactions and biological regulatory networks mediated by RNA. 
 
 
 <div align="middle">
@@ -50,6 +50,14 @@ We work on two major research projects centered on noncoding RNA (ncRNA): I. Bio
 
 
 ## Projects & Subgroups
+
+We work on two major research projects centered on noncoding RNA (ncRNA): I. Bioinfo-Driven **Precision Medicine**, II. AI-Driven **RNA Modeling & Drug Design**. 
+
+<div align="middle">
+  <img src="projects.webp" style="zoom:20%;" />
+  <br>
+</div>
+
 
 ### A1. RNAfinder
 

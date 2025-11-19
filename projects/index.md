@@ -37,7 +37,7 @@ description: Projects @ Lu Lab
 
 ## Methods
 
-我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. 生信驱动的**精准医疗**；II. AI驱动的**核酸模型和药物设计**。我们利用最新的**人工智能技术**从“**序列**”和“**结构**”两个不同的表征层面开发各类核酸模型，去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
+我们利用最新的**人工智能技术**从“**序列**”和“**结构**”两个不同的表征层面开发各类核酸模型，去发现和理解RNA在复杂的生物分子互作和调控网络中的作用和机制。
 
 <div align="middle">
   <img src="modeling.webp" style="zoom:50%;" />
@@ -47,6 +47,14 @@ description: Projects @ Lu Lab
 
 
 ## Projects & Subgroups
+
+我们围绕非编码 RNA（ncRNA）在两个主要的科研方向上进行探索和研究：I. 生信驱动的**精准医疗**；II. AI驱动的**核酸模型和药物设计**。
+
+<div align="middle">
+  <img src="projects.webp" style="zoom:20%;" />
+  <br>
+</div>
+
 
 ### A1. **RNAfinder**
 
